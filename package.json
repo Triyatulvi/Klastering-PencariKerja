@@ -1,0 +1,15 @@
+{
+  "name": "bismillahsemhas",
+  "version": "1.0.0",
+  "description": "It is fully responsive and built with Bootstrap 4 Framework, HTML5, CSS3, and Sass. It has a vast collection of reusable UI components and is integrated with the latest jQuery plugins.",
+  "main": "tilewind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^4.1.5"
+  }
+}

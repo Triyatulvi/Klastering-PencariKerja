@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Hasil Klastering</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-gray-100 font-sans min-h-screen flex overflow-hidden"></body>
+    <!-- Sidebar -->
+    <aside class="w-64 bg-blue-900 text-white p-6 shadow-xl flex-shrink-0">
+      <h2 class="text-2xl font-bold text-center mb-8 tracking-wide">
+        📊 Dashboard
+      </h2>
+      <ul class="space-y-2 text-sm font-medium">
+        <li
+          class="py-2 px-3 rounded-lg hover:bg-blue-700  transition-all cursor-pointer"
+          onclick="window.location.href='/'"
+        >
+          🏠 Home
+        </li>
+        <li
+          class="py-2 px-3 rounded-lg hover:bg-blue-700 bg-blue-800 transition-all cursor-pointer"
+          onclick="window.location.href='/hasil_klastering'"
+        >
+          📈 Hasil Klastering
+        </li>
+      </ul>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="flex-1 max-h-screen overflow-auto p-4 space-y-4">
+      <h1 class="text-3xl font-bold mb-6 text-blue-900">📈Hasil Klastering</h1>
+
+      {% if error %}
+      <div
+        class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded mb-4"
+      >
+        {{ error }}
+      </div>
+      {% endif %}
+
+     <!-- STEP 1: Upload dan Langsung Klastering -->
+{% if step == 'upload' %}
+<form
+  method="POST"
+  enctype="multipart/form-data"
+  class="bg-white p-6 rounded shadow-lg"
+>
+  <input type="hidden" name="step" value="upload" />
+  <div class="mb-4">
+    <label class="block mb-2 font-semibold">Upload File CSV:</label>
+    <input
+      type="file"
+      name="file"
+      accept=".csv"
+      required
+      class="block w-full border p-2 rounded"
+    />
+  </div>
+
+  
+
+  <button
+    type="submit"
+    class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded"
+  >
+    Upload & Klasterkan
+  </button>
+</form>
+      {% elif step == 'result' %}
+      <div class="bg-white p-6 rounded shadow-lg">
+        <!-- INSIGHT KLASTER -->
+        {% if cluster_insights %}
+        <div class="mb-8">
+          <div class="flex items-center mb-4">
+            <span class="text-xl mr-2">💡</span>
+            <h2 class="text-2xl font-bold text-gray-800">
+              Insight Klaster
+            </h2>
+          </div>
+          <div class="space-y-4">
+            {% for insight in cluster_insights %}
+            <div
+              class="bg-blue-50 border-l-4 border-blue-400 p-4 rounded-lg shadow-sm transition-all hover:shadow-md"
+            >
+              <p class="text-gray-800 leading-relaxed">{{ insight|safe }}</p>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
+
+        <!-- Jumlah Per Klaster -->
+        {% if cluster_counts %}
+        <div class="mb-8">
+          <h2 class="text-xl font-bold text-gray-800 mb-2">
+            Jumlah Data per Klaster
+          </h2>
+          <ul class="list-disc list-inside text-gray-700">
+            {% for cluster_id, count in cluster_counts.items() %}
+              <li>Klaster {{ cluster_id }}: {{ count }} data</li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
+
+
+        <!-- VISUALISASI -->
+        <h3 class="mt-6 text-lg font-bold text-gray-800">
+  Visualisasi Klaster
+</h3>
+<div class="mb-6 bg-gray-50 border border-gray-300 rounded p-4 mt-2">
+  <img
+    src="data:image/png;base64,{{ image_base64 }}"
+    class="w-full max-w-3xl rounded shadow"
+  />
+</div>
+
+              
+
+
+          
+
+        <!-- DATA DETAIL -->
+        {% if tables %}
+        <h3 class="mt-6 text-lg font-bold text-gray-800">
+          Data dengan Label Klaster
+        </h3>
+        <details class="bg-gray-50 border border-gray-300 rounded mt-4 p-4">
+          <summary
+            class="cursor-pointer text-blue-700 hover:underline font-medium"
+          >
+            Klik untuk melihat detail data
+          </summary>
+          <div class="overflow-x-auto mt-4">
+            <table class="table-auto w-full border border-gray-300 text-sm text-left text-gray-700">
+              <thead class="bg-blue-100 text-gray-800">
+                <tr>
+                  {% for col in uploaded_df.columns %}
+                  <th class="border px-4 py-2">{{ col }}</th>
+                  {% endfor %}
+                </tr>
+              </thead>
+              <tbody>
+                {% for row in uploaded_df.itertuples(index=False) %}
+                <tr class="hover:bg-gray-50">
+                  {% for value in row %}
+                  <td class="border px-4 py-2">{{ value }}</td>
+                  {% endfor %}
+                </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+          
+        </details>
+        <!-- TOMBOL DOWNLOAD CSV -->
+        <form action="{{ url_for('hasil_klastering') }}" method="POST">
+          <input type="hidden" name="uploaded_df" value="true" />
+          <button
+            type="submit"
+            class="mt-4 bg-blue-600 hover:bg-blue-700 text-white font-semibold px-4 py-2 rounded shadow"
+          >
+            Download CSV Hasil Klastering
+          </button>
+        </form>
+
+        {% endif %}
+      </div>
+      {% endif %}
+    </main>
+  </body>
+</html>

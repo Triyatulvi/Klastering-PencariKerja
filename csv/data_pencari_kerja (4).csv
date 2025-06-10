@@ -1,0 +1,2101 @@
+no,tingkat_pendidikan,Usia,nama_prodi,Pengalaman Kerja,Sertifikat,disabilitas,status_pernikahan,jumlah_anak
+1,SMK / MAK / Sederajat,20,Seni Karawitan,tidak ada,tidak ada,f,Belum menikah,0
+2,Strata I (S1),30,Ilmu Komunikasi,tidak ada,tidak ada,t,Belum menikah,0
+3,SMK / MAK / Sederajat,25,Teknik Kimia,tidak ada,tidak ada,f,Belum menikah,0
+4,Diploma III,42,Manajemen,tidak ada,tidak ada,f,Menikah,1
+5,Strata I (S1),26,Teknik Informatika,tidak ada,tidak ada,f,Belum menikah,0
+6,Strata I (S1),32,Hukum Keluarga (Ahwal Syakhshiyah),tidak ada,tidak ada,f,Belum menikah,0
+7,Strata I (S1),25,Manajemen,tidak ada,ada,f,Belum menikah,0
+8,SMK / MAK / Sederajat,21,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+9,Diploma III,28,Manajemen Pariwisata,tidak ada,tidak ada,f,Belum menikah,0
+10,Strata I (S1),31,Sistem Informasi,"{""Perbankan / Keuangan""}",tidak ada,f,Menikah,0
+11,Strata I (S1),33,Ilmu Administrasi Niaga,tidak ada,tidak ada,f,Belum menikah,0
+12,Diploma III,30,Manajemen Informatika,tidak ada,tidak ada,f,Belum menikah,0
+13,SLTA / MA / Sederajat,25,IPA,tidak ada,tidak ada,f,Belum menikah,0
+14,Strata I (S1),33,Teknik Industri,tidak ada,tidak ada,f,Belum menikah,0
+15,Strata I (S1),31,Agribisnis,tidak ada,tidak ada,f,Menikah,0
+16,Strata I (S1),36,Pendidikan Bahasa Inggris,tidak ada,tidak ada,f,Menikah,0
+17,SMK / MAK / Sederajat,32,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+18,Strata I (S1),30,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+19,Strata I (S1),29,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+20,Strata I (S1),25,Administrasi Niaga,tidak ada,tidak ada,f,Belum menikah,0
+21,Strata I (S1),31,Teknik Informatika,tidak ada,tidak ada,t,Belum menikah,0
+22,Strata I (S1),24,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+23,SLTA / MA / Sederajat,28,IPS,tidak ada,tidak ada,f,Duda,1
+24,SMK / MAK / Sederajat,25,Perhotelan,tidak ada,tidak ada,f,Menikah,1
+25,Strata I (S1),31,Ilmu Hukum,"{""TENAGA PROFESIONAL""}",ada,f,Belum menikah,0
+26,SLTA / MA / Sederajat,22,IPS,tidak ada,tidak ada,f,Belum menikah,0
+27,SMK / MAK / Sederajat,27,IPS,tidak ada,tidak ada,f,Belum menikah,0
+28,Diploma IV,28,Perpajakan,tidak ada,tidak ada,f,Belum menikah,0
+29,Strata II (Magister/S2),34,Manajemen,tidak ada,tidak ada,f,Menikah,0
+30,Strata I (S1),34,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+31,SLTA / MA / Sederajat,56,IPA,{Kesehatan},ada,f,Menikah,4
+32,SLTA / MA / Sederajat,27,IPA,tidak ada,tidak ada,f,Menikah,1
+33,SLTA / MA / Sederajat,31,IPS,tidak ada,tidak ada,f,Menikah,1
+34,Strata I (S1),36,Manajemen,tidak ada,tidak ada,f,Menikah,0
+35,SMK / MAK / Sederajat,37,Umum,tidak ada,tidak ada,f,Menikah,1
+36,SLTA / MA / Sederajat,36,IPS,tidak ada,tidak ada,f,Belum menikah,0
+37,Strata I (S1),27,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+38,Strata I (S1),27,Manajemen,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+39,Strata I (S1),31,Teknik Kelautan,tidak ada,tidak ada,f,Belum menikah,0
+40,Strata I (S1),28,Teknik Industri,tidak ada,tidak ada,f,Belum menikah,0
+41,Strata I (S1),34,Ilmu Politik,tidak ada,tidak ada,f,Menikah,1
+42,SMK / MAK / Sederajat,28,Teknik Otomotif,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+43,SLTA / MA / Sederajat,44,IPA,tidak ada,ada,f,Menikah,3
+44,Strata I (S1),25,Manajemen,tidak ada,ada,f,Belum menikah,0
+45,SLTA / MA / Sederajat,25,IPA,tidak ada,tidak ada,f,Belum menikah,0
+46,Strata I (S1),38,Teknik Sistem Perkapalan,tidak ada,tidak ada,f,Menikah,1
+47,Strata I (S1),26,Ilmu Hukum,tidak ada,ada,f,Belum menikah,0
+48,Strata I (S1),29,Ilmu Administrasi Publik,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+49,Strata I (S1),26,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+50,Strata I (S1),31,Agribisnis,tidak ada,tidak ada,f,Belum menikah,0
+51,Strata I (S1),30,IPA,tidak ada,tidak ada,f,Belum menikah,0
+52,Strata I (S1),25,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+53,Strata I (S1),33,Manajemen,tidak ada,tidak ada,f,Menikah,0
+54,Strata I (S1),36,Ekonomi Pembangunan,{Marketing},tidak ada,f,Menikah,1
+55,Strata I (S1),26,Manajemen,tidak ada,tidak ada,f,Belum menikah,2
+56,SLTA / MA / Sederajat,25,IPA,tidak ada,tidak ada,f,Belum menikah,0
+57,Diploma III,38,Manajemen Informatika,{{Arsitektur}tur},ada,f,Menikah,2
+58,SMK / MAK / Sederajat,32,Administrasi Perkantoran,tidak ada,tidak ada,f,Menikah,2
+59,SMK / MAK / Sederajat,28,Listrik,tidak ada,tidak ada,f,Belum menikah,0
+60,Strata I (S1),26,Ekonomi Pembangunan,tidak ada,tidak ada,f,Belum menikah,0
+61,SLTA / MA / Sederajat,24,IPA,tidak ada,tidak ada,f,Belum menikah,0
+62,Strata I (S1),26,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+63,Diploma III,31,Keperawatan,tidak ada,tidak ada,t,Menikah,1
+64,SMK / MAK / Sederajat,19,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+65,Diploma III,28,Akuntansi,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",ada,f,Belum menikah,0
+66,Strata I (S1),24,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+67,Strata I (S1),30,Ilmu Administrasi Publik,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+68,Diploma IV,32,Manajemen Pemerintah,"{""Perbankan / Keuangan""}",tidak ada,f,Menikah,0
+69,Strata I (S1),30,Ilmu Administrasi Publik,tidak ada,tidak ada,f,Belum menikah,0
+70,SMK / MAK / Sederajat,24,IPA,{Marketing},tidak ada,f,Belum menikah,0
+71,Diploma IV,25,Umum,"{""TENAGA PROFESIONAL""}",ada,f,Belum menikah,0
+72,SMK / MAK / Sederajat,38,IPS,tidak ada,tidak ada,f,Menikah,1
+73,Strata I (S1),27,Teknik Informatika,"{""Information Technology (IT)""}",tidak ada,f,Menikah,1
+74,Diploma III,29,Perhotelan,tidak ada,tidak ada,f,Belum menikah,0
+75,Strata I (S1),34,Bahasa dan Sastra Indonesia,tidak ada,tidak ada,f,Menikah,1
+76,SLTA / MA / Sederajat,20,Animasi,"{""TENAGA TATA USAHA""}",tidak ada,f,Belum menikah,0
+77,Strata I (S1),26,Sistem Informasi,"{""Lain - Lain""}",ada,f,Menikah,0
+78,Diploma III,30,Ilmu Kesehatan Masyarakat,tidak ada,tidak ada,f,Belum menikah,0
+79,Strata I (S1),32,Ilmu Kesehatan Masyarakat,tidak ada,tidak ada,f,Menikah,1
+80,Diploma III,25,Akuntansi,{Akunting},ada,f,Belum menikah,0
+81,Strata I (S1),42,Agroteknologi,"{""TENAGA USAHA PERTANIAN DAN PETERNAKAN""}",tidak ada,f,Menikah,3
+82,Strata I (S1),27,Teknik Informatika,tidak ada,tidak ada,f,Belum menikah,0
+83,Strata I (S1),26,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+84,SLTA / MA / Sederajat,41,IPS,tidak ada,tidak ada,f,Menikah,2
+85,SLTA / MA / Sederajat,25,IPA,tidak ada,tidak ada,f,Belum menikah,0
+86,SMK / MAK / Sederajat,32,Komputer Multimedia,"{""Lain - Lain""}",tidak ada,f,Menikah,2
+87,Strata I (S1),27,Ilmu Kesehatan Masyarakat,tidak ada,tidak ada,f,Menikah,0
+88,Strata I (S1),31,Agroteknologi,"{""TENAGA PENGOLAHAN DAN KERAJINAN YANG BERHUBUNGAN DENGAN ITU""}",ada,f,Belum menikah,0
+89,Strata I (S1),26,Psikologi,"{""TENAGA PROFESIONAL""}",tidak ada,f,Belum menikah,0
+90,SLTA / MA / Sederajat,21,IPA,tidak ada,tidak ada,f,Belum menikah,0
+91,SLTA / MA / Sederajat,22,IPA,tidak ada,tidak ada,f,Belum menikah,0
+92,Strata I (S1),32,Pendidikan Bahasa Inggris,tidak ada,tidak ada,f,Menikah,1
+93,SLTA / MA / Sederajat,29,IPS,tidak ada,tidak ada,f,Belum menikah,0
+94,Strata I (S1),25,Ilmu Hukum,tidak ada,ada,f,Belum menikah,0
+95,Strata I (S1),28,Teknik Industri,{Marketing},ada,f,Belum menikah,0
+96,Strata II (Magister/S2),34,Umum,{Pendidikan},tidak ada,f,Menikah,1
+97,SMK / MAK / Sederajat,19,Teknik Komputer,tidak ada,tidak ada,t,Belum menikah,0
+98,Strata I (S1),33,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+99,Strata I (S1),27,Perikanan,tidak ada,tidak ada,f,Belum menikah,0
+100,SLTA / MA / Sederajat,33,IPS,tidak ada,tidak ada,f,Belum menikah,0
+101,Strata I (S1),28,Hubungan Internasional,tidak ada,tidak ada,f,Belum menikah,0
+102,SLTA / MA / Sederajat,30,IPS,tidak ada,tidak ada,f,Belum menikah,0
+103,SLTA / MA / Sederajat,32,IPS,tidak ada,tidak ada,t,Belum menikah,0
+104,SMK / MAK / Sederajat,32,Teknik Otomotif,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,t,Menikah,2
+105,Strata I (S1),24,Teknik Informatika,tidak ada,tidak ada,f,Belum menikah,0
+106,Strata I (S1),33,Pendidikan Matematika,tidak ada,tidak ada,f,Menikah,3
+107,Tidak Memiliki Ijazah,27,Pendidikan Fisika,tidak ada,tidak ada,f,Belum menikah,0
+108,Strata I (S1),24,Sistem Informasi,tidak ada,tidak ada,f,Belum menikah,0
+109,Strata I (S1),46,Ilmu Ekonomi,tidak ada,tidak ada,f,Janda,3
+110,Diploma III,39,Ilmu Teknik Sipil,{Teknik},ada,f,Belum menikah,0
+111,SLTA / MA / Sederajat,23,IPS,tidak ada,tidak ada,f,Belum menikah,0
+112,Diploma IV,24,Teknik Elektro,"{""TEKNISI DAN ASISTEN TENAGA PROFESIONAL""}",ada,f,Belum menikah,0
+113,Strata I (S1),26,Ilmu Komunikasi,tidak ada,tidak ada,f,Menikah,1
+114,SMK / MAK / Sederajat,28,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+115,SMK / MAK / Sederajat,22,Akuntansi,tidak ada,ada,f,Belum menikah,0
+116,SLTA / MA / Sederajat,24,IPA,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Belum menikah,0
+117,Strata I (S1),34,Manajemen,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+118,Diploma III,25,Sistem Informasi,tidak ada,tidak ada,f,Belum menikah,0
+119,SMK / MAK / Sederajat,21,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+120,SMK / MAK / Sederajat,30,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+121,SMK / MAK / Sederajat,19,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+122,SLTP / MTs / Sederajat,31,Manajemen,tidak ada,tidak ada,f,Menikah,2
+123,Strata I (S1),41,Akuntansi,tidak ada,tidak ada,f,Menikah,2
+124,Strata I (S1),29,Akuntansi,"{""TENAGA PROFESIONAL""}",ada,f,Belum menikah,0
+125,SMK / MAK / Sederajat,28,IPA,"{""Perbankan / Keuangan""}",ada,f,Belum menikah,0
+126,Strata I (S1),37,Arsitektur,tidak ada,tidak ada,f,Menikah,0
+127,Strata I (S1),26,Akuntansi,tidak ada,tidak ada,f,Menikah,0
+128,Strata I (S1),26,Sastra Inggris,"{""TENAGA TATA USAHA""}",ada,f,Belum menikah,0
+129,Strata I (S1),29,Ekonomi Islam,"{""Perbankan / Keuangan""}",tidak ada,f,Menikah,1
+130,SLTA / MA / Sederajat,19,Kimia,tidak ada,tidak ada,t,Belum menikah,0
+131,Diploma III,48,Komputerisasi Akuntansi,tidak ada,tidak ada,f,Menikah,3
+132,Strata I (S1),35,Manajemen,"{""Lain - Lain""}",ada,f,Menikah,0
+133,SMK / MAK / Sederajat,20,Listrik,tidak ada,tidak ada,f,Belum menikah,0
+134,Strata I (S1),25,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+135,Diploma II,21,Ilmu Administrasi,tidak ada,tidak ada,t,Belum menikah,0
+136,Strata I (S1),28,Psikologi,"{""PEKERJA KASAR, TENAGA KEBERSIHAN, DAN TENAGA YANG BERHUBUNGAN DENGAN ITU""}",tidak ada,f,Belum menikah,0
+137,SMK / MAK / Sederajat,20,Keuangan Dan Perbankan,tidak ada,tidak ada,f,Belum menikah,0
+138,SMK / MAK / Sederajat,34,Akuntansi,tidak ada,tidak ada,f,Menikah,0
+139,Strata I (S1),32,Teknik Sipil,tidak ada,tidak ada,f,Menikah,1
+140,Strata I (S1),26,Ekonomi Islam,tidak ada,ada,f,Belum menikah,0
+141,Strata I (S1),48,Pendidikan Dokter Gigi,tidak ada,tidak ada,f,Janda,2
+142,Strata I (S1),46,Sosiologi,tidak ada,tidak ada,f,Menikah,3
+143,Strata I (S1),23,Psikologi,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+144,Strata II (Magister/S2),40,Manajemen,tidak ada,tidak ada,f,Menikah,3
+145,Strata I (S1),43,Teknik Mesin,tidak ada,tidak ada,f,Menikah,3
+146,SMK / MAK / Sederajat,21,Akuntansi,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+147,SMK / MAK / Sederajat,31,Perhotelan,{Kesehatan},tidak ada,f,Menikah,1
+148,Strata I (S1),36,Arsitektur,tidak ada,tidak ada,f,Menikah,3
+149,Strata I (S1),32,Ilmu Komunikasi,tidak ada,tidak ada,f,Menikah,1
+150,SMK / MAK / Sederajat,24,Teknik Mesin,tidak ada,ada,f,Belum menikah,0
+151,SLTA / MA / Sederajat,20,IPA,tidak ada,tidak ada,f,Belum menikah,0
+152,Strata I (S1),27,Sistem Informasi,"{""Information Technology (IT)""}",ada,f,Belum menikah,0
+153,SLTA / MA / Sederajat,28,IPS,tidak ada,tidak ada,f,Belum menikah,0
+154,SLTA / MA / Sederajat,31,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+155,SLTA / MA / Sederajat,23,IPS,tidak ada,tidak ada,f,Belum menikah,0
+156,Strata I (S1),30,Manajemen,"{""TEKNISI DAN ASISTEN TENAGA PROFESIONAL""}",tidak ada,f,Menikah,1
+157,Strata I (S1),24,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+158,SMK / MAK / Sederajat,27,Tata Boga,tidak ada,tidak ada,f,Belum menikah,0
+159,SMK / MAK / Sederajat,28,Komputer Multimedia,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+160,Strata I (S1),27,Teknik Sipil,tidak ada,tidak ada,f,Belum menikah,0
+161,Strata I (S1),27,Bimbingan Dan Konseling,tidak ada,ada,f,Belum menikah,0
+162,SMK / MAK / Sederajat,20,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+163,SMK / MAK / Sederajat,21,Komputerisasi Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+164,SLTA / MA / Sederajat,33,IPS,tidak ada,tidak ada,f,Menikah,1
+165,SMK / MAK / Sederajat,22,Listrik,tidak ada,tidak ada,f,Belum menikah,0
+166,SLTA / MA / Sederajat,37,IPA,tidak ada,tidak ada,f,Menikah,2
+167,Strata I (S1),27,Manajemen Pemasaran,tidak ada,tidak ada,f,Menikah,1
+168,SLTA / MA / Sederajat,32,IPS,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+169,Strata I (S1),25,Akuntansi,"{""Lain - Lain""}",ada,f,Belum menikah,0
+170,Diploma III,24,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+171,SMK / MAK / Sederajat,25,Ilmu Administrasi Publik,tidak ada,tidak ada,f,Menikah,0
+172,SLTA / MA / Sederajat,22,IPA,"{""TENAGA PENGOLAHAN DAN KERAJINAN YANG BERHUBUNGAN DENGAN ITU""}",tidak ada,f,Belum menikah,0
+173,Strata I (S1),26,Akuntansi,{{Arsitektur}tur},ada,f,Belum menikah,0
+174,Strata I (S1),31,Teknologi Informasi,tidak ada,tidak ada,f,Menikah,2
+175,Strata I (S1),34,Bahasa dan Sastra Indonesia,{Marketing},tidak ada,f,Menikah,3
+176,SLTA / MA / Sederajat,43,IPA,tidak ada,tidak ada,f,Menikah,2
+177,SMK / MAK / Sederajat,35,Pendidikan Islam,tidak ada,tidak ada,f,Menikah,3
+178,Strata I (S1),27,Matematika,tidak ada,tidak ada,f,Menikah,0
+179,SMK / MAK / Sederajat,36,Teknik Komputer,tidak ada,tidak ada,f,Menikah,2
+180,SLTA / MA / Sederajat,37,IPA,tidak ada,tidak ada,f,Menikah,2
+181,SMK / MAK / Sederajat,24,Teknik Kimia,tidak ada,tidak ada,f,Belum menikah,0
+182,SLTA / MA / Sederajat,25,IPS,tidak ada,tidak ada,f,Belum menikah,0
+183,Strata I (S1),30,Teknik Elektro,tidak ada,ada,f,Belum menikah,0
+184,Strata I (S1),24,Ilmu Administrasi Publik,tidak ada,ada,f,Belum menikah,0
+185,SMK / MAK / Sederajat,25,Sosial Ekonomi Pertanian,tidak ada,tidak ada,t,Belum menikah,0
+186,SLTA / MA / Sederajat,35,IPA,"{""Lain - Lain""}",tidak ada,f,Menikah,2
+187,SLTA / MA / Sederajat,22,IPA,tidak ada,tidak ada,f,Belum menikah,0
+188,Strata I (S1),27,Gizi,{Kesehatan},ada,f,Menikah,0
+189,SMK / MAK / Sederajat,22,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+190,Strata I (S1),32,Akuntansi,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+191,SLTA / MA / Sederajat,32,Sosial Ekonomi Pertanian,tidak ada,tidak ada,f,Menikah,1
+192,Strata I (S1),31,Biologi,{Pendidikan},tidak ada,f,Menikah,0
+193,Diploma III,35,Teknik Elektro,tidak ada,tidak ada,f,Menikah,1
+194,Strata I (S1),37,Teknik Elektro,tidak ada,tidak ada,f,Menikah,2
+195,Strata I (S1),31,Teknik Kimia,{Marketing},tidak ada,f,Menikah,0
+196,Strata I (S1),32,Sistem Informasi,tidak ada,tidak ada,f,Menikah,0
+197,SLTA / MA / Sederajat,38,IPS,tidak ada,tidak ada,f,Menikah,2
+198,SMK / MAK / Sederajat,21,Administrasi Perkantoran,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",ada,f,Belum menikah,0
+199,Strata I (S1),38,Teknik Industri,tidak ada,tidak ada,f,Menikah,0
+200,SMK / MAK / Sederajat,27,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,0
+201,SMK / MAK / Sederajat,21,Teknik Elektro,tidak ada,tidak ada,f,Belum menikah,0
+202,Diploma III,34,Komputerisasi Akuntansi,tidak ada,tidak ada,f,Menikah,0
+203,Strata I (S1),29,Teknik Elektro,tidak ada,tidak ada,f,Menikah,0
+204,Strata I (S1),24,Fisika,tidak ada,tidak ada,f,Belum menikah,0
+205,Strata I (S1),24,Sastra Jepang,tidak ada,ada,f,Belum menikah,0
+206,SMK / MAK / Sederajat,20,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+207,Strata I (S1),36,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+208,Strata I (S1),32,IPA,tidak ada,tidak ada,f,Belum menikah,0
+209,SMK / MAK / Sederajat,28,Teknik Komputer,tidak ada,tidak ada,f,Menikah,2
+210,SMK / MAK / Sederajat,27,Teknik Elektro,tidak ada,tidak ada,f,Belum menikah,0
+211,SMK / MAK / Sederajat,32,Teknik Informatika,tidak ada,tidak ada,f,Belum menikah,4
+212,SMK / MAK / Sederajat,30,Komputer Multimedia,tidak ada,tidak ada,f,Menikah,1
+213,Strata I (S1),25,Ilmu Komunikasi,tidak ada,ada,f,Belum menikah,0
+214,Strata I (S1),28,Matematika,tidak ada,tidak ada,f,Menikah,1
+215,SMK / MAK / Sederajat,27,Teknik Komputer,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Belum menikah,0
+216,Strata I (S1),26,Teknik Lingkungan,tidak ada,ada,f,Belum menikah,0
+217,SLTA / MA / Sederajat,33,Kesekretariatan,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+218,Strata I (S1),40,Administrasi Perkantoran,tidak ada,tidak ada,f,Menikah,3
+219,Strata I (S1),31,Teknik Informatika,tidak ada,tidak ada,f,Belum menikah,0
+220,SMK / MAK / Sederajat,21,Teknik Telekomunikasi,tidak ada,tidak ada,f,Belum menikah,0
+221,Diploma III,45,Ilmu Administrasi Negara,tidak ada,tidak ada,f,Menikah,1
+222,Strata II (Magister/S2),35,Manajemen,tidak ada,tidak ada,f,Menikah,2
+223,SLTA / MA / Sederajat,32,Umum,tidak ada,tidak ada,f,Menikah,2
+224,Strata I (S1),33,Teknik Informatika,tidak ada,ada,f,Menikah,0
+225,SMK / MAK / Sederajat,20,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+226,SMK / MAK / Sederajat,19,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+227,Strata I (S1),34,Pendidikan Bahasa Inggris,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+228,Strata I (S1),29,Ilmu Perpustakaan,tidak ada,tidak ada,f,Belum menikah,0
+229,Strata I (S1),43,Manajemen,tidak ada,tidak ada,f,Menikah,1
+230,SLTA / MA / Sederajat,25,IPA,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Belum menikah,0
+231,SMK / MAK / Sederajat,22,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+232,SMK / MAK / Sederajat,22,Akuntansi,{Akunting},ada,f,Belum menikah,0
+233,SLTA / MA / Sederajat,28,IPA,tidak ada,tidak ada,f,Belum menikah,0
+234,SMK / MAK / Sederajat,41,Listrik,tidak ada,tidak ada,f,Menikah,3
+235,Strata I (S1),26,Psikologi,"{""Information Technology (IT)""}",ada,f,Belum menikah,0
+236,Diploma IV,27,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+237,Diploma III,39,Televisi dan Film,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+238,Strata I (S1),29,Administrasi Niaga,tidak ada,tidak ada,f,Menikah,0
+239,SMK / MAK / Sederajat,40,Akuntansi,tidak ada,tidak ada,f,Menikah,1
+240,Strata I (S1),28,Ilmu Ekonomi,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+241,Strata I (S1),26,Hubungan Internasional,tidak ada,tidak ada,f,Belum menikah,0
+242,Strata I (S1),24,Sastra Prancis,{Pendidikan},ada,f,Belum menikah,0
+243,Diploma III,26,Ketatalaksanaan Pelayaran Niaga Dan Kepelabuhan,tidak ada,tidak ada,f,Belum menikah,0
+244,Strata II (Magister/S2),38,Akuntansi,"{""Perbankan / Keuangan""}",tidak ada,f,Menikah,2
+245,Strata I (S1),35,Ilmu Komunikasi,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+246,Strata I (S1),43,Perhotelan,tidak ada,ada,f,Menikah,2
+247,Strata I (S1),42,Desain Interior,tidak ada,tidak ada,f,Belum menikah,0
+248,Strata I (S1),35,Kepariwisataan,tidak ada,tidak ada,f,Menikah,4
+249,Diploma III,25,Teknika,tidak ada,tidak ada,f,Belum menikah,0
+250,Strata I (S1),34,Ilmu Komunikasi,tidak ada,tidak ada,f,Menikah,0
+251,Strata I (S1),27,Kepariwisataan,tidak ada,ada,f,Menikah,0
+252,SMK / MAK / Sederajat,28,Teknik Komputer,tidak ada,tidak ada,f,Menikah,1
+253,SMK / MAK / Sederajat,26,Ilmu Teknik Sipil,tidak ada,tidak ada,f,Belum menikah,0
+254,Strata I (S1),38,Sastra Inggris,"{""Information Technology (IT)""}",tidak ada,f,Belum menikah,0
+255,SMK / MAK / Sederajat,26,Teknik Mesin,tidak ada,tidak ada,f,Menikah,1
+256,Strata I (S1),36,Teknik Mesin,{Teknik},ada,f,Belum menikah,0
+257,SMK / MAK / Sederajat,28,IPS,tidak ada,tidak ada,f,Belum menikah,0
+258,SMK / MAK / Sederajat,34,Akuntansi,"{""Lain - Lain""}",ada,f,Menikah,2
+259,SMK / MAK / Sederajat,30,Teknik Mesin,"{""Perbankan / Keuangan""}",tidak ada,f,Menikah,0
+260,Strata I (S1),28,Manajemen,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+261,Strata I (S1),25,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+262,Strata I (S1),31,Teknik Mesin,{Teknik},tidak ada,t,Belum menikah,0
+263,Strata I (S1),28,Perpustakaan dan Arsip,tidak ada,tidak ada,f,Belum menikah,0
+264,Diploma III,30,Kebidanan,tidak ada,tidak ada,f,Belum menikah,0
+265,Strata I (S1),25,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+266,SLTA / MA / Sederajat,31,IPA,tidak ada,tidak ada,f,Menikah,1
+267,Strata I (S1),26,Matematika,tidak ada,tidak ada,f,Belum menikah,0
+268,Strata I (S1),26,Manajemen Pemasaran,"{""TENAGA PROFESIONAL""}",tidak ada,f,Belum menikah,0
+269,Strata I (S1),39,Ilmu Ekonomi,tidak ada,tidak ada,f,Menikah,1
+270,SMK / MAK / Sederajat,33,Administrasi Perkantoran,tidak ada,tidak ada,f,Menikah,2
+271,SMK / MAK / Sederajat,34,Teknik Mesin,{Marketing},tidak ada,f,Belum menikah,0
+272,Strata I (S1),25,Teknik Sipil,tidak ada,ada,f,Belum menikah,0
+273,SMK / MAK / Sederajat,22,Administrasi Perkantoran,tidak ada,tidak ada,f,Belum menikah,0
+274,Strata I (S1),34,Manajemen,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+275,Strata I (S1),24,Ilmu Komunikasi,tidak ada,tidak ada,f,Belum menikah,0
+276,Strata I (S1),30,Ilmu Hukum,{Kesehatan},tidak ada,f,Belum menikah,0
+277,SMK / MAK / Sederajat,25,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+278,Diploma IV,28,Nautika,tidak ada,ada,f,Belum menikah,0
+279,Strata II (Magister/S2),31,Manajemen Pendidikan,tidak ada,tidak ada,f,Belum menikah,0
+280,Strata I (S1),26,Teknik Mesin,{{Arsitektur}tur},tidak ada,f,Belum menikah,0
+281,SMK / MAK / Sederajat,36,IPS,tidak ada,tidak ada,f,Menikah,2
+282,Strata I (S1),23,Ilmu Sejarah,tidak ada,ada,f,Belum menikah,0
+283,SMK / MAK / Sederajat,21,IPA,tidak ada,tidak ada,f,Belum menikah,0
+284,SMK / MAK / Sederajat,28,Nautika,tidak ada,tidak ada,f,Belum menikah,0
+285,Diploma III,26,Teknik Sipil,tidak ada,ada,f,Belum menikah,0
+286,SMK / MAK / Sederajat,21,IPA,tidak ada,tidak ada,f,Belum menikah,0
+287,SMK / MAK / Sederajat,33,Teknik Mesin,tidak ada,ada,f,Menikah,1
+288,Strata II (Magister/S2),34,Manajemen,"{""TENAGA PROFESIONAL""}",ada,f,Menikah,2
+289,SMK / MAK / Sederajat,20,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+290,SMK / MAK / Sederajat,35,IPS,"{""OPERATOR DAN PERAKIT MESIN""}",tidak ada,f,Belum menikah,0
+291,Strata I (S1),29,Manajemen,"{""Perbankan / Keuangan""}",tidak ada,f,Belum menikah,0
+292,Diploma III,44,Teknik Industri,tidak ada,tidak ada,f,Menikah,2
+293,Strata I (S1),28,PSKGJ Pendidikan Pancasila dan Kewarganegaraan,"{""Lain - Lain""}",tidak ada,f,Menikah,2
+294,SMK / MAK / Sederajat,47,Keperawatan,tidak ada,tidak ada,f,Menikah,2
+295,SMK / MAK / Sederajat,29,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+296,Strata I (S1),27,Manajemen,{Akunting},tidak ada,f,Belum menikah,0
+297,SMK / MAK / Sederajat,36,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,1
+298,SLTA / MA / Sederajat,29,IPA,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+299,Strata I (S1),39,Teknik Informatika,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+300,Strata I (S1),28,Teknik Informatika,tidak ada,tidak ada,f,Belum menikah,0
+301,Diploma III,30,Manajemen Informatika,"{""Information Technology (IT)""}",ada,f,Menikah,0
+302,Strata I (S1),28,Teknik Perkapalan,tidak ada,tidak ada,f,Belum menikah,0
+303,SMK / MAK / Sederajat,19,Teknik Listrik Industri,tidak ada,tidak ada,f,Belum menikah,0
+304,SLTA / MA / Sederajat,21,IPA,tidak ada,tidak ada,f,Belum menikah,0
+305,SMK / MAK / Sederajat,23,Teknik Elektro,tidak ada,tidak ada,f,Belum menikah,0
+306,Strata I (S1),26,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+307,Strata I (S1),24,"Pendidikan Seni Drama, Tari dan Musik",tidak ada,tidak ada,f,Belum menikah,0
+308,Diploma I,20,Teknik Listrik Industri,tidak ada,ada,f,Belum menikah,0
+309,Diploma IV,25,Teknik Elektronika,tidak ada,tidak ada,f,Belum menikah,0
+310,SMK / MAK / Sederajat,32,Teknik Otomotif,"{""TENAGA TATA USAHA""}",tidak ada,f,Menikah,1
+311,Strata I (S1),38,Manajemen,tidak ada,tidak ada,f,Menikah,2
+312,SMK / MAK / Sederajat,19,Perbankan Syariah,tidak ada,ada,f,Belum menikah,0
+313,SLTA / MA / Sederajat,25,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,1
+314,Diploma III,31,Manajemen Perhotelan,{Akunting},ada,f,Belum menikah,0
+315,Strata I (S1),25,Sosiologi,tidak ada,ada,f,Belum menikah,0
+316,Strata I (S1),24,Kimia,tidak ada,tidak ada,f,Belum menikah,0
+317,Strata I (S1),29,Teknik Mesin,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+318,Strata I (S1),23,Manajemen,tidak ada,tidak ada,t,Belum menikah,0
+319,SLTA / MA / Sederajat,21,IPA,tidak ada,tidak ada,f,Belum menikah,0
+320,Strata I (S1),30,Pendidikan Islam,tidak ada,tidak ada,f,Belum menikah,0
+321,SMK / MAK / Sederajat,25,Listrik,tidak ada,tidak ada,t,Belum menikah,0
+322,SMK / MAK / Sederajat,28,Administrasi Perkantoran,tidak ada,tidak ada,f,Menikah,1
+323,SLTA / MA / Sederajat,31,IPS,tidak ada,tidak ada,f,Menikah,1
+324,SMK / MAK / Sederajat,49,Listrik,tidak ada,tidak ada,t,Menikah,0
+325,Diploma III,26,Ilmu Administrasi Negara,tidak ada,tidak ada,f,Belum menikah,0
+326,SMK / MAK / Sederajat,26,Administrasi,{Akunting},tidak ada,f,Belum menikah,0
+327,Strata I (S1),27,Ekonomi Pembangunan,tidak ada,ada,f,Belum menikah,0
+328,Strata I (S1),30,Akuntansi,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+329,Diploma III,28,Ilmu Teknik Sipil,tidak ada,tidak ada,f,Belum menikah,0
+330,Strata I (S1),28,Teknik Industri,tidak ada,tidak ada,f,Belum menikah,0
+331,Strata I (S1),32,Teknik Informatika,tidak ada,tidak ada,f,Menikah,0
+332,SLTA / MA / Sederajat,19,IPA,tidak ada,tidak ada,f,Belum menikah,0
+333,Strata I (S1),27,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+334,SLTA / MA / Sederajat,23,IPS,tidak ada,tidak ada,f,Belum menikah,0
+335,Strata I (S1),37,Manajemen,tidak ada,tidak ada,f,Menikah,1
+336,SMK / MAK / Sederajat,31,Teknik Informatika,{Teknik},tidak ada,f,Menikah,0
+337,SMK / MAK / Sederajat,26,Listrik,tidak ada,tidak ada,f,Belum menikah,0
+338,SLTA / MA / Sederajat,31,IPS,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+339,SMK / MAK / Sederajat,30,Teknik Komputer,"{""Lain - Lain""}",ada,f,Menikah,1
+340,SMK / MAK / Sederajat,22,Teknik Listrik Industri,"{""TEKNISI DAN ASISTEN TENAGA PROFESIONAL""}",tidak ada,f,Belum menikah,0
+341,Strata I (S1),38,Sistem Informasi,tidak ada,tidak ada,f,Menikah,0
+342,Strata I (S1),30,Ilmu Kesehatan Masyarakat,tidak ada,tidak ada,f,Menikah,1
+343,Strata I (S1),28,Manajemen,{Marketing},tidak ada,f,Belum menikah,0
+344,Strata I (S1),37,Teknik Kimia,tidak ada,tidak ada,f,Menikah,1
+345,Diploma III,27,Manajemen,"{""PEKERJA KASAR, TENAGA KEBERSIHAN, DAN TENAGA YANG BERHUBUNGAN DENGAN ITU""}",tidak ada,f,Menikah,1
+346,Diploma III,38,Ilmu Administrasi Negara,tidak ada,tidak ada,f,Menikah,2
+347,Strata I (S1),44,Ilmu Sejarah,tidak ada,tidak ada,f,Menikah,1
+348,SMK / MAK / Sederajat,21,Patiseri,tidak ada,tidak ada,f,Belum menikah,0
+349,Diploma III,26,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+350,SMK / MAK / Sederajat,25,Teknik Komputer,{Kesehatan},tidak ada,f,Belum menikah,0
+351,SMK / MAK / Sederajat,40,Teknik Elektro,tidak ada,tidak ada,f,Menikah,0
+352,Strata I (S1),40,Teknik Elektro,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+353,SLTA / MA / Sederajat,25,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+354,SMK / MAK / Sederajat,21,Teknik Otomotif,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Belum menikah,0
+355,Strata I (S1),31,Agribisnis,tidak ada,tidak ada,f,Menikah,1
+356,SMK / MAK / Sederajat,20,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+357,Strata I (S1),26,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+358,SMK / MAK / Sederajat,23,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+359,Strata I (S1),28,Fisioterapi,tidak ada,tidak ada,f,Menikah,0
+360,SMK / MAK / Sederajat,23,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+361,SMK / MAK / Sederajat,20,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+362,SMK / MAK / Sederajat,24,Nautika,tidak ada,tidak ada,f,Menikah,0
+363,SLTA / MA / Sederajat,29,Pendidikan Islam,tidak ada,tidak ada,f,Menikah,2
+364,SMK / MAK / Sederajat,35,Teknik Mesin,tidak ada,tidak ada,f,Menikah,3
+365,SMK / MAK / Sederajat,22,Administrasi,"{""PEKERJA KASAR, TENAGA KEBERSIHAN, DAN TENAGA YANG BERHUBUNGAN DENGAN ITU""}",tidak ada,f,Belum menikah,0
+366,Strata I (S1),27,PSKGJ Pendidikan Matematika,tidak ada,tidak ada,f,Belum menikah,0
+367,SMK / MAK / Sederajat,27,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+368,SMK / MAK / Sederajat,35,Teknik Otomotif,"{""OPERATOR DAN PERAKIT MESIN""}",tidak ada,f,Menikah,0
+369,SMK / MAK / Sederajat,23,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+370,SMK / MAK / Sederajat,31,Komputerisasi Akuntansi,tidak ada,tidak ada,f,Menikah,0
+371,SMK / MAK / Sederajat,21,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+372,SMK / MAK / Sederajat,33,Akuntansi,tidak ada,tidak ada,t,Belum menikah,0
+373,SLTA / MA / Sederajat,23,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+374,Strata I (S1),27,Teknik Elektro,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Belum menikah,0
+375,SMK / MAK / Sederajat,27,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+376,Strata I (S1),27,Teknik Informatika,tidak ada,tidak ada,t,Belum menikah,0
+377,SMK / MAK / Sederajat,22,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+378,SMK / MAK / Sederajat,19,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+379,SMK / MAK / Sederajat,21,Administrasi Perkantoran,tidak ada,tidak ada,f,Belum menikah,0
+380,Strata I (S1),32,Teknik Industri,tidak ada,tidak ada,f,Menikah,1
+381,SMK / MAK / Sederajat,25,Teknik Elektro,tidak ada,tidak ada,f,Belum menikah,0
+382,SMK / MAK / Sederajat,26,Listrik,tidak ada,tidak ada,f,Belum menikah,0
+383,SMK / MAK / Sederajat,25,Akuntansi,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+384,SLTA / MA / Sederajat,22,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+385,Strata I (S1),24,Ilmu Ekonomi,tidak ada,tidak ada,f,Belum menikah,0
+386,SMK / MAK / Sederajat,29,Ketatalaksanaan Pelayaran Niaga Dan Kepelabuhan,{Marketing},tidak ada,f,Menikah,1
+387,Strata I (S1),32,Akuntansi,tidak ada,tidak ada,f,Menikah,0
+388,SLTA / MA / Sederajat,28,IPS,tidak ada,tidak ada,f,Menikah,1
+389,SMK / MAK / Sederajat,25,Teknik Elektronika,tidak ada,tidak ada,f,Belum menikah,0
+390,SMK / MAK / Sederajat,19,Administrasi Perkantoran,tidak ada,tidak ada,f,Belum menikah,0
+391,Strata I (S1),23,Ilmu Komunikasi,tidak ada,tidak ada,f,Belum menikah,0
+392,SMK / MAK / Sederajat,36,Teknik Mesin,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Menikah,1
+393,Strata I (S1),38,Ilmu Hukum,tidak ada,tidak ada,t,Menikah,1
+394,SMK / MAK / Sederajat,30,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+395,SMK / MAK / Sederajat,34,Manajemen,"{""PEKERJA KASAR, TENAGA KEBERSIHAN, DAN TENAGA YANG BERHUBUNGAN DENGAN ITU""}",tidak ada,f,Menikah,2
+396,SLTA / MA / Sederajat,20,IPA,tidak ada,tidak ada,f,Belum menikah,0
+397,SLTA / MA / Sederajat,23,IPS,tidak ada,tidak ada,f,Belum menikah,0
+398,SMK / MAK / Sederajat,20,Manajemen Pemasaran,tidak ada,tidak ada,f,Belum menikah,0
+399,Strata I (S1),29,Teknik Industri,tidak ada,tidak ada,f,Belum menikah,0
+400,Strata I (S1),29,Manajemen,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+401,SMK / MAK / Sederajat,25,Akuntansi,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",ada,f,Belum menikah,0
+402,Strata I (S1),35,Biologi,tidak ada,tidak ada,f,Menikah,2
+403,Diploma II,21,Administrasi Perkantoran,"{""Lain - Lain""}",ada,f,Belum menikah,0
+404,SLTA / MA / Sederajat,36,IPA,tidak ada,tidak ada,f,Belum menikah,0
+405,Strata I (S1),24,Manajemen,{Marketing},ada,f,Belum menikah,0
+406,Diploma IV,33,Akuntansi,tidak ada,tidak ada,f,Menikah,1
+407,SMK / MAK / Sederajat,20,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+408,SLTA / MA / Sederajat,26,IPS,tidak ada,tidak ada,f,Belum menikah,0
+409,SLTA / MA / Sederajat,41,Manajemen Pemasaran,"{""OPERATOR DAN PERAKIT MESIN""}",tidak ada,f,Menikah,2
+410,SMK / MAK / Sederajat,23,Teknik Elektronika,"{""OPERATOR DAN PERAKIT MESIN""}",ada,f,Belum menikah,0
+411,Strata II (Magister/S2),27,Manajemen,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+412,Strata I (S1),30,PSKGJ Pendidikan Kesejahteraan Keluarga,"{""Perbankan / Keuangan""}",tidak ada,f,Menikah,0
+413,Strata I (S1),29,Teknik Informatika,tidak ada,tidak ada,f,Menikah,1
+414,SLTA / MA / Sederajat,40,IPS,tidak ada,tidak ada,f,Menikah,2
+415,SLTA / MA / Sederajat,32,Biologi,tidak ada,tidak ada,f,Belum menikah,0
+416,Strata I (S1),23,Teknik Informatika,tidak ada,ada,f,Belum menikah,0
+417,Strata I (S1),29,Pendidikan Islam,tidak ada,tidak ada,f,Menikah,0
+418,SMK / MAK / Sederajat,29,Teknik Komputer,tidak ada,tidak ada,f,Menikah,1
+419,SLTA / MA / Sederajat,22,IPA,tidak ada,tidak ada,f,Belum menikah,0
+420,SLTA / MA / Sederajat,22,IPA,tidak ada,tidak ada,f,Belum menikah,0
+421,Strata I (S1),31,Ilmu Hukum,tidak ada,tidak ada,t,Menikah,0
+422,SMK / MAK / Sederajat,32,IPA,"{""Lain - Lain""}",tidak ada,f,Menikah,2
+423,Strata I (S1),23,Sistem Komputer,"{""Lain - Lain""}",ada,f,Belum menikah,0
+424,Strata I (S1),23,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+425,Strata I (S1),31,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+426,Strata I (S1),22,Pendidikan Biologi,tidak ada,tidak ada,f,Belum menikah,0
+427,SMK / MAK / Sederajat,36,Teknik Informatika,tidak ada,tidak ada,f,Menikah,0
+428,Diploma III,26,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+429,Diploma II,29,Manajemen,tidak ada,tidak ada,f,Menikah,1
+430,Strata I (S1),26,Manajemen,{Marketing},ada,f,Belum menikah,0
+431,SMK / MAK / Sederajat,26,Teknik Komputer,"{""Lain - Lain""}",ada,f,Belum menikah,0
+432,Diploma III,23,Teknik Elektronika,tidak ada,ada,f,Belum menikah,0
+433,SMK / MAK / Sederajat,27,Teknika,tidak ada,tidak ada,f,Belum menikah,0
+434,SMK / MAK / Sederajat,23,Akuntansi,"{""Lain - Lain""}",ada,f,Belum menikah,0
+435,Diploma III,40,Kesekretariatan,tidak ada,ada,t,Menikah,2
+436,Strata I (S1),32,PSKGJ Pendidikan Bahasa Inggris,{Pendidikan},ada,f,Menikah,2
+437,Strata I (S1),29,Perikanan,"{""Lain - Lain""}",ada,f,Belum menikah,0
+438,Strata I (S1),55,Manajemen,"{""Perbankan / Keuangan""}",tidak ada,f,Menikah,0
+439,Strata I (S1),32,Manajemen,tidak ada,tidak ada,f,Menikah,0
+440,SLTA / MA / Sederajat,32,Seni Musik,tidak ada,tidak ada,f,Menikah,1
+441,Strata I (S1),29,Ekonomi Pembangunan,tidak ada,tidak ada,f,Belum menikah,0
+442,SMK / MAK / Sederajat,29,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+443,Strata I (S1),38,Manajemen,{Marketing},tidak ada,f,Menikah,1
+444,SMK / MAK / Sederajat,19,Komputer Multimedia,tidak ada,tidak ada,f,Belum menikah,0
+445,Strata I (S1),32,Akuntansi,"{""TENAGA TATA USAHA""}",tidak ada,f,Menikah,0
+446,Strata I (S1),34,Pendidikan Kepelatihan Olahraga,{Marketing},tidak ada,f,Menikah,0
+447,Diploma III,36,Manajemen Perpajakan,"{""Lain - Lain""}",ada,f,Menikah,0
+448,Diploma III,29,Analis Kesehatan,{Kesehatan},ada,f,Belum menikah,0
+449,SMK / MAK / Sederajat,22,IPS,tidak ada,ada,f,Belum menikah,0
+450,Strata I (S1),29,Pendidikan Fisika,{Pendidikan},tidak ada,f,Belum menikah,0
+451,SLTA / MA / Sederajat,21,IPS,tidak ada,tidak ada,f,Belum menikah,0
+452,Strata I (S1),26,Teknologi Pangan,tidak ada,tidak ada,f,Belum menikah,0
+453,Strata I (S1),24,Ilmu Hukum,tidak ada,ada,f,Belum menikah,0
+454,Diploma I,23,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+455,SMK / MAK / Sederajat,24,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+456,Strata I (S1),30,Hubungan Internasional,tidak ada,tidak ada,f,Belum menikah,0
+457,Strata I (S1),32,Arsitektur,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+458,Strata I (S1),26,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+459,Strata I (S1),26,Manajemen,{Akunting},ada,f,Belum menikah,0
+460,SLTA / MA / Sederajat,29,IPA,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+461,Strata II (Magister/S2),32,Perencanaan Wilayah Dan Kota,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+462,SMK / MAK / Sederajat,44,Komputer Grafis dan Cetak,tidak ada,tidak ada,f,Menikah,0
+463,Strata I (S1),26,Teknik Sipil,tidak ada,tidak ada,f,Belum menikah,0
+464,SLTA / MA / Sederajat,32,IPS,tidak ada,tidak ada,f,Belum menikah,0
+465,Strata I (S1),26,Ilmu Komunikasi,tidak ada,tidak ada,f,Belum menikah,0
+466,Strata I (S1),28,Psikologi,tidak ada,tidak ada,f,Belum menikah,0
+467,Diploma IV,27,Kebidanan,tidak ada,ada,f,Belum menikah,0
+468,SMK / MAK / Sederajat,19,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+469,SMK / MAK / Sederajat,28,Teknik Telekomunikasi,tidak ada,tidak ada,f,Menikah,0
+470,Strata II (Magister/S2),36,Teknik Informatika,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Menikah,3
+471,Strata I (S1),30,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+472,SMK / MAK / Sederajat,34,Tata Busana,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+473,Strata I (S1),25,Ilmu Komunikasi,tidak ada,tidak ada,f,Belum menikah,0
+474,Strata I (S1),23,Ilmu Hukum,"{""Lain - Lain""}",ada,f,Belum menikah,0
+475,Diploma III,26,Teknik Mesin,"{""PEKERJA KASAR, TENAGA KEBERSIHAN, DAN TENAGA YANG BERHUBUNGAN DENGAN ITU""}",tidak ada,f,Belum menikah,0
+476,Strata I (S1),37,Pendidikan Kimia,tidak ada,tidak ada,f,Menikah,1
+477,Strata I (S1),33,Sastra Inggris,tidak ada,tidak ada,f,Menikah,1
+478,Strata I (S1),25,Manajemen,"{""Lain - Lain""}",ada,f,Belum menikah,0
+479,Strata I (S1),38,Teknik Industri,tidak ada,tidak ada,f,Menikah,1
+480,SMK / MAK / Sederajat,29,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,1
+481,SMK / MAK / Sederajat,37,Akuntansi,tidak ada,tidak ada,f,Menikah,2
+482,Strata I (S1),28,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+483,SLTA / MA / Sederajat,31,IPS,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+484,SMK / MAK / Sederajat,24,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+485,SMK / MAK / Sederajat,35,Manajemen Perhotelan,tidak ada,tidak ada,f,Menikah,2
+486,Diploma III,28,Teknik Mesin,"{""OPERATOR DAN PERAKIT MESIN""}",tidak ada,f,Menikah,1
+487,SLTA / MA / Sederajat,31,Ilmu Teknik Sipil,tidak ada,tidak ada,f,Belum menikah,0
+488,SMK / MAK / Sederajat,30,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,2
+489,Strata I (S1),28,Manajemen,{Akunting},tidak ada,f,Menikah,0
+490,SLTA / MA / Sederajat,33,IPS,"{""TENAGA PROFESIONAL""}",tidak ada,f,Belum menikah,0
+491,Diploma III,31,Manajemen Informatika,"{""PEJABAT LEMBAGA LEGISLATIF, PEJABAT TINGGI, DAN MANAJER""}",tidak ada,f,Menikah,1
+492,SMK / MAK / Sederajat,33,Teknik Otomotif,tidak ada,tidak ada,t,Menikah,1
+493,SLTA / MA / Sederajat,27,IPS,tidak ada,tidak ada,f,Belum menikah,0
+494,Strata I (S1),29,Bahasa dan Sastra Indonesia,{Pendidikan},tidak ada,f,Janda,1
+495,SMK / MAK / Sederajat,25,Komputer Multimedia,tidak ada,tidak ada,f,Belum menikah,0
+496,SMK / MAK / Sederajat,36,Administrasi,"{""TENAGA PROFESIONAL""}",tidak ada,f,Menikah,2
+497,SMK / MAK / Sederajat,28,Desain Grafis,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Menikah,0
+498,SLTA / MA / Sederajat,22,IPA,tidak ada,tidak ada,f,Belum menikah,0
+499,SLTA / MA / Sederajat,19,Kewirausahaan,tidak ada,tidak ada,f,Belum menikah,0
+500,Diploma III,26,Analis Kesehatan,tidak ada,ada,f,Belum menikah,0
+501,SLTA / MA / Sederajat,23,IPS,tidak ada,tidak ada,f,Belum menikah,0
+502,SMK / MAK / Sederajat,26,Perhotelan,tidak ada,tidak ada,f,Belum menikah,0
+503,SMK / MAK / Sederajat,26,Manajemen Pemasaran,tidak ada,tidak ada,t,Belum menikah,0
+504,Strata I (S1),30,Ilmu Komunikasi,tidak ada,tidak ada,f,Menikah,1
+505,Strata I (S1),22,Ilmu Hukum,tidak ada,ada,f,Belum menikah,0
+506,SMK / MAK / Sederajat,27,Teknik Kendaraan Ringan,tidak ada,tidak ada,f,Belum menikah,0
+507,SLTA / MA / Sederajat,27,IPS,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Belum menikah,0
+508,Strata I (S1),27,Ilmu Administrasi Negara,tidak ada,tidak ada,f,Belum menikah,0
+509,Diploma III,27,Teknik Kimia,tidak ada,tidak ada,f,Belum menikah,0
+510,Strata I (S1),28,Teknik Industri,tidak ada,tidak ada,f,Belum menikah,0
+511,Strata I (S1),32,Teknik Komputer,"{""Information Technology (IT)""}",tidak ada,f,Menikah,0
+512,SMK / MAK / Sederajat,21,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+513,SMK / MAK / Sederajat,20,Komputer Multimedia,tidak ada,tidak ada,f,Belum menikah,0
+514,Strata I (S1),34,Akuntansi,tidak ada,tidak ada,f,Menikah,0
+515,Strata I (S1),25,Teknik Kimia,tidak ada,ada,f,Belum menikah,0
+516,SLTA / MA / Sederajat,22,IPS,tidak ada,tidak ada,f,Belum menikah,0
+517,SMK / MAK / Sederajat,20,Administrasi Perkantoran,"{""TENAGA PENGOLAHAN DAN KERAJINAN YANG BERHUBUNGAN DENGAN ITU""}",ada,f,Belum menikah,0
+518,Strata I (S1),41,Teknik Perkapalan,tidak ada,tidak ada,f,Menikah,1
+519,SMK / MAK / Sederajat,27,Teknik Mesin,"{""OPERATOR DAN PERAKIT MESIN""}",ada,f,Belum menikah,0
+520,Diploma III,23,Akuntansi,tidak ada,ada,f,Belum menikah,0
+521,Strata I (S1),24,Ilmu Administrasi Publik,tidak ada,tidak ada,f,Belum menikah,0
+522,Strata I (S1),25,Sosiologi,tidak ada,tidak ada,f,Belum menikah,0
+523,Strata I (S1),24,Agroteknologi,tidak ada,tidak ada,f,Belum menikah,0
+524,SMK / MAK / Sederajat,32,Teknik Komputer,tidak ada,tidak ada,f,Menikah,2
+525,SLTA / MA / Sederajat,32,IPA,tidak ada,tidak ada,f,Menikah,3
+526,SMK / MAK / Sederajat,27,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+527,Strata II (Magister/S2),30,Seni Teater,tidak ada,tidak ada,f,Menikah,0
+528,SMK / MAK / Sederajat,31,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,1
+529,SMK / MAK / Sederajat,20,Administrasi,tidak ada,tidak ada,t,Belum menikah,0
+530,Strata I (S1),24,Fisika,tidak ada,tidak ada,f,Belum menikah,0
+531,SLTA / MA / Sederajat,31,IPS,"{""TENAGA PROFESIONAL""}",tidak ada,f,Belum menikah,0
+532,Strata I (S1),39,Akuntansi,tidak ada,tidak ada,f,Menikah,2
+533,Strata I (S1),27,Ilmu Komunikasi,tidak ada,ada,f,Belum menikah,0
+534,Strata I (S1),30,Psikologi,tidak ada,tidak ada,f,Belum menikah,0
+535,Strata I (S1),33,Ilmu Hukum,tidak ada,tidak ada,f,Menikah,1
+536,Strata I (S1),29,Pendidikan Matematika,tidak ada,tidak ada,f,Belum menikah,0
+537,SMK / MAK / Sederajat,23,Sosial Ekonomi Pertanian,tidak ada,tidak ada,f,Belum menikah,0
+538,SMK / MAK / Sederajat,26,Teknik Komputer,tidak ada,tidak ada,f,Menikah,1
+539,SMK / MAK / Sederajat,25,Teknik Listrik Industri,tidak ada,tidak ada,f,Belum menikah,0
+540,SMK / MAK / Sederajat,37,Teknik Otomotif,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+541,SLTA / MA / Sederajat,27,IPS,tidak ada,tidak ada,f,Menikah,1
+542,Diploma IV,24,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+543,SMK / MAK / Sederajat,18,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+544,SMK / MAK / Sederajat,24,IPA,tidak ada,tidak ada,f,Belum menikah,0
+545,Strata I (S1),32,Ekonomi Pembangunan,"{""Information Technology (IT)""}",ada,f,Menikah,0
+546,Strata I (S1),27,Ilmu Administrasi Publik,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+547,Strata I (S1),37,Pendidikan Khusus,"{""Perbankan / Keuangan""}",ada,f,Menikah,1
+548,Strata I (S1),29,Matematika,"{""TENAGA PROFESIONAL""}",tidak ada,f,Menikah,0
+549,SLTA / MA / Sederajat,30,IPS,"{""Perbankan / Keuangan""}",tidak ada,f,Belum menikah,0
+550,SLTP / MTs / Sederajat,32,Umum,tidak ada,tidak ada,f,Menikah,1
+551,SMK / MAK / Sederajat,21,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+552,Strata I (S1),25,Ilmu Hukum,tidak ada,ada,f,Belum menikah,0
+553,Strata I (S1),26,Sastra Jerman,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",ada,f,Belum menikah,0
+554,SMK / MAK / Sederajat,26,Administrasi Perkantoran,"{""TENAGA PENGOLAHAN DAN KERAJINAN YANG BERHUBUNGAN DENGAN ITU""}",ada,f,Belum menikah,0
+555,SMK / MAK / Sederajat,23,Desain Komunikasi Visual,tidak ada,tidak ada,f,Belum menikah,0
+556,Strata I (S1),25,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+557,SMK / MAK / Sederajat,27,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,1
+558,Strata I (S1),27,Ilmu Politik,tidak ada,tidak ada,f,Belum menikah,0
+559,SLTA / MA / Sederajat,21,IPA,tidak ada,tidak ada,f,Belum menikah,0
+560,SLTA / MA / Sederajat,25,IPA,tidak ada,tidak ada,f,Belum menikah,0
+561,SMK / MAK / Sederajat,18,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+562,SLTA / MA / Sederajat,21,IPA,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+563,SLTA / MA / Sederajat,21,Bahasa dan Sastra Indonesia,tidak ada,tidak ada,f,Belum menikah,0
+564,Strata I (S1),34,Ilmu Administrasi Negara,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Menikah,2
+565,Strata I (S1),31,Akuntansi,{Kesehatan},ada,f,Belum menikah,0
+566,Strata I (S1),33,Biologi,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+567,SMK / MAK / Sederajat,33,Teknik Informatika,tidak ada,tidak ada,f,Menikah,1
+568,SLTA / MA / Sederajat,32,IPA,tidak ada,tidak ada,f,Belum menikah,0
+569,Strata I (S1),30,Ilmu Administrasi Publik,tidak ada,tidak ada,f,Menikah,1
+570,SLTA / MA / Sederajat,24,IPS,tidak ada,tidak ada,f,Belum menikah,0
+571,Strata I (S1),33,Teknik Informatika,"{""Information Technology (IT)""}",tidak ada,f,Menikah,2
+572,SMK / MAK / Sederajat,32,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,0
+573,Strata I (S1),48,Manajemen Pemerintah,tidak ada,tidak ada,f,Menikah,2
+574,SMK / MAK / Sederajat,24,Teknik Kendaraan Ringan,tidak ada,tidak ada,f,Belum menikah,0
+575,SMK / MAK / Sederajat,25,Akuntansi,"{""Lain - Lain""}",ada,f,Belum menikah,0
+576,SLTA / MA / Sederajat,29,IPS,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+577,Strata I (S1),23,Perikanan,tidak ada,tidak ada,f,Belum menikah,0
+578,Strata I (S1),28,Ilmu Hukum,"{""TENAGA TATA USAHA""}",ada,f,Belum menikah,0
+579,Strata I (S1),28,Manajemen,tidak ada,tidak ada,f,Belum menikah,2
+580,SMK / MAK / Sederajat,25,Komputerisasi Akuntansi,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",ada,f,Belum menikah,0
+581,SLTA / MA / Sederajat,21,Pendidikan Agama Islam,tidak ada,tidak ada,f,Belum menikah,0
+582,SLTA / MA / Sederajat,20,IPS,tidak ada,tidak ada,f,Belum menikah,0
+583,Diploma IV,37,Kebidanan,{Pendidikan},tidak ada,f,Menikah,2
+584,Diploma IV,28,Teknik Sipil,tidak ada,tidak ada,f,Menikah,2
+585,Diploma IV,26,Teknik Elektro,tidak ada,tidak ada,f,Belum menikah,0
+586,Strata I (S1),32,Arsitektur,{{Arsitektur}tur},tidak ada,f,Menikah,1
+587,Strata I (S1),24,Manajemen Pemasaran,tidak ada,tidak ada,f,Belum menikah,0
+588,Strata I (S1),27,Manajemen Pendidikan,tidak ada,tidak ada,f,Belum menikah,0
+589,Strata I (S1),31,Manajemen,{Akunting},tidak ada,f,Belum menikah,0
+590,Strata I (S1),31,Farmasi,tidak ada,tidak ada,f,Belum menikah,0
+591,Strata I (S1),33,Pendidikan Guru Sekolah Dasar,{Pendidikan},tidak ada,f,Menikah,1
+592,SLTA / MA / Sederajat,27,Ilmu Teknik Sipil,tidak ada,tidak ada,f,Belum menikah,0
+593,SLTA / MA / Sederajat,28,Arsitektur,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+594,Strata I (S1),28,Manajemen,"{""Lain - Lain""}",ada,f,Belum menikah,0
+595,Strata I (S1),24,Ekonomi Islam,tidak ada,tidak ada,f,Belum menikah,0
+596,Strata I (S1),24,Teknologi Informasi,tidak ada,tidak ada,f,Belum menikah,0
+597,SLTP / MTs / Sederajat,22,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+598,Strata I (S1),30,Akuntansi,"{""TENAGA TATA USAHA""}",ada,f,Belum menikah,0
+599,Strata I (S1),28,Ilmu Administrasi Niaga,tidak ada,tidak ada,f,Menikah,1
+600,Strata I (S1),37,Sistem Informasi,{Akunting},tidak ada,f,Duda,1
+601,Diploma III,28,Listrik,{Kesehatan},tidak ada,f,Menikah,0
+602,Strata I (S1),27,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+603,Strata I (S1),25,Kimia,"{""Lain - Lain""}",ada,f,Belum menikah,0
+604,Strata I (S1),23,Sistem Informasi,"{""Information Technology (IT)""}",ada,f,Belum menikah,0
+605,Strata I (S1),32,Agroteknologi,tidak ada,tidak ada,f,Menikah,1
+606,Strata I (S1),24,Teknik Industri,tidak ada,ada,f,Belum menikah,0
+607,SLTA / MA / Sederajat,22,IPA,tidak ada,tidak ada,f,Belum menikah,0
+608,Strata I (S1),29,Ilmu Komunikasi,tidak ada,tidak ada,f,Belum menikah,0
+609,Strata I (S1),25,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+610,Strata I (S1),35,Psikologi,"{""Perbankan / Keuangan""}",tidak ada,f,Menikah,1
+611,Strata I (S1),26,Teknik Elektro,tidak ada,ada,f,Belum menikah,0
+612,Strata I (S1),35,Teknik Mesin,tidak ada,tidak ada,f,Menikah,1
+613,SMK / MAK / Sederajat,21,Komputer Multimedia,tidak ada,tidak ada,f,Belum menikah,0
+614,Strata II (Magister/S2),28,Ilmu Komunikasi,{Akunting},tidak ada,f,Belum menikah,0
+615,Strata I (S1),47,Teknik Elektro,"{""Information Technology (IT)""}",ada,f,Menikah,2
+616,SMK / MAK / Sederajat,21,Listrik,tidak ada,tidak ada,f,Belum menikah,0
+617,SLTA / MA / Sederajat,40,IPS,tidak ada,tidak ada,f,Menikah,2
+618,SLTA / MA / Sederajat,24,IPS,tidak ada,ada,f,Belum menikah,0
+619,Strata I (S1),25,Ekonomi Islam,tidak ada,tidak ada,f,Belum menikah,0
+620,Diploma III,33,Teknik Mesin,{Teknik},tidak ada,f,Menikah,0
+621,SLTA / MA / Sederajat,22,IPS,tidak ada,tidak ada,f,Belum menikah,0
+622,Strata I (S1),24,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+623,SLTP / MTs / Sederajat,41,Manajemen,tidak ada,tidak ada,f,Menikah,2
+624,Strata I (S1),25,Hubungan Internasional,tidak ada,tidak ada,f,Belum menikah,0
+625,Strata I (S1),49,Pendidikan Guru Pendidikan Anak Usia Dini,tidak ada,tidak ada,f,Janda,3
+626,Strata I (S1),34,Pendidikan Seni Rupa,tidak ada,tidak ada,f,Menikah,1
+627,Diploma IV,32,Teknik Perkapalan,{Teknik},ada,f,Menikah,3
+628,Strata I (S1),31,Ilmu Administrasi Negara,{{Arsitektur}tur},tidak ada,f,Menikah,1
+629,Diploma III,25,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+630,SMK / MAK / Sederajat,26,Teknik Listrik Industri,tidak ada,tidak ada,f,Belum menikah,0
+631,Strata I (S1),35,Matematika,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+632,SMK / MAK / Sederajat,23,Akuntansi,{Akunting},ada,f,Belum menikah,0
+633,Strata I (S1),32,Sastra Jepang,"{""Perbankan / Keuangan""}",tidak ada,f,Duda,0
+634,SMK / MAK / Sederajat,22,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+635,Strata I (S1),27,Ilmu Keperawatan,tidak ada,tidak ada,f,Belum menikah,0
+636,SLTA / MA / Sederajat,25,IPA,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+637,Strata I (S1),30,Statistika,{Kesehatan},tidak ada,f,Menikah,1
+638,Strata I (S1),26,Teknik Informatika,"{""Information Technology (IT)""}",tidak ada,f,Belum menikah,0
+639,SMK / MAK / Sederajat,23,Listrik,tidak ada,tidak ada,f,Belum menikah,0
+640,SMK / MAK / Sederajat,23,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+641,Strata I (S1),28,Manajemen,tidak ada,tidak ada,f,Menikah,0
+642,SLTA / MA / Sederajat,32,IPS,tidak ada,tidak ada,f,Menikah,1
+643,Strata I (S1),31,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+644,SMK / MAK / Sederajat,36,Teknik Mesin,tidak ada,tidak ada,f,Menikah,1
+645,Strata I (S1),36,Ilmu Administrasi Publik,tidak ada,tidak ada,f,Menikah,0
+646,SLTA / MA / Sederajat,40,IPA,tidak ada,tidak ada,f,Menikah,1
+647,Strata I (S1),32,Pendidikan Bahasa Inggris,tidak ada,tidak ada,f,Menikah,2
+648,SMK / MAK / Sederajat,26,Administrasi,tidak ada,tidak ada,f,Menikah,0
+649,SLTA / MA / Sederajat,32,IPA,tidak ada,tidak ada,f,Janda,1
+650,SLTA / MA / Sederajat,22,Listrik,tidak ada,tidak ada,f,Belum menikah,0
+651,Strata I (S1),28,Manajemen,{{Arsitektur}tur},ada,f,Belum menikah,0
+652,Strata I (S1),30,Manajemen,tidak ada,tidak ada,f,Menikah,1
+653,SLTA / MA / Sederajat,21,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+654,Strata I (S1),22,Psikologi,tidak ada,tidak ada,f,Belum menikah,0
+655,Strata I (S1),26,Ekonomi Pembangunan,tidak ada,tidak ada,f,Menikah,1
+656,Diploma III,28,Akuntansi,tidak ada,ada,f,Menikah,0
+657,SMK / MAK / Sederajat,19,Profesi Akuntan,tidak ada,tidak ada,f,Belum menikah,0
+658,Strata I (S1),30,Manajemen,"{""Perbankan / Keuangan""}",tidak ada,f,Belum menikah,0
+659,SLTA / MA / Sederajat,22,IPA,tidak ada,tidak ada,f,Belum menikah,0
+660,Strata I (S1),27,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+661,Strata I (S1),25,Teknik Mesin,{Teknik},ada,f,Menikah,0
+662,Diploma IV,27,Teknik Mesin,"{""Perbankan / Keuangan""}",tidak ada,f,Menikah,0
+663,Strata I (S1),26,Administrasi Rumah Sakit,tidak ada,ada,f,Belum menikah,0
+664,Strata I (S1),24,Manajemen,tidak ada,ada,f,Belum menikah,0
+665,Strata I (S1),30,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+666,Strata I (S1),29,Pendidikan Fisika,tidak ada,tidak ada,f,Belum menikah,0
+667,Strata I (S1),29,Sistem Informasi,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Belum menikah,0
+668,Strata I (S1),28,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+669,Strata I (S1),26,Seni Tari,"{""Perbankan / Keuangan""}",ada,f,Belum menikah,0
+670,Strata I (S1),34,Teknik Mesin,{{Arsitektur}tur},tidak ada,f,Menikah,1
+671,Diploma II,36,Teknik Informatika,tidak ada,tidak ada,f,Menikah,2
+672,Diploma III,27,Ketatalaksanaan Pelayaran Niaga Dan Kepelabuhan,tidak ada,tidak ada,f,Belum menikah,0
+673,SMK / MAK / Sederajat,24,Kepariwisataan,"{""TENAGA PENGOLAHAN DAN KERAJINAN YANG BERHUBUNGAN DENGAN ITU""}",tidak ada,f,Belum menikah,0
+674,Strata I (S1),26,Manajemen,tidak ada,tidak ada,f,Menikah,0
+675,Strata I (S1),33,Pendidikan Matematika,tidak ada,tidak ada,f,Menikah,0
+676,Strata I (S1),29,Teknik Industri,tidak ada,tidak ada,t,Belum menikah,0
+677,SLTA / MA / Sederajat,33,IPS,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+678,SMK / MAK / Sederajat,29,Ilmu Komunikasi,tidak ada,tidak ada,f,Menikah,0
+679,Strata I (S1),31,Ilmu Ekonomi,tidak ada,ada,f,Belum menikah,0
+680,Strata I (S1),31,Teknik Komputer,tidak ada,tidak ada,f,Menikah,0
+681,Strata I (S1),28,Teknik Mesin,{Teknik},ada,f,Menikah,0
+682,Strata I (S1),24,Ilmu Kesehatan Masyarakat,tidak ada,tidak ada,f,Belum menikah,0
+683,Strata I (S1),28,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+684,SMK / MAK / Sederajat,20,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+685,Diploma II,22,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+686,Strata I (S1),30,Manajemen Pendidikan,"{""TENAGA TATA USAHA""}",tidak ada,f,Belum menikah,0
+687,Strata I (S1),29,Teknik Informatika,{Pendidikan},tidak ada,f,Belum menikah,0
+688,SMK / MAK / Sederajat,26,Administrasi Perkantoran,tidak ada,tidak ada,f,Belum menikah,0
+689,SMK / MAK / Sederajat,20,IPA,tidak ada,tidak ada,f,Belum menikah,0
+690,Strata I (S1),26,Ilmu Kesehatan Masyarakat,tidak ada,ada,f,Belum menikah,0
+691,Strata I (S1),33,Manajemen,tidak ada,tidak ada,f,Menikah,1
+692,Strata I (S1),23,Manajemen,tidak ada,ada,f,Belum menikah,0
+693,SLTA / MA / Sederajat,25,Akuntansi,"{""Lain - Lain""}",ada,f,Belum menikah,0
+694,SMK / MAK / Sederajat,30,Perhotelan,tidak ada,tidak ada,f,Belum menikah,0
+695,SMK / MAK / Sederajat,35,Teknik Elektro,tidak ada,tidak ada,f,Menikah,1
+696,Strata I (S1),29,Akuntansi,"{""TENAGA PROFESIONAL""}",ada,f,Menikah,0
+697,SMK / MAK / Sederajat,20,IPA,tidak ada,tidak ada,f,Belum menikah,0
+698,Diploma I,39,Pendidikan Guru Pendidikan Anak Usia Dini,tidak ada,tidak ada,f,Janda,2
+699,Diploma IV,25,Teknik Telekomunikasi,"{""Information Technology (IT)""}",ada,f,Belum menikah,0
+700,SMK / MAK / Sederajat,27,Teknik Komputer,"{""Information Technology (IT)""}",ada,f,Belum menikah,0
+701,SMK / MAK / Sederajat,25,Teknologi Informasi,"{""Information Technology (IT)""}",ada,f,Belum menikah,0
+702,SLTP / MTs / Sederajat,27,Umum,"{""PEKERJA KASAR, TENAGA KEBERSIHAN, DAN TENAGA YANG BERHUBUNGAN DENGAN ITU""}",tidak ada,f,Belum menikah,0
+703,Diploma I,39,Teknik Informatika,tidak ada,tidak ada,f,Menikah,3
+704,SLTA / MA / Sederajat,27,Umum,tidak ada,tidak ada,f,Menikah,1
+705,SMK / MAK / Sederajat,29,Teknik Komputer,tidak ada,tidak ada,f,Menikah,1
+706,SMK / MAK / Sederajat,34,Ilmu Teknik Sipil,tidak ada,tidak ada,f,Menikah,2
+707,Diploma III,34,Ilmu Keperawatan,tidak ada,tidak ada,f,Duda,0
+708,SLTA / MA / Sederajat,41,Manajemen,"{""Lain - Lain""}",tidak ada,f,Menikah,3
+709,Diploma I,23,Perpajakan,tidak ada,tidak ada,f,Belum menikah,0
+710,SMK / MAK / Sederajat,20,Teknik Sipil,"{""Lain - Lain""}",ada,f,Belum menikah,0
+711,SMK / MAK / Sederajat,19,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+712,Strata II (Magister/S2),35,Matematika,{Marketing},ada,f,Menikah,1
+713,Strata I (S1),31,Sastra Inggris,"{""Pariwisata dan Perhotelan""}",ada,f,Menikah,1
+714,Strata I (S1),25,IPA,tidak ada,tidak ada,f,Belum menikah,0
+715,SMK / MAK / Sederajat,28,Teknik Mesin,tidak ada,tidak ada,f,Menikah,2
+716,SMK / MAK / Sederajat,21,Tata Boga,tidak ada,tidak ada,f,Belum menikah,0
+717,SMK / MAK / Sederajat,20,Teknik Mesin,tidak ada,tidak ada,t,Belum menikah,0
+718,SMK / MAK / Sederajat,22,Listrik,tidak ada,tidak ada,f,Belum menikah,0
+719,Strata II (Magister/S2),42,Manajemen,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+720,SMK / MAK / Sederajat,33,Akuntansi,tidak ada,tidak ada,f,Menikah,0
+721,SLTA / MA / Sederajat,37,IPS,tidak ada,tidak ada,f,Menikah,0
+722,Diploma I,45,Komputerisasi Akuntansi,tidak ada,tidak ada,f,Menikah,2
+723,Strata I (S1),28,Teknik Sipil,"{""TEKNISI DAN ASISTEN TENAGA PROFESIONAL""}",ada,f,Menikah,1
+724,Strata I (S1),28,Akuntansi,"{""Lain - Lain""}",ada,f,Menikah,0
+725,Strata II (Magister/S2),35,Manajemen,"{""Information Technology (IT)""}",tidak ada,f,Menikah,0
+726,Strata I (S1),24,Teknik Elektro,tidak ada,tidak ada,f,Belum menikah,0
+727,Strata I (S1),42,Teknik Elektro,"{""Information Technology (IT)""}",tidak ada,f,Menikah,1
+728,Strata I (S1),27,Teknik Kimia,"{""Lain - Lain""}",ada,f,Belum menikah,0
+729,Strata I (S1),35,Pendidikan Bahasa Inggris,{Akunting},tidak ada,f,Menikah,2
+730,SLTA / MA / Sederajat,25,Pendidikan Islam,tidak ada,tidak ada,f,Belum menikah,0
+731,SLTA / MA / Sederajat,21,Teknik Otomotif,tidak ada,ada,f,Belum menikah,0
+732,SLTA / MA / Sederajat,34,IPS,{Kesehatan},tidak ada,f,Menikah,2
+733,Strata I (S1),25,Ilmu Hukum,tidak ada,ada,f,Belum menikah,0
+734,SLTA / MA / Sederajat,37,IPS,tidak ada,tidak ada,f,Menikah,2
+735,SMK / MAK / Sederajat,19,Manajemen Perusahaan,tidak ada,tidak ada,f,Belum menikah,0
+736,SLTP / MTs / Sederajat,44,Tata Boga,tidak ada,tidak ada,f,Menikah,2
+737,Strata I (S1),26,Perbankan Syariah,tidak ada,tidak ada,f,Belum menikah,0
+738,Strata I (S1),26,Manajemen,"{""Lain - Lain""}",ada,f,Belum menikah,0
+739,SMK / MAK / Sederajat,22,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+740,Strata I (S1),31,Pendidikan Guru Pendidikan Anak Usia Dini,tidak ada,tidak ada,f,Menikah,1
+741,SLTA / MA / Sederajat,29,IPS,tidak ada,tidak ada,f,Menikah,0
+742,SMK / MAK / Sederajat,26,Teknik Elektro,tidak ada,tidak ada,f,Belum menikah,0
+743,Diploma III,26,Keperawatan,tidak ada,tidak ada,f,Menikah,0
+744,Strata I (S1),30,Teknik Informatika,"{""Information Technology (IT)""}",ada,f,Menikah,1
+745,SMK / MAK / Sederajat,30,Teknik Komputer,tidak ada,tidak ada,f,Menikah,1
+746,SLTA / MA / Sederajat,23,IPA,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+747,SMK / MAK / Sederajat,22,Administrasi Perkantoran,tidak ada,tidak ada,f,Belum menikah,0
+748,SMK / MAK / Sederajat,32,Komputer Multimedia,tidak ada,tidak ada,f,Menikah,2
+749,SMK / MAK / Sederajat,36,Teknik Mesin,"{""OPERATOR DAN PERAKIT MESIN""}",tidak ada,f,Menikah,1
+750,SMK / MAK / Sederajat,26,Teknik Otomotif,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Menikah,1
+751,Strata I (S1),42,Manajemen,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Menikah,0
+752,Strata I (S1),36,Teknik Informatika,"{""Information Technology (IT)""}",tidak ada,f,Menikah,1
+753,SMK / MAK / Sederajat,23,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+754,SLTA / MA / Sederajat,23,IPS,tidak ada,tidak ada,f,Belum menikah,0
+755,Strata I (S1),29,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+756,SLTA / MA / Sederajat,29,IPA,tidak ada,tidak ada,f,Menikah,1
+757,Strata I (S1),24,Psikologi,tidak ada,tidak ada,f,Belum menikah,0
+758,SLTA / MA / Sederajat,25,IPA,tidak ada,tidak ada,f,Belum menikah,0
+759,SMK / MAK / Sederajat,20,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+760,SMK / MAK / Sederajat,35,Manajemen,tidak ada,tidak ada,f,Menikah,1
+761,SMK / MAK / Sederajat,37,Administrasi Perkantoran,tidak ada,tidak ada,f,Menikah,1
+762,Strata I (S1),26,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+763,SMK / MAK / Sederajat,30,Farmasi,tidak ada,tidak ada,f,Belum menikah,0
+764,SMK / MAK / Sederajat,26,Teknik Informatika,"{""Information Technology (IT)""}",ada,f,Belum menikah,0
+765,Diploma III,36,Manajemen Pemasaran,{Marketing},tidak ada,f,Menikah,0
+766,SMK / MAK / Sederajat,19,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+767,SMK / MAK / Sederajat,20,Teknik Informatika,tidak ada,tidak ada,f,Belum menikah,0
+768,SMK / MAK / Sederajat,26,Teknik Kimia,tidak ada,tidak ada,f,Belum menikah,0
+769,Strata I (S1),24,Psikologi,"{""TENAGA USAHA PERTANIAN DAN PETERNAKAN""}",ada,f,Belum menikah,0
+770,SMK / MAK / Sederajat,22,Desain Grafis,tidak ada,tidak ada,f,Belum menikah,0
+771,SMK / MAK / Sederajat,18,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+772,SMK / MAK / Sederajat,37,Teknik Mesin,tidak ada,tidak ada,f,Menikah,2
+773,SMK / MAK / Sederajat,34,Akuntansi,tidak ada,tidak ada,f,Menikah,1
+774,Strata I (S1),26,Teknik Industri,tidak ada,tidak ada,f,Menikah,0
+775,SLTA / MA / Sederajat,22,IPS,tidak ada,tidak ada,f,Belum menikah,0
+776,SLTA / MA / Sederajat,28,IPS,tidak ada,tidak ada,f,Belum menikah,0
+777,Strata I (S1),26,Psikologi,"{""Information Technology (IT)""}",tidak ada,f,Menikah,1
+778,SLTA / MA / Sederajat,31,IPS,tidak ada,tidak ada,f,Belum menikah,0
+779,Strata I (S1),25,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+780,Strata I (S1),26,Sosiologi,tidak ada,tidak ada,f,Belum menikah,0
+781,Strata I (S1),28,Teknologi Pendidikan,"{""TENAGA PROFESIONAL""}",tidak ada,f,Belum menikah,0
+782,SMK / MAK / Sederajat,38,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,1
+783,Strata I (S1),30,Manajemen,{Akunting},tidak ada,f,Menikah,1
+784,SMK / MAK / Sederajat,35,Desain Komunikasi Visual,tidak ada,tidak ada,f,Menikah,2
+785,Strata II (Magister/S2),30,Matematika,"{""Lain - Lain""}",ada,f,Menikah,1
+786,SMK / MAK / Sederajat,22,Sistem Informasi,tidak ada,tidak ada,f,Belum menikah,0
+787,SLTA / MA / Sederajat,25,IPA,"{""TENAGA PROFESIONAL""}",tidak ada,f,Belum menikah,0
+788,Strata I (S1),27,Umum,"{""TENAGA TATA USAHA""}",tidak ada,f,Belum menikah,0
+789,SMK / MAK / Sederajat,38,Bahasa dan Sastra Indonesia,tidak ada,tidak ada,f,Menikah,1
+790,Strata I (S1),26,Fisika,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+791,SMK / MAK / Sederajat,24,Perhotelan,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+792,SMK / MAK / Sederajat,25,Komputer Multimedia,tidak ada,tidak ada,f,Belum menikah,0
+793,Strata I (S1),23,Hubungan Internasional,tidak ada,tidak ada,f,Belum menikah,0
+794,SMK / MAK / Sederajat,23,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+795,Strata I (S1),23,Sastra Inggris,tidak ada,tidak ada,f,Belum menikah,0
+796,Strata I (S1),26,Psikologi,tidak ada,tidak ada,f,Belum menikah,0
+797,Strata I (S1),29,Sistem Informasi,tidak ada,tidak ada,f,Belum menikah,0
+798,SMK / MAK / Sederajat,34,Teknik Komputer,tidak ada,tidak ada,f,Menikah,1
+799,SLTA / MA / Sederajat,39,Manajemen,tidak ada,tidak ada,f,Duda,1
+800,SMK / MAK / Sederajat,25,Akuntansi,{Marketing},ada,f,Belum menikah,0
+801,Strata I (S1),25,Pendidikan Matematika,tidak ada,tidak ada,f,Belum menikah,0
+802,Diploma III,34,Administrasi,{Marketing},tidak ada,f,Menikah,2
+803,SMK / MAK / Sederajat,26,Listrik,tidak ada,tidak ada,f,Belum menikah,0
+804,Diploma IV,25,Teknik Sipil,{Teknik},tidak ada,f,Belum menikah,0
+805,Strata I (S1),30,Psikologi,tidak ada,tidak ada,f,Belum menikah,0
+806,SMK / MAK / Sederajat,30,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,1
+807,SMK / MAK / Sederajat,30,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+808,Diploma III,24,Teknik Manufaktur,tidak ada,tidak ada,f,Belum menikah,0
+809,SMK / MAK / Sederajat,24,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+810,SMK / MAK / Sederajat,21,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+811,Strata I (S1),26,Perbandingan Agama,tidak ada,tidak ada,f,Belum menikah,0
+812,SMK / MAK / Sederajat,21,Teknik Otomotif,{Teknik},tidak ada,f,Belum menikah,0
+813,SMK / MAK / Sederajat,32,Teknik Otomotif,{{Arsitektur}tur},ada,f,Belum menikah,0
+814,SMK / MAK / Sederajat,22,Akuntansi,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Belum menikah,0
+815,Diploma III,31,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+816,SMK / MAK / Sederajat,45,Teknik Elektro,tidak ada,tidak ada,f,Menikah,1
+817,SMK / MAK / Sederajat,22,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+818,SMK / MAK / Sederajat,30,Ilmu Komunikasi,tidak ada,ada,f,Menikah,1
+819,SMK / MAK / Sederajat,26,Komputer Multimedia,tidak ada,tidak ada,f,Belum menikah,0
+820,Strata I (S1),25,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+821,SMK / MAK / Sederajat,33,IPA,tidak ada,tidak ada,f,Menikah,1
+822,Diploma III,24,Perpajakan,tidak ada,tidak ada,f,Belum menikah,0
+823,Strata I (S1),32,Manajemen,"{""Lain - Lain""}",tidak ada,f,Duda,0
+824,Strata II (Magister/S2),28,Manajemen,"{""Lain - Lain""}",ada,f,Belum menikah,0
+825,Strata I (S1),27,Manajemen,{Akunting},ada,f,Belum menikah,0
+826,Strata I (S1),26,Teknik Industri,{Teknik},ada,f,Belum menikah,0
+827,Strata I (S1),27,Teknik Industri,tidak ada,tidak ada,f,Belum menikah,0
+828,Diploma III,22,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+829,SLTA / MA / Sederajat,32,Ilmu Kesejahteraan Sosial,tidak ada,tidak ada,f,Belum menikah,0
+830,SLTA / MA / Sederajat,24,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+831,Diploma I,48,Administrasi,tidak ada,tidak ada,f,Menikah,2
+832,SMK / MAK / Sederajat,22,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+833,SMK / MAK / Sederajat,22,Televisi dan Film,tidak ada,tidak ada,f,Belum menikah,0
+834,Strata I (S1),25,Teknik Elektronika,tidak ada,tidak ada,f,Belum menikah,0
+835,Strata I (S1),30,Manajemen,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+836,Strata I (S1),35,Sistem Informasi,{{Arsitektur}tur},tidak ada,f,Menikah,2
+837,Strata I (S1),36,Akuntansi,tidak ada,tidak ada,f,Menikah,2
+838,Strata I (S1),33,Manajemen,tidak ada,tidak ada,f,Menikah,2
+839,SMK / MAK / Sederajat,23,Tata Busana,tidak ada,tidak ada,f,Belum menikah,0
+840,SLTA / MA / Sederajat,35,IPA,tidak ada,tidak ada,f,Menikah,2
+841,SLTA / MA / Sederajat,24,IPS,tidak ada,tidak ada,t,Belum menikah,0
+842,SLTA / MA / Sederajat,36,IPA,tidak ada,tidak ada,f,Menikah,2
+843,Strata I (S1),31,Ekonomi Pembangunan,tidak ada,tidak ada,f,Belum menikah,0
+844,Strata I (S1),26,Pendidikan Biologi,tidak ada,tidak ada,f,Belum menikah,0
+845,Strata I (S1),28,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+846,SMK / MAK / Sederajat,26,Komputerisasi Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+847,SMK / MAK / Sederajat,24,Komputer Grafis dan Cetak,tidak ada,tidak ada,f,Menikah,1
+848,SMK / MAK / Sederajat,23,Tata Busana,tidak ada,tidak ada,f,Belum menikah,0
+849,SMK / MAK / Sederajat,33,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+850,Strata I (S1),25,Ilmu Kesehatan Masyarakat,tidak ada,tidak ada,f,Belum menikah,0
+851,Strata I (S1),28,Ekonomi Pembangunan,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+852,SMK / MAK / Sederajat,21,Tata Busana,tidak ada,tidak ada,f,Belum menikah,0
+853,Strata I (S1),30,Profesi Ners,tidak ada,tidak ada,f,Belum menikah,0
+854,Diploma III,39,Bahasa Inggris,tidak ada,tidak ada,f,Menikah,2
+855,Strata I (S1),26,Pendidikan Fisika,tidak ada,tidak ada,f,Belum menikah,0
+856,Strata I (S1),27,Sistem Informasi,tidak ada,tidak ada,f,Belum menikah,0
+857,SMK / MAK / Sederajat,19,Manajemen,"{""Perbankan / Keuangan""}",ada,f,Belum menikah,0
+858,Strata I (S1),24,Sastra Inggris,tidak ada,tidak ada,f,Belum menikah,0
+859,SMK / MAK / Sederajat,22,Sosial Ekonomi Pertanian,tidak ada,tidak ada,f,Belum menikah,0
+860,SMK / MAK / Sederajat,21,Teknik Kendaraan Ringan,tidak ada,tidak ada,f,Belum menikah,0
+861,Strata I (S1),25,Akuntansi,{Akunting},ada,f,Menikah,0
+862,Tidak Memiliki Ijazah,27,Kewirausahaan,tidak ada,tidak ada,f,Menikah,2
+863,Strata II (Magister/S2),31,Manajemen,"{""Information Technology (IT)""}",ada,f,Belum menikah,0
+864,SLTA / MA / Sederajat,23,IPA,tidak ada,tidak ada,f,Belum menikah,0
+865,Diploma IV,28,Agribisnis,{Manager},tidak ada,f,Menikah,1
+866,SLTA / MA / Sederajat,31,Manajemen Pemasaran,tidak ada,tidak ada,f,Belum menikah,0
+867,SMK / MAK / Sederajat,32,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,0
+868,Strata I (S1),23,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+869,Diploma I,33,Administrasi,tidak ada,tidak ada,f,Menikah,2
+870,Strata I (S1),25,Manajemen,"{""Lain - Lain""}",ada,f,Belum menikah,0
+871,Strata I (S1),28,Arsitektur,tidak ada,tidak ada,f,Belum menikah,0
+872,SMK / MAK / Sederajat,32,Umum,tidak ada,tidak ada,f,Belum menikah,0
+873,SMK / MAK / Sederajat,26,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+874,SMK / MAK / Sederajat,24,Teknik Mesin,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+875,Strata I (S1),31,Ilmu Perpustakaan,tidak ada,tidak ada,f,Menikah,1
+876,SMK / MAK / Sederajat,22,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+877,Strata I (S1),30,Pendidikan Islam,tidak ada,tidak ada,f,Menikah,2
+878,SMK / MAK / Sederajat,24,Sastra Jepang,tidak ada,tidak ada,f,Belum menikah,0
+879,Diploma III,34,Bahasa Inggris,tidak ada,tidak ada,f,Menikah,1
+880,Strata I (S1),25,Manajemen,tidak ada,tidak ada,t,Belum menikah,0
+881,Strata I (S1),28,Teknik Perkapalan,tidak ada,tidak ada,f,Belum menikah,0
+882,Strata I (S1),25,Hukum Ekonomi Syariah,tidak ada,tidak ada,f,Belum menikah,0
+883,Strata I (S1),28,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+884,Strata II (Magister/S2),30,Manajemen Informatika,"{""Information Technology (IT)""}",ada,f,Menikah,1
+885,Strata I (S1),27,Ilmu Politik,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+886,Strata I (S1),29,Kebidanan,tidak ada,tidak ada,f,Belum menikah,0
+887,Strata I (S1),30,Administrasi Niaga,tidak ada,tidak ada,f,Menikah,1
+888,SMK / MAK / Sederajat,24,Teknik Komputer,tidak ada,tidak ada,t,Belum menikah,0
+889,Strata I (S1),32,Pendidikan Agama Islam,tidak ada,tidak ada,f,Menikah,2
+890,Strata I (S1),32,Keperawatan,{Kesehatan},ada,f,Menikah,0
+891,SMK / MAK / Sederajat,27,Analis Kesehatan,"{""PEKERJA KASAR, TENAGA KEBERSIHAN, DAN TENAGA YANG BERHUBUNGAN DENGAN ITU""}",tidak ada,f,Menikah,1
+892,SMK / MAK / Sederajat,20,Teknik Kendaraan Ringan,tidak ada,tidak ada,f,Belum menikah,0
+893,SLTA / MA / Sederajat,18,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+894,Strata I (S1),30,Perencanaan Wilayah Dan Kota,tidak ada,tidak ada,f,Belum menikah,0
+895,SMK / MAK / Sederajat,22,Komputer Multimedia,tidak ada,tidak ada,f,Belum menikah,0
+896,SMK / MAK / Sederajat,23,Perhotelan,tidak ada,tidak ada,f,Belum menikah,0
+897,Strata I (S1),27,Sosial Ekonomi Pertanian,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+898,Strata I (S1),32,Manajemen,tidak ada,tidak ada,f,Menikah,2
+899,Strata I (S1),25,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+900,Diploma III,27,Manajemen Informatika,tidak ada,tidak ada,f,Belum menikah,0
+901,SLTA / MA / Sederajat,41,Biologi,tidak ada,tidak ada,f,Menikah,2
+902,SLTA / MA / Sederajat,27,IPS,tidak ada,tidak ada,t,Belum menikah,0
+903,Strata I (S1),25,Sistem Informasi,"{""Information Technology (IT)""}",tidak ada,f,Menikah,0
+904,Strata I (S1),29,Manajemen,tidak ada,tidak ada,f,Menikah,0
+905,Strata I (S1),32,Ilmu Hukum,"{""Lain - Lain""}",ada,f,Menikah,1
+906,SMK / MAK / Sederajat,20,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+907,Strata I (S1),25,Bahasa dan Sastra Indonesia,tidak ada,ada,f,Belum menikah,0
+908,Diploma IV,29,Rekam Medik dan Informasi Kesehatan,tidak ada,tidak ada,f,Menikah,0
+909,Strata I (S1),39,Manajemen,tidak ada,tidak ada,f,Menikah,2
+910,Strata I (S1),30,Televisi dan Film,tidak ada,tidak ada,f,Belum menikah,0
+911,Strata I (S1),31,Akuntansi,tidak ada,tidak ada,f,Menikah,2
+912,Strata I (S1),28,Desain Komunikasi Visual,"{""TENAGA PROFESIONAL""}",ada,f,Belum menikah,0
+913,SLTA / MA / Sederajat,24,IPA,tidak ada,tidak ada,f,Belum menikah,0
+914,Strata I (S1),26,Hubungan Internasional,tidak ada,tidak ada,f,Belum menikah,0
+915,Strata I (S1),28,Fisika,tidak ada,ada,f,Menikah,0
+916,SMK / MAK / Sederajat,26,Teknik Kimia,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+917,Strata I (S1),26,Teknik Industri,tidak ada,tidak ada,f,Belum menikah,0
+918,Strata I (S1),31,Ilmu Administrasi Publik,{Akunting},tidak ada,f,Menikah,0
+919,Diploma III,24,Manajemen Pemasaran,tidak ada,tidak ada,f,Belum menikah,0
+920,SMK / MAK / Sederajat,30,Manajemen Pemasaran,"{""OPERATOR DAN PERAKIT MESIN""}",ada,f,Menikah,1
+921,Strata I (S1),26,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+922,Strata I (S1),39,Teknologi Informasi,{Pendidikan},tidak ada,f,Menikah,2
+923,SMK / MAK / Sederajat,21,Teknik Komputer,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+924,SMK / MAK / Sederajat,27,Teknik Komputer,tidak ada,tidak ada,f,Menikah,1
+925,Strata I (S1),29,Pendidikan Ekonomi,"{""Perbankan / Keuangan""}",ada,f,Menikah,0
+926,Diploma III,34,Kebidanan,tidak ada,tidak ada,f,Menikah,2
+927,Strata I (S1),30,Ilmu Komunikasi,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+928,SLTA / MA / Sederajat,28,IPS,{Marketing},tidak ada,f,Belum menikah,0
+929,Strata I (S1),30,Sosiologi,"{""TENAGA PROFESIONAL""}",tidak ada,f,Menikah,0
+930,SMK / MAK / Sederajat,29,Manajemen,tidak ada,tidak ada,f,Menikah,0
+931,Strata I (S1),43,Pendidikan Dokter,tidak ada,tidak ada,f,Menikah,2
+932,Strata I (S1),27,Teknik Sipil,tidak ada,tidak ada,f,Belum menikah,0
+933,Strata I (S1),23,Ilmu Komunikasi,tidak ada,tidak ada,f,Belum menikah,0
+934,Strata I (S1),37,Profesi Dokter,tidak ada,tidak ada,f,Belum menikah,0
+935,Strata I (S1),23,Manajemen,tidak ada,ada,f,Belum menikah,0
+936,SLTA / MA / Sederajat,28,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,0
+937,SMK / MAK / Sederajat,21,Desain Komunikasi Visual,tidak ada,tidak ada,f,Belum menikah,1
+938,SMK / MAK / Sederajat,25,Seni Tari,"{""Lain - Lain""}",ada,f,Belum menikah,0
+939,SMK / MAK / Sederajat,20,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+940,Strata I (S1),24,Teknologi Pangan,tidak ada,ada,f,Belum menikah,0
+941,Strata I (S1),25,Teknik Informatika,"{""Information Technology (IT)""}",tidak ada,f,Belum menikah,0
+942,SLTA / MA / Sederajat,25,IPS,tidak ada,ada,f,Belum menikah,0
+943,SMK / MAK / Sederajat,29,Teknik Perkapalan,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+944,Strata I (S1),39,Ilmu Hukum,tidak ada,tidak ada,f,Menikah,2
+945,Strata I (S1),34,Ilmu Hukum,tidak ada,tidak ada,f,Menikah,2
+946,SLTA / MA / Sederajat,24,IPA,tidak ada,tidak ada,f,Belum menikah,0
+947,SMK / MAK / Sederajat,20,Teknik Elektro,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+948,SLTA / MA / Sederajat,35,IPA,tidak ada,tidak ada,f,Menikah,2
+949,Strata I (S1),27,Ilmu Kesehatan Masyarakat,tidak ada,tidak ada,f,Belum menikah,0
+950,Diploma IV,29,Kepariwisataan,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Menikah,1
+951,Strata I (S1),27,Ekonomi Pembangunan,"{""TENAGA PROFESIONAL""}",ada,f,Belum menikah,0
+952,Strata I (S1),26,Ilmu Politik,{Marketing},ada,f,Belum menikah,0
+953,Strata I (S1),34,Ilmu Kesehatan Masyarakat,tidak ada,tidak ada,f,Menikah,1
+954,Strata I (S1),29,Teknik Pertanian,tidak ada,tidak ada,f,Belum menikah,0
+955,Strata I (S1),25,Ilmu Hukum,tidak ada,ada,f,Menikah,0
+956,Diploma III,25,Ketatalaksanaan Pelayaran Niaga Dan Kepelabuhan,"{""TENAGA PROFESIONAL""}",ada,f,Belum menikah,0
+957,SMK / MAK / Sederajat,29,Teknik Informatika,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+958,SLTA / MA / Sederajat,27,Teknik Elektro,tidak ada,tidak ada,f,Menikah,1
+959,Strata I (S1),29,Agroteknologi,tidak ada,tidak ada,t,Belum menikah,0
+960,SLTA / MA / Sederajat,21,IPS,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+961,Strata I (S1),32,Teknologi Informasi,{Pendidikan},tidak ada,f,Menikah,0
+962,SMK / MAK / Sederajat,45,Teknik Mesin Kapal,tidak ada,tidak ada,f,Duda,3
+963,SMK / MAK / Sederajat,19,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+964,Strata I (S1),26,Ilmu Kesehatan Masyarakat,"{""Lain - Lain""}",ada,f,Belum menikah,0
+965,Strata I (S1),26,Administrasi Niaga,{Kesehatan},tidak ada,f,Belum menikah,0
+966,Diploma I,29,Manajemen,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Belum menikah,0
+967,SLTA / MA / Sederajat,26,IPA,{Marketing},tidak ada,f,Menikah,1
+968,Strata I (S1),24,Teknik Industri,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+969,Strata I (S1),26,Teknik Lingkungan,tidak ada,tidak ada,f,Belum menikah,0
+970,SLTA / MA / Sederajat,23,Bahasa dan Sastra Indonesia,tidak ada,tidak ada,f,Belum menikah,0
+971,SLTA / MA / Sederajat,25,IPS,tidak ada,tidak ada,f,Menikah,1
+972,Strata I (S1),32,Keperawatan,{Kesehatan},tidak ada,f,Belum menikah,0
+973,Strata I (S1),23,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+974,SLTA / MA / Sederajat,40,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+975,SLTA / MA / Sederajat,32,Sosial Ekonomi Pertanian,tidak ada,tidak ada,t,Menikah,1
+976,Strata I (S1),36,Ilmu Administrasi Niaga,"{""Lain - Lain""}",tidak ada,f,Menikah,2
+977,Diploma III,26,Teknik Elektro,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+978,Strata I (S1),25,Teknologi Pangan,tidak ada,tidak ada,f,Belum menikah,0
+979,SMK / MAK / Sederajat,21,Teknik Sipil,tidak ada,tidak ada,f,Belum menikah,0
+980,SLTA / MA / Sederajat,25,IPS,tidak ada,tidak ada,f,Belum menikah,0
+981,Strata I (S1),30,Televisi dan Film,tidak ada,tidak ada,f,Belum menikah,0
+982,Strata I (S1),25,Ilmu Administrasi Negara,tidak ada,tidak ada,f,Menikah,1
+983,SMK / MAK / Sederajat,28,Teknik Komputer,tidak ada,tidak ada,f,Menikah,1
+984,SMK / MAK / Sederajat,27,IPA,tidak ada,tidak ada,f,Belum menikah,0
+985,SLTA / MA / Sederajat,26,Desain Komunikasi Visual,{Teknik},tidak ada,f,Belum menikah,0
+986,SMK / MAK / Sederajat,20,Arsitektur,tidak ada,tidak ada,f,Belum menikah,0
+987,SMK / MAK / Sederajat,22,IPS,tidak ada,tidak ada,f,Belum menikah,0
+988,Strata I (S1),30,Ilmu Manajemen,tidak ada,tidak ada,f,Menikah,0
+989,Strata I (S1),33,Ilmu Komunikasi,tidak ada,tidak ada,f,Menikah,1
+990,Strata I (S1),28,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+991,Strata I (S1),27,Teknik Informatika,tidak ada,tidak ada,f,Menikah,1
+992,SMK / MAK / Sederajat,29,Teknik Elektro,"{""Lain - Lain""}",ada,f,Menikah,0
+993,Strata I (S1),24,Teknika,tidak ada,tidak ada,f,Belum menikah,0
+994,SMK / MAK / Sederajat,20,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+995,SMK / MAK / Sederajat,31,Teknik Komputer,tidak ada,tidak ada,f,Menikah,1
+996,SLTA / MA / Sederajat,32,IPS,tidak ada,tidak ada,f,Menikah,2
+997,Strata I (S1),27,Ilmu Ekonomi,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+998,Strata I (S1),29,Manajemen,tidak ada,tidak ada,f,Menikah,1
+999,SLTA / MA / Sederajat,23,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1000,SLTA / MA / Sederajat,39,IPS,tidak ada,tidak ada,f,Menikah,1
+1001,SMK / MAK / Sederajat,21,Manajemen Pemasaran,tidak ada,tidak ada,f,Belum menikah,0
+1002,Strata I (S1),29,Fisika,tidak ada,tidak ada,f,Menikah,1
+1003,Strata I (S1),27,Teknik Informatika,tidak ada,tidak ada,f,Belum menikah,0
+1004,SLTA / MA / Sederajat,24,IPS,"{""OPERATOR DAN PERAKIT MESIN""}",tidak ada,f,Belum menikah,0
+1005,SLTA / MA / Sederajat,31,Bahasa dan Sastra Indonesia,tidak ada,tidak ada,f,Menikah,1
+1006,SMK / MAK / Sederajat,20,Kepariwisataan,tidak ada,tidak ada,f,Belum menikah,0
+1007,Strata I (S1),26,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+1008,Strata I (S1),27,Pendidikan Khusus,{Pendidikan},tidak ada,f,Menikah,0
+1009,Strata I (S1),38,Ilmu Komunikasi,"{""Information Technology (IT)""}",tidak ada,f,Menikah,2
+1010,SLTA / MA / Sederajat,26,IPS,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1011,Strata I (S1),28,Manajemen,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",ada,f,Belum menikah,0
+1012,Diploma III,31,Teknologi Informasi,"{""Information Technology (IT)""}",tidak ada,f,Menikah,1
+1013,SMK / MAK / Sederajat,19,Seni Musik,tidak ada,tidak ada,f,Belum menikah,0
+1014,Strata I (S1),33,Sastra Inggris,tidak ada,tidak ada,f,Menikah,1
+1015,Strata I (S1),32,Manajemen,tidak ada,tidak ada,f,Menikah,2
+1016,Strata I (S1),27,Psikologi,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1017,SLTA / MA / Sederajat,24,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1018,SLTA / MA / Sederajat,29,IPA,"{""TEKNISI DAN ASISTEN TENAGA PROFESIONAL""}",tidak ada,f,Belum menikah,0
+1019,Strata I (S1),25,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+1020,SMK / MAK / Sederajat,26,Teknik Otomotif,"{""Perbankan / Keuangan""}",tidak ada,f,Belum menikah,0
+1021,SLTA / MA / Sederajat,56,IPS,tidak ada,tidak ada,f,Menikah,5
+1022,Diploma III,38,Perhotelan,tidak ada,tidak ada,f,Menikah,1
+1023,SMK / MAK / Sederajat,32,Administrasi,tidak ada,tidak ada,f,Belum menikah,0
+1024,Strata I (S1),23,Administrasi Niaga,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1025,Diploma III,35,Kesekretariatan,{Kesehatan},tidak ada,f,Menikah,1
+1026,Strata I (S1),24,Teknik Telekomunikasi,tidak ada,tidak ada,f,Belum menikah,0
+1027,Strata I (S1),29,PSKGJ Pendidikan Matematika,tidak ada,tidak ada,f,Menikah,1
+1028,SLTA / MA / Sederajat,21,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+1029,Strata I (S1),25,Teknik Informatika,tidak ada,tidak ada,f,Belum menikah,0
+1030,SMK / MAK / Sederajat,20,Sistem Komputer,tidak ada,tidak ada,f,Belum menikah,0
+1031,SMK / MAK / Sederajat,43,Perhotelan,{Kesehatan},tidak ada,f,Menikah,2
+1032,Diploma III,29,Bahasa Inggris,tidak ada,ada,f,Menikah,0
+1033,SMK / MAK / Sederajat,28,Komputer Multimedia,tidak ada,tidak ada,f,Belum menikah,0
+1034,Strata I (S1),26,IPA,{Pendidikan},tidak ada,f,Belum menikah,0
+1035,Strata I (S1),26,Gizi,tidak ada,tidak ada,f,Belum menikah,0
+1036,SMK / MAK / Sederajat,23,Administrasi Perkantoran,{Kesehatan},ada,f,Belum menikah,0
+1037,SLTA / MA / Sederajat,25,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1038,SMK / MAK / Sederajat,23,Komputerisasi Akuntansi,tidak ada,ada,f,Belum menikah,0
+1039,SMK / MAK / Sederajat,28,Komputer Multimedia,tidak ada,tidak ada,f,Menikah,1
+1040,Diploma III,24,Gizi,{Kesehatan},tidak ada,f,Belum menikah,0
+1041,SLTA / MA / Sederajat,20,IPS,tidak ada,tidak ada,f,Belum menikah,0
+1042,Strata I (S1),22,Teknik Industri,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1043,Diploma III,28,Administrasi Niaga,"{""TENAGA USAHA PERTANIAN DAN PETERNAKAN""}",tidak ada,f,Menikah,1
+1044,SLTA / MA / Sederajat,31,IPS,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+1045,Diploma III,38,Komputerisasi Akuntansi,tidak ada,ada,f,Duda,0
+1046,SLTA / MA / Sederajat,24,Biologi,tidak ada,tidak ada,f,Menikah,2
+1047,Strata I (S1),38,Manajemen,tidak ada,tidak ada,f,Menikah,1
+1048,SMK / MAK / Sederajat,31,IPS,tidak ada,tidak ada,f,Menikah,0
+1049,Strata I (S1),24,Manajemen Zakat dan Wakaf,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1050,Strata I (S1),36,Ilmu Hukum,tidak ada,tidak ada,f,Menikah,2
+1051,Strata I (S1),25,Teknik Industri,tidak ada,tidak ada,f,Belum menikah,0
+1052,Strata I (S1),26,Pendidikan Olahraga,tidak ada,tidak ada,f,Belum menikah,0
+1053,SMK / MAK / Sederajat,24,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+1054,Strata I (S1),24,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1055,Strata I (S1),24,Hukum Keluarga (Ahwal Syakhshiyah),tidak ada,tidak ada,f,Belum menikah,0
+1056,SLTA / MA / Sederajat,23,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+1057,Diploma III,24,Ilmu Perpustakaan,tidak ada,tidak ada,f,Belum menikah,0
+1058,SLTA / MA / Sederajat,36,Manajemen Pendidikan,tidak ada,tidak ada,t,Menikah,3
+1059,Strata I (S1),30,Teknik Informatika,{Kesehatan},tidak ada,f,Menikah,0
+1060,SLTA / MA / Sederajat,21,Listrik,tidak ada,tidak ada,f,Belum menikah,0
+1061,SMK / MAK / Sederajat,20,Akuntansi,tidak ada,ada,f,Belum menikah,0
+1062,SMK / MAK / Sederajat,40,Teknik Mesin,{Marketing},tidak ada,f,Menikah,1
+1063,Strata I (S1),30,Akuntansi,{Marketing},tidak ada,f,Belum menikah,0
+1064,SMK / MAK / Sederajat,20,Teknik Elektro,{Teknik},ada,f,Belum menikah,0
+1065,Strata I (S1),23,Teknik Kimia,tidak ada,tidak ada,f,Belum menikah,0
+1066,Strata I (S1),23,Administrasi Niaga,tidak ada,ada,f,Belum menikah,0
+1067,Strata I (S1),27,Ilmu Komunikasi,"{""Lain - Lain""}",ada,f,Menikah,0
+1068,SMK / MAK / Sederajat,41,Teknik Mesin,tidak ada,tidak ada,f,Menikah,2
+1069,SLTA / MA / Sederajat,27,IPS,tidak ada,tidak ada,f,Belum menikah,0
+1070,SMK / MAK / Sederajat,28,Teknik Mesin,tidak ada,tidak ada,f,Menikah,1
+1071,SMK / MAK / Sederajat,29,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1072,Strata I (S1),27,Teknik Industri,tidak ada,tidak ada,f,Menikah,1
+1073,Strata I (S1),26,Pendidikan Guru Sekolah Dasar,tidak ada,tidak ada,f,Belum menikah,0
+1074,SMK / MAK / Sederajat,25,Teknik Elektro,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1075,SMK / MAK / Sederajat,23,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1076,SMK / MAK / Sederajat,21,Kimia,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1077,Strata II (Magister/S2),28,Manajemen,tidak ada,ada,f,Belum menikah,0
+1078,SLTA / MA / Sederajat,56,IPA,tidak ada,tidak ada,f,Menikah,2
+1079,SLTA / MA / Sederajat,41,IPS,tidak ada,tidak ada,f,Menikah,3
+1080,Diploma III,31,Nautika,"{""TENAGA PROFESIONAL""}",ada,f,Menikah,1
+1081,Strata I (S1),28,Teknik Sipil,{Teknik},tidak ada,f,Belum menikah,0
+1082,Strata I (S1),35,Manajemen,tidak ada,tidak ada,f,Menikah,2
+1083,Strata I (S1),27,Sastra Jepang,tidak ada,tidak ada,f,Belum menikah,0
+1084,Diploma IV,25,Teknik Sipil,{Teknik},tidak ada,f,Belum menikah,0
+1085,SMK / MAK / Sederajat,22,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1086,SMK / MAK / Sederajat,32,Akuntansi,tidak ada,tidak ada,f,Menikah,2
+1087,SLTA / MA / Sederajat,30,Ilmu Kesejahteraan Sosial,tidak ada,tidak ada,f,Menikah,0
+1088,SMK / MAK / Sederajat,20,Perhotelan,tidak ada,tidak ada,f,Belum menikah,0
+1089,SLTA / MA / Sederajat,31,IPS,tidak ada,tidak ada,f,Menikah,0
+1090,Strata I (S1),23,Biologi,tidak ada,tidak ada,f,Belum menikah,0
+1091,Strata I (S1),33,Teknik Industri,tidak ada,tidak ada,f,Menikah,1
+1092,Strata I (S1),33,Teknik Industri,tidak ada,tidak ada,f,Menikah,0
+1093,SMK / MAK / Sederajat,22,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+1094,SMK / MAK / Sederajat,50,Listrik,tidak ada,tidak ada,f,Menikah,2
+1095,Strata I (S1),35,Ilmu Hukum,"{""Lain - Lain""}",tidak ada,f,Menikah,2
+1096,SMK / MAK / Sederajat,29,Komputer Multimedia,tidak ada,tidak ada,f,Menikah,0
+1097,Strata I (S1),34,Ilmu Kesehatan Masyarakat,tidak ada,tidak ada,f,Menikah,1
+1098,Strata I (S1),28,Ilmu Komunikasi,"{""Lain - Lain""}",ada,f,Menikah,2
+1099,SLTA / MA / Sederajat,20,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1100,SLTA / MA / Sederajat,36,Komputerisasi Akuntansi,tidak ada,tidak ada,f,Menikah,2
+1101,Strata I (S1),30,Teknik Mesin,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1102,Strata I (S1),24,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1103,Strata I (S1),27,Hukum Keluarga (Ahwal Syakhshiyah),"{""Lain - Lain""}",ada,f,Menikah,1
+1104,Strata I (S1),24,Pendidikan Fisika,tidak ada,tidak ada,f,Belum menikah,0
+1105,SLTA / MA / Sederajat,21,IPS,tidak ada,tidak ada,f,Belum menikah,0
+1106,Diploma III,26,Manajemen,tidak ada,ada,f,Belum menikah,0
+1107,SMK / MAK / Sederajat,22,Kepariwisataan,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Belum menikah,0
+1108,Strata I (S1),24,Sistem Informasi,tidak ada,tidak ada,f,Belum menikah,0
+1109,SLTA / MA / Sederajat,40,IPS,"{""Lain - Lain""}",ada,f,Menikah,2
+1110,SLTA / MA / Sederajat,25,Umum,tidak ada,tidak ada,f,Belum menikah,0
+1111,Strata I (S1),30,Televisi dan Film,tidak ada,tidak ada,f,Belum menikah,0
+1112,Strata I (S1),30,Teknik Sistem Perkapalan,{Marketing},tidak ada,f,Belum menikah,0
+1113,Strata I (S1),26,Teknik Informatika,tidak ada,tidak ada,f,Belum menikah,0
+1114,SMK / MAK / Sederajat,23,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+1115,Strata I (S1),34,Sistem Informasi,"{""Information Technology (IT)""}",tidak ada,f,Belum menikah,0
+1116,Diploma IV,25,Teknik Mesin,{Teknik},ada,f,Belum menikah,0
+1117,Strata I (S1),48,Manajemen,tidak ada,tidak ada,f,Menikah,0
+1118,SMK / MAK / Sederajat,30,Teknik Komputer,"{""Lain - Lain""}",tidak ada,f,Menikah,2
+1119,Strata I (S1),35,Manajemen,"{""Perbankan / Keuangan""}",tidak ada,f,Belum menikah,0
+1120,SLTA / MA / Sederajat,37,Teknik Sistem Perkapalan,tidak ada,tidak ada,f,Menikah,2
+1121,SMK / MAK / Sederajat,32,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+1122,SLTA / MA / Sederajat,26,IPS,tidak ada,tidak ada,f,Belum menikah,0
+1123,SLTA / MA / Sederajat,45,Sosial Ekonomi Pertanian,tidak ada,tidak ada,f,Menikah,2
+1124,Strata I (S1),31,Manajemen,"{""Perbankan / Keuangan""}",tidak ada,f,Belum menikah,0
+1125,SMK / MAK / Sederajat,36,Akuntansi,tidak ada,tidak ada,f,Janda,1
+1126,SLTA / MA / Sederajat,37,Umum,tidak ada,tidak ada,f,Menikah,2
+1127,SMK / MAK / Sederajat,26,Teknik Otomotif,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Belum menikah,0
+1128,SMK / MAK / Sederajat,25,Kepariwisataan,"{""PEKERJA KASAR, TENAGA KEBERSIHAN, DAN TENAGA YANG BERHUBUNGAN DENGAN ITU""}",ada,f,Menikah,0
+1129,Strata I (S1),34,Pendidikan Dokter Hewan,tidak ada,tidak ada,f,Belum menikah,0
+1130,Strata I (S1),27,Ilmu Komunikasi,tidak ada,tidak ada,f,Belum menikah,0
+1131,Diploma IV,25,Teknik Elektro,tidak ada,tidak ada,f,Belum menikah,0
+1132,SMK / MAK / Sederajat,21,Teknik Telekomunikasi,"{""Information Technology (IT)""}",ada,f,Belum menikah,0
+1133,Diploma III,24,Fisioterapi,{Marketing},tidak ada,f,Belum menikah,0
+1134,Strata I (S1),25,Hubungan Internasional,tidak ada,tidak ada,f,Belum menikah,0
+1135,Strata I (S1),27,Ilmu Politik,tidak ada,ada,f,Belum menikah,0
+1136,Strata I (S1),27,Ilmu Hukum,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1137,Strata I (S1),25,Administrasi Niaga,"{""Information Technology (IT)""}",ada,f,Belum menikah,0
+1138,Strata I (S1),28,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1139,Diploma IV,25,Analis Kesehatan,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1140,Diploma III,26,Perpajakan,tidak ada,tidak ada,f,Belum menikah,0
+1141,SMK / MAK / Sederajat,19,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1142,Strata I (S1),25,Akuntansi,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1143,SLTA / MA / Sederajat,24,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1144,Strata I (S1),26,Sistem Informasi,tidak ada,tidak ada,f,Belum menikah,0
+1145,Strata I (S1),36,Ilmu Komunikasi,tidak ada,tidak ada,f,Menikah,0
+1146,Strata I (S1),49,Akuntansi,tidak ada,tidak ada,f,Menikah,2
+1147,Strata I (S1),24,Desain Produk,tidak ada,tidak ada,f,Belum menikah,0
+1148,Diploma III,32,Manajemen,tidak ada,ada,f,Menikah,1
+1149,Strata I (S1),30,Teknologi Informasi,"{""Information Technology (IT)""}",ada,f,Belum menikah,0
+1150,Strata I (S1),29,Perikanan,"{""TENAGA PROFESIONAL""}",ada,f,Belum menikah,0
+1151,Strata I (S1),35,Sistem Informasi,"{""Information Technology (IT)""}",ada,f,Menikah,2
+1152,SLTA / MA / Sederajat,22,IPS,tidak ada,tidak ada,f,Belum menikah,0
+1153,Strata I (S1),29,Arsitektur,tidak ada,tidak ada,f,Belum menikah,0
+1154,SMK / MAK / Sederajat,31,Umum,tidak ada,tidak ada,f,Belum menikah,0
+1155,Strata I (S1),28,Teknik Informatika,"{""Information Technology (IT)""}",tidak ada,f,Belum menikah,0
+1156,Strata I (S1),33,Ilmu Hukum,"{""Perbankan / Keuangan""}",ada,f,Menikah,0
+1157,Strata I (S1),26,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1158,Strata I (S1),32,Sistem Informasi,"{""Information Technology (IT)""}",tidak ada,f,Menikah,0
+1159,Strata I (S1),29,Ilmu Komunikasi,"{""Perbankan / Keuangan""}",ada,f,Menikah,0
+1160,Strata I (S1),28,Ilmu Hukum,tidak ada,tidak ada,f,Menikah,1
+1161,Strata I (S1),39,Manajemen,tidak ada,tidak ada,f,Menikah,2
+1162,Strata I (S1),33,Ilmu Hukum,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+1163,SMK / MAK / Sederajat,19,Teknik Otomotif,"{""PEKERJA KASAR, TENAGA KEBERSIHAN, DAN TENAGA YANG BERHUBUNGAN DENGAN ITU""}",ada,f,Belum menikah,0
+1164,Strata I (S1),41,Manajemen,{Marketing},tidak ada,f,Menikah,1
+1165,Diploma IV,27,Administrasi Niaga,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+1166,SMK / MAK / Sederajat,35,Teknik Otomotif,"{""Lain - Lain""}",tidak ada,t,Menikah,0
+1167,Strata I (S1),39,Manajemen,tidak ada,tidak ada,f,Menikah,3
+1168,Strata I (S1),27,Ilmu Komunikasi,tidak ada,tidak ada,f,Belum menikah,0
+1169,Strata I (S1),32,Teknik Sipil,tidak ada,tidak ada,f,Menikah,1
+1170,SMK / MAK / Sederajat,25,Komputer Multimedia,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1171,SLTA / MA / Sederajat,42,IPA,tidak ada,tidak ada,f,Menikah,0
+1172,Strata I (S1),26,Sistem Informasi,"{""Information Technology (IT)""}",tidak ada,f,Belum menikah,0
+1173,Strata I (S1),25,Akuntansi,{Akunting},ada,f,Belum menikah,0
+1174,Diploma III,35,Akuntansi,tidak ada,tidak ada,f,Menikah,2
+1175,Strata I (S1),30,Manajemen,tidak ada,tidak ada,f,Menikah,0
+1176,Strata I (S1),25,Tata Boga,tidak ada,tidak ada,f,Belum menikah,0
+1177,Strata I (S1),27,Tata Boga,tidak ada,tidak ada,f,Belum menikah,0
+1178,Strata I (S1),25,Akuntansi,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1179,Strata I (S1),25,Ilmu Hukum,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1180,Strata I (S1),26,Ilmu Komunikasi,tidak ada,tidak ada,f,Belum menikah,0
+1181,Strata I (S1),26,Manajemen,tidak ada,ada,f,Belum menikah,0
+1182,SMK / MAK / Sederajat,22,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+1183,SMK / MAK / Sederajat,24,Akuntansi,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",ada,f,Belum menikah,0
+1184,Strata I (S1),31,Bahasa dan Sastra Indonesia,tidak ada,tidak ada,f,Menikah,0
+1185,Strata I (S1),25,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1186,Strata I (S1),25,Ilmu Administrasi Publik,tidak ada,tidak ada,f,Belum menikah,0
+1187,Strata I (S1),28,Psikologi,{Marketing},ada,f,Belum menikah,0
+1188,SMK / MAK / Sederajat,27,Komputer Multimedia,{Marketing},tidak ada,f,Menikah,2
+1189,Strata I (S1),24,Psikologi,{Akunting},tidak ada,f,Belum menikah,0
+1190,SMK / MAK / Sederajat,38,Akuntansi,tidak ada,tidak ada,f,Menikah,1
+1191,Diploma IV,25,Teknik Elektro,tidak ada,tidak ada,f,Belum menikah,0
+1192,SLTA / MA / Sederajat,31,IPS,{Akunting},tidak ada,f,Janda,1
+1193,Diploma III,29,Ilmu Kesehatan Masyarakat,tidak ada,tidak ada,f,Menikah,0
+1194,Strata I (S1),26,Teknik Industri,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1195,SLTA / MA / Sederajat,31,IPS,tidak ada,tidak ada,f,Menikah,1
+1196,SLTA / MA / Sederajat,32,IPA,"{""TENAGA TATA USAHA""}",tidak ada,f,Belum menikah,0
+1197,SMK / MAK / Sederajat,33,Tata Busana,tidak ada,tidak ada,t,Menikah,4
+1198,SLTA / MA / Sederajat,27,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1199,Strata I (S1),29,Manajemen,tidak ada,tidak ada,f,Menikah,2
+1200,Strata I (S1),25,Psikologi,"{""Information Technology (IT)""}",tidak ada,f,Belum menikah,0
+1201,Strata I (S1),30,Desain Produk,tidak ada,tidak ada,f,Belum menikah,0
+1202,SLTA / MA / Sederajat,36,IPS,tidak ada,tidak ada,f,Menikah,1
+1203,Strata I (S1),31,PSKGJ Pendidikan Guru Sekolah Dasar(PGSD),tidak ada,tidak ada,f,Menikah,1
+1204,SMK / MAK / Sederajat,41,IPS,tidak ada,tidak ada,f,Menikah,3
+1205,Strata I (S1),33,Akuntansi,tidak ada,tidak ada,f,Menikah,1
+1206,SLTA / MA / Sederajat,47,Pendidikan Biologi,tidak ada,tidak ada,f,Duda,1
+1207,Diploma I,39,Sistem Informasi,tidak ada,tidak ada,f,Belum menikah,0
+1208,Strata I (S1),27,Hukum Tata Negara,tidak ada,tidak ada,f,Menikah,1
+1209,Diploma I,27,Teknik Perkapalan,{Teknik},ada,f,Belum menikah,0
+1210,SMK / MAK / Sederajat,27,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+1211,SMK / MAK / Sederajat,37,Akuntansi,"{""Lain - Lain""}",tidak ada,t,Menikah,4
+1212,Diploma IV,23,Teknik Elektro,tidak ada,tidak ada,f,Belum menikah,0
+1213,SMK / MAK / Sederajat,19,Komputer Multimedia,tidak ada,tidak ada,f,Belum menikah,0
+1214,Strata I (S1),34,Sistem Komputer,tidak ada,tidak ada,f,Menikah,1
+1215,Strata I (S1),41,Ilmu Ekonomi,"{""Perbankan / Keuangan""}",ada,f,Menikah,2
+1216,SMK / MAK / Sederajat,26,Teknik Informatika,"{""Information Technology (IT)""}",ada,f,Belum menikah,0
+1217,Strata I (S1),33,Pendidikan Kepelatihan Olahraga,tidak ada,tidak ada,f,Menikah,1
+1218,SMK / MAK / Sederajat,19,Teknik Telekomunikasi,"{""TEKNISI DAN ASISTEN TENAGA PROFESIONAL""}",ada,f,Belum menikah,0
+1219,Strata I (S1),29,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1220,Strata I (S1),23,Bahasa dan Sastra Indonesia,tidak ada,tidak ada,f,Belum menikah,0
+1221,SMK / MAK / Sederajat,20,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1222,Strata I (S1),38,Bahasa Inggris,{Marketing},ada,f,Menikah,2
+1223,SLTA / MA / Sederajat,24,IPS,tidak ada,tidak ada,f,Belum menikah,0
+1224,SLTA / MA / Sederajat,48,Teknik Elektro,"{""Lain - Lain""}",ada,f,Menikah,2
+1225,SMK / MAK / Sederajat,25,Ilmu Administrasi Publik,tidak ada,tidak ada,f,Belum menikah,0
+1226,SLTA / MA / Sederajat,35,Teknik Mesin,tidak ada,tidak ada,f,Menikah,1
+1227,Strata I (S1),28,Fisika,tidak ada,ada,f,Belum menikah,0
+1228,SMK / MAK / Sederajat,30,Farmasi,tidak ada,tidak ada,f,Menikah,1
+1229,SMK / MAK / Sederajat,25,Komputer Multimedia,{Marketing},tidak ada,f,Belum menikah,0
+1230,Diploma III,31,Teknik Komputer,tidak ada,tidak ada,f,Menikah,2
+1231,Strata I (S1),27,Ilmu Administrasi Publik,tidak ada,tidak ada,f,Belum menikah,0
+1232,Strata I (S1),32,Sistem Informasi,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+1233,Strata I (S1),37,Teknik Informatika,tidak ada,tidak ada,f,Menikah,0
+1234,Strata I (S1),43,Ilmu Hukum,"{""Lain - Lain""}",ada,f,Menikah,2
+1235,SMK / MAK / Sederajat,21,Teknik Listrik Industri,tidak ada,tidak ada,f,Belum menikah,0
+1236,Strata I (S1),42,Teknik Industri,{Teknik},ada,f,Menikah,1
+1237,SLTP / MTs / Sederajat,29,Manajemen,tidak ada,tidak ada,f,Menikah,2
+1238,Strata I (S1),28,"Pendidikan Seni Drama, Tari dan Musik",tidak ada,ada,f,Menikah,0
+1239,Strata II (Magister/S2),37,Manajemen,"{""TENAGA PROFESIONAL""}",tidak ada,f,Menikah,0
+1240,Strata I (S1),29,Pendidikan Pancasila Dan Kewarganegaraan,{Pendidikan},tidak ada,f,Belum menikah,0
+1241,SMK / MAK / Sederajat,38,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,3
+1242,SMK / MAK / Sederajat,22,Listrik,{Teknik},tidak ada,f,Belum menikah,0
+1243,SMK / MAK / Sederajat,31,Akuntansi,tidak ada,tidak ada,f,Menikah,1
+1244,SLTA / MA / Sederajat,28,IPS,tidak ada,tidak ada,f,Belum menikah,0
+1245,Strata I (S1),26,Teknik Komputer,tidak ada,ada,f,Belum menikah,0
+1246,Strata I (S1),24,Ilmu Komunikasi,tidak ada,tidak ada,f,Belum menikah,0
+1247,Strata I (S1),44,Manajemen,tidak ada,tidak ada,f,Menikah,4
+1248,Strata I (S1),41,Teknik Komputer,"{""Information Technology (IT)""}",tidak ada,f,Menikah,1
+1249,Strata I (S1),35,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1250,Strata I (S1),36,Teknik Elektro,"{""TEKNISI DAN ASISTEN TENAGA PROFESIONAL""}",tidak ada,f,Menikah,2
+1251,SMK / MAK / Sederajat,32,Teknik Informatika,tidak ada,tidak ada,f,Belum menikah,0
+1252,Diploma III,44,Perhotelan,tidak ada,tidak ada,f,Menikah,3
+1253,SMK / MAK / Sederajat,36,Teknik Mesin,tidak ada,tidak ada,f,Menikah,3
+1254,Strata I (S1),32,Manajemen,tidak ada,tidak ada,f,Menikah,0
+1255,Strata I (S1),28,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1256,Strata I (S1),38,Akuntansi,{Teknik},tidak ada,f,Menikah,2
+1257,SLTA / MA / Sederajat,26,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+1258,Strata I (S1),32,Akuntansi,"{""Lain - Lain""}",tidak ada,t,Menikah,1
+1259,Strata I (S1),24,Ilmu Hukum,"{""TENAGA TATA USAHA""}",tidak ada,f,Belum menikah,0
+1260,Strata I (S1),37,Manajemen,tidak ada,tidak ada,f,Menikah,2
+1261,Strata I (S1),27,Manajemen,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1262,Strata I (S1),29,Psikologi,tidak ada,tidak ada,f,Belum menikah,0
+1263,SLTA / MA / Sederajat,32,Teknik Mesin,tidak ada,tidak ada,f,Menikah,2
+1264,SLTA / MA / Sederajat,30,IPA,tidak ada,tidak ada,f,Menikah,1
+1265,SLTA / MA / Sederajat,34,IPA,{Marketing},ada,f,Menikah,1
+1266,Strata I (S1),28,Ekonomi Pembangunan,tidak ada,tidak ada,f,Belum menikah,0
+1267,SMK / MAK / Sederajat,23,Teknik Elektro,tidak ada,tidak ada,f,Belum menikah,0
+1268,SLTA / MA / Sederajat,43,IPA,tidak ada,tidak ada,f,Menikah,2
+1269,Strata I (S1),27,Teknologi Pangan,{Marketing},tidak ada,f,Belum menikah,0
+1270,Strata I (S1),32,Agroteknologi,"{""TENAGA PENGOLAHAN DAN KERAJINAN YANG BERHUBUNGAN DENGAN ITU""}",ada,f,Menikah,0
+1271,Strata I (S1),42,Pendidikan Pancasila Dan Kewarganegaraan,tidak ada,tidak ada,f,Menikah,2
+1272,Strata I (S1),42,PSKGJ Pendidikan Pancasila dan Kewarganegaraan,tidak ada,tidak ada,f,Menikah,2
+1273,Strata I (S1),25,Bimbingan Dan Konseling,{Pendidikan},ada,f,Belum menikah,0
+1274,Strata I (S1),49,Teknik Kimia,{Marketing},tidak ada,f,Menikah,1
+1275,SLTA / MA / Sederajat,33,IPA,"{""Lain - Lain""}",tidak ada,f,Menikah,2
+1276,Diploma I,39,Teknik Mesin,tidak ada,tidak ada,f,Menikah,1
+1277,Strata I (S1),33,Akuntansi,tidak ada,tidak ada,f,Duda,0
+1278,SLTA / MA / Sederajat,22,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1279,Strata I (S1),28,Ilmu Administrasi Publik,tidak ada,tidak ada,f,Belum menikah,0
+1280,Strata I (S1),27,Ekonomi Islam,"{""Perbankan / Keuangan""}",tidak ada,f,Menikah,0
+1281,SMK / MAK / Sederajat,34,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,3
+1282,SMK / MAK / Sederajat,25,Teknik Informatika,tidak ada,ada,f,Belum menikah,0
+1283,SLTP / MTs / Sederajat,22,Umum,tidak ada,ada,f,Belum menikah,0
+1284,Strata I (S1),32,Ilmu Politik,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+1285,SMK / MAK / Sederajat,19,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+1286,Strata I (S1),26,Manajemen,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1287,Strata I (S1),30,Akuntansi,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1288,Strata I (S1),28,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1289,Diploma III,22,Teknik Telekomunikasi,tidak ada,tidak ada,f,Belum menikah,0
+1290,Strata I (S1),28,Ilmu Hukum,tidak ada,tidak ada,f,Menikah,1
+1291,Diploma III,24,Sistem Informasi,tidak ada,tidak ada,f,Belum menikah,0
+1292,Strata I (S1),30,Ilmu Komunikasi,"{""TENAGA PROFESIONAL""}",tidak ada,f,Belum menikah,0
+1293,Strata I (S1),22,Ilmu Perpustakaan,tidak ada,tidak ada,f,Belum menikah,0
+1294,Strata I (S1),28,Ilmu Komunikasi,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Belum menikah,0
+1295,Strata I (S1),26,Matematika,{Pendidikan},ada,f,Belum menikah,0
+1296,Strata I (S1),26,Ilmu Administrasi Publik,{Akunting},ada,f,Belum menikah,0
+1297,SLTA / MA / Sederajat,30,Bahasa dan Sastra Indonesia,tidak ada,tidak ada,f,Janda,2
+1298,Strata I (S1),49,Akuntansi,tidak ada,tidak ada,f,Menikah,2
+1299,SMK / MAK / Sederajat,20,Farmasi,tidak ada,ada,f,Belum menikah,0
+1300,Strata I (S1),26,Agroteknologi,"{""TENAGA USAHA PERTANIAN DAN PETERNAKAN""}",ada,f,Belum menikah,0
+1301,Strata I (S1),23,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1302,SMK / MAK / Sederajat,25,Akuntansi,tidak ada,tidak ada,f,Menikah,1
+1303,Strata I (S1),34,Manajemen,tidak ada,tidak ada,f,Menikah,2
+1304,Strata I (S1),25,Akuntansi,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1305,Strata I (S1),26,Sistem Informasi,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1306,Strata I (S1),24,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1307,Strata I (S1),24,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1308,Strata I (S1),28,Ilmu Komunikasi,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1309,Strata I (S1),24,Ilmu Hukum,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1310,Strata I (S1),32,Ilmu Administrasi Publik,tidak ada,tidak ada,f,Menikah,3
+1311,SLTA / MA / Sederajat,22,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1312,Strata I (S1),25,Ilmu Hukum,"{""TENAGA PROFESIONAL""}",ada,t,Belum menikah,0
+1313,SMK / MAK / Sederajat,20,Akuntansi,tidak ada,ada,t,Belum menikah,0
+1314,Strata I (S1),34,Sosial Ekonomi Pertanian,"{""Perbankan / Keuangan""}",ada,f,Menikah,2
+1315,Strata I (S1),26,Psikologi,{Akunting},tidak ada,f,Belum menikah,0
+1316,Strata I (S1),28,Agribisnis,{Marketing},tidak ada,f,Belum menikah,0
+1317,Strata I (S1),35,Hukum Ekonomi Syariah,{Marketing},tidak ada,f,Menikah,1
+1318,SMK / MAK / Sederajat,38,Komputerisasi Akuntansi,"{""TENAGA TATA USAHA""}",ada,f,Menikah,3
+1319,Diploma II,24,Gizi,tidak ada,ada,f,Belum menikah,0
+1320,Strata I (S1),29,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1321,Strata I (S1),38,Akuntansi,tidak ada,tidak ada,f,Menikah,1
+1322,Strata I (S1),31,Akuntansi,tidak ada,tidak ada,f,Menikah,1
+1323,Strata I (S1),32,Ilmu Administrasi Negara,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Menikah,1
+1324,Strata I (S1),25,Agroteknologi,{Marketing},tidak ada,f,Belum menikah,0
+1325,Diploma III,30,Perpajakan,tidak ada,tidak ada,f,Menikah,2
+1326,Strata I (S1),30,Ilmu Kesehatan Masyarakat,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+1327,Strata I (S1),33,Pendidikan Kimia,tidak ada,tidak ada,f,Menikah,1
+1328,Strata I (S1),27,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+1329,Strata I (S1),26,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+1330,SLTA / MA / Sederajat,28,IPS,tidak ada,tidak ada,f,Menikah,1
+1331,Diploma III,32,Televisi dan Film,tidak ada,tidak ada,f,Menikah,1
+1332,SMK / MAK / Sederajat,50,Umum,tidak ada,tidak ada,f,Menikah,1
+1333,Diploma II,26,Manajemen Perusahaan,tidak ada,tidak ada,t,Belum menikah,0
+1334,SMK / MAK / Sederajat,31,Teknik Mesin,"{""Information Technology (IT)""}",tidak ada,t,Menikah,3
+1335,Diploma III,33,Teknik Mesin,{Teknik},ada,f,Menikah,1
+1336,SLTA / MA / Sederajat,43,Manajemen,tidak ada,tidak ada,f,Menikah,2
+1337,SLTA / MA / Sederajat,37,IPS,tidak ada,tidak ada,f,Menikah,1
+1338,Strata I (S1),27,Komputerisasi Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1339,SMK / MAK / Sederajat,23,Desain Grafis,tidak ada,tidak ada,f,Belum menikah,0
+1340,Strata I (S1),23,Ilmu Ekonomi,tidak ada,ada,f,Belum menikah,0
+1341,Strata I (S1),30,Akuntansi,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+1342,Strata I (S1),26,Ilmu Administrasi,tidak ada,tidak ada,f,Belum menikah,0
+1343,Strata I (S1),32,Matematika,"{""Lain - Lain""}",tidak ada,t,Menikah,1
+1344,Strata I (S1),24,Psikologi,{Pendidikan},ada,f,Belum menikah,0
+1345,Strata I (S1),26,Teknik Kimia,{Pendidikan},ada,f,Belum menikah,0
+1346,Strata II (Magister/S2),42,Kenotariatan,tidak ada,tidak ada,f,Menikah,1
+1347,Diploma IV,24,Ilmu Administrasi Negara,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1348,Strata I (S1),26,Psikologi,tidak ada,tidak ada,f,Belum menikah,0
+1349,Strata I (S1),23,Manajemen Pendidikan,tidak ada,tidak ada,f,Belum menikah,0
+1350,Strata I (S1),26,Ilmu Administrasi Publik,tidak ada,ada,f,Belum menikah,0
+1351,Strata I (S1),29,Akuntansi,tidak ada,tidak ada,f,Menikah,1
+1352,SLTA / MA / Sederajat,21,IPS,tidak ada,tidak ada,f,Belum menikah,0
+1353,Strata I (S1),26,Desain Komunikasi Visual,tidak ada,ada,f,Belum menikah,0
+1354,SMK / MAK / Sederajat,21,Administrasi Perkantoran,tidak ada,tidak ada,f,Belum menikah,0
+1355,Strata I (S1),25,Ilmu Perpustakaan,tidak ada,tidak ada,f,Belum menikah,0
+1356,Strata I (S1),24,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+1357,SLTA / MA / Sederajat,31,IPA,tidak ada,tidak ada,f,Menikah,2
+1358,Strata I (S1),25,Akuntansi,{Akunting},ada,f,Belum menikah,0
+1359,SLTA / MA / Sederajat,34,IPS,{Kesehatan},tidak ada,f,Menikah,3
+1360,Strata I (S1),32,Teknik Mesin,"{""PEJABAT LEMBAGA LEGISLATIF, PEJABAT TINGGI, DAN MANAJER""}",ada,f,Menikah,2
+1361,SLTA / MA / Sederajat,25,IPS,tidak ada,tidak ada,f,Belum menikah,0
+1362,Strata I (S1),31,Bahasa Inggris,tidak ada,tidak ada,f,Menikah,0
+1363,Strata I (S1),30,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+1364,SMK / MAK / Sederajat,22,Komputer Multimedia,tidak ada,tidak ada,t,Belum menikah,0
+1365,SMK / MAK / Sederajat,36,IPS,tidak ada,tidak ada,t,Menikah,2
+1366,SMK / MAK / Sederajat,20,Teknik Elektro,"{""TEKNISI DAN ASISTEN TENAGA PROFESIONAL""}",tidak ada,f,Belum menikah,0
+1367,SMK / MAK / Sederajat,33,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,1
+1368,Strata I (S1),33,Manajemen,"{""TEKNISI DAN ASISTEN TENAGA PROFESIONAL""}",ada,f,Menikah,1
+1369,SLTA / MA / Sederajat,35,Pendidikan Agama Islam,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+1370,Strata I (S1),24,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+1371,Strata I (S1),27,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+1372,SMK / MAK / Sederajat,20,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1373,Strata I (S1),26,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1374,Strata I (S1),31,Desain Interior,{{Arsitektur}tur},tidak ada,f,Belum menikah,0
+1375,Strata I (S1),32,Manajemen,tidak ada,tidak ada,f,Menikah,1
+1376,SMK / MAK / Sederajat,57,IPA,tidak ada,tidak ada,t,Menikah,1
+1377,Strata I (S1),25,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,2
+1378,Strata I (S1),37,Teknik Informatika,"{""OPERATOR DAN PERAKIT MESIN""}",tidak ada,f,Menikah,2
+1379,SMK / MAK / Sederajat,27,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+1380,SLTA / MA / Sederajat,27,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1381,Strata I (S1),46,Pendidikan Matematika,tidak ada,tidak ada,f,Belum menikah,0
+1382,Strata I (S1),36,Akuntansi,{Akunting},tidak ada,f,Menikah,1
+1383,Strata I (S1),30,Pendidikan Kepelatihan Olahraga,tidak ada,tidak ada,f,Menikah,0
+1384,SMK / MAK / Sederajat,32,Manajemen,tidak ada,tidak ada,f,Menikah,1
+1385,SMK / MAK / Sederajat,21,Teknik Informatika,tidak ada,tidak ada,f,Belum menikah,0
+1386,Strata I (S1),23,Teknik Elektro,"{""Information Technology (IT)""}",ada,f,Belum menikah,0
+1387,SMK / MAK / Sederajat,44,Listrik,tidak ada,tidak ada,f,Menikah,2
+1388,SMK / MAK / Sederajat,28,Administrasi,{Kesehatan},tidak ada,f,Janda,0
+1389,SMK / MAK / Sederajat,35,Manajemen Pemasaran,tidak ada,tidak ada,f,Menikah,2
+1390,SLTP / MTs / Sederajat,20,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1391,Strata I (S1),39,Ilmu Hukum,tidak ada,tidak ada,f,Menikah,0
+1392,SLTA / MA / Sederajat,47,IPS,tidak ada,tidak ada,f,Menikah,3
+1393,Strata I (S1),22,Teknik Informatika,tidak ada,tidak ada,f,Belum menikah,0
+1394,SLTA / MA / Sederajat,36,Kewirausahaan,"{""Lain - Lain""}",tidak ada,t,Menikah,3
+1395,SLTA / MA / Sederajat,23,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1396,SLTA / MA / Sederajat,22,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1397,Diploma I,38,Komputerisasi Akuntansi,tidak ada,tidak ada,f,Menikah,2
+1398,Strata I (S1),32,Akuntansi,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+1399,Strata I (S1),30,Ilmu Politik,{Kesehatan},tidak ada,f,Menikah,1
+1400,SMK / MAK / Sederajat,19,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+1401,SLTA / MA / Sederajat,24,IPA,tidak ada,tidak ada,t,Belum menikah,0
+1402,SMK / MAK / Sederajat,32,Komputer Multimedia,tidak ada,tidak ada,f,Menikah,0
+1403,SMK / MAK / Sederajat,23,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+1404,Strata I (S1),46,Ilmu Hukum,tidak ada,tidak ada,f,Menikah,1
+1405,SMK / MAK / Sederajat,23,Kepariwisataan,"{""TENAGA PROFESIONAL""}",tidak ada,f,Belum menikah,0
+1406,Diploma III,27,Ilmu Perpustakaan,"{""TEKNISI DAN ASISTEN TENAGA PROFESIONAL""}",ada,f,Belum menikah,0
+1407,Strata I (S1),35,Manajemen,tidak ada,tidak ada,f,Menikah,1
+1408,SMK / MAK / Sederajat,26,Desain Komunikasi Visual,"{""TENAGA PROFESIONAL""}",tidak ada,t,Belum menikah,0
+1409,Strata I (S1),25,Teknik Perkapalan,tidak ada,tidak ada,f,Belum menikah,0
+1410,SLTA / MA / Sederajat,34,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1411,Strata I (S1),45,Ilmu Teknik Sipil,tidak ada,tidak ada,f,Menikah,4
+1412,Strata I (S1),27,Ilmu Ekonomi,tidak ada,tidak ada,f,Belum menikah,0
+1413,Strata I (S1),35,Pendidikan Sejarah,tidak ada,tidak ada,f,Menikah,1
+1414,SMK / MAK / Sederajat,27,Teknik Mesin,tidak ada,tidak ada,f,Menikah,0
+1415,Strata I (S1),34,Sistem Informasi,"{""Lain - Lain""}",ada,f,Menikah,1
+1416,Strata I (S1),27,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+1417,Strata I (S1),29,Agroteknologi,tidak ada,tidak ada,t,Belum menikah,0
+1418,Diploma III,37,Ilmu Kesehatan Masyarakat,tidak ada,tidak ada,f,Menikah,1
+1419,Strata I (S1),39,Ilmu Teknik Sipil,tidak ada,tidak ada,f,Menikah,1
+1420,Strata I (S1),25,Administrasi,{Kesehatan},tidak ada,f,Belum menikah,0
+1421,SLTA / MA / Sederajat,36,IPS,tidak ada,tidak ada,f,Menikah,1
+1422,Strata I (S1),27,Matematika,{Pendidikan},tidak ada,f,Belum menikah,0
+1423,Strata I (S1),28,Ilmu Hukum,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1424,Strata I (S1),41,Ilmu Hukum,"{""Information Technology (IT)""}",tidak ada,f,Belum menikah,0
+1425,SLTA / MA / Sederajat,34,IPA,tidak ada,tidak ada,f,Janda,1
+1426,Diploma IV,29,Teknik Lingkungan,tidak ada,tidak ada,f,Belum menikah,0
+1427,Strata I (S1),25,Ilmu Komunikasi,tidak ada,tidak ada,f,Belum menikah,0
+1428,SLTA / MA / Sederajat,28,IPA,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",ada,f,Belum menikah,0
+1429,SLTA / MA / Sederajat,22,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1430,Strata I (S1),25,Manajemen Pemasaran,tidak ada,tidak ada,f,Belum menikah,0
+1431,Strata I (S1),26,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+1432,SMK / MAK / Sederajat,21,Komputer Multimedia,tidak ada,tidak ada,f,Belum menikah,0
+1433,SMK / MAK / Sederajat,33,Kepariwisataan,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1434,Strata I (S1),31,Manajemen,"{""TENAGA TATA USAHA""}",tidak ada,f,Janda,2
+1435,SMK / MAK / Sederajat,21,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+1436,SMK / MAK / Sederajat,29,Teknik Otomotif,tidak ada,ada,f,Duda,1
+1437,SLTA / MA / Sederajat,26,Sosiologi,tidak ada,tidak ada,f,Belum menikah,0
+1438,Strata I (S1),29,Akuntansi,tidak ada,tidak ada,f,Menikah,1
+1439,Strata I (S1),33,Manajemen,"{""Information Technology (IT)""}",ada,t,Menikah,0
+1440,SMK / MAK / Sederajat,27,Komputer Multimedia,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1441,SLTA / MA / Sederajat,35,Desain Komunikasi Visual,tidak ada,tidak ada,f,Menikah,2
+1442,Diploma III,36,Ilmu Teknik Sipil,tidak ada,tidak ada,f,Menikah,1
+1443,Strata I (S1),27,Manajemen Pemasaran,tidak ada,ada,f,Belum menikah,0
+1444,SLTA / MA / Sederajat,25,IPS,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+1445,Diploma IV,31,Teknik Mesin,{Teknik},tidak ada,f,Menikah,1
+1446,SLTA / MA / Sederajat,20,IPS,tidak ada,tidak ada,f,Belum menikah,0
+1447,SMK / MAK / Sederajat,39,Teknik Otomotif,tidak ada,tidak ada,t,Menikah,2
+1448,Diploma III,48,Teknik Elektro,tidak ada,ada,f,Menikah,3
+1449,Strata I (S1),30,Ilmu Administrasi Publik,tidak ada,tidak ada,f,Menikah,1
+1450,Strata I (S1),38,Manajemen,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1451,Strata I (S1),42,Teknik Sipil,"{""Lain - Lain""}",ada,f,Menikah,0
+1452,Strata I (S1),35,Manajemen,"{""Information Technology (IT)""}",tidak ada,f,Menikah,2
+1453,Strata I (S1),25,Fisika,tidak ada,ada,f,Belum menikah,0
+1454,Strata I (S1),43,Manajemen,{Marketing},tidak ada,f,Menikah,1
+1455,Strata II (Magister/S2),30,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1456,Strata I (S1),34,Teknologi Pendidikan,tidak ada,tidak ada,f,Menikah,1
+1457,Strata I (S1),29,Ekonomi Islam,tidak ada,tidak ada,f,Menikah,0
+1458,SMK / MAK / Sederajat,23,Teknik Otomotif,"{""PEKERJA KASAR, TENAGA KEBERSIHAN, DAN TENAGA YANG BERHUBUNGAN DENGAN ITU""}",ada,f,Belum menikah,0
+1459,Strata I (S1),25,Ilmu Komunikasi,tidak ada,tidak ada,f,Belum menikah,0
+1460,Strata I (S1),29,Sastra Inggris,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+1461,SLTA / MA / Sederajat,28,IPA,{Marketing},tidak ada,f,Belum menikah,0
+1462,SMK / MAK / Sederajat,25,Teknik Komputer,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1463,Strata I (S1),35,Ilmu Komunikasi,"{""TENAGA PROFESIONAL""}",ada,f,Menikah,2
+1464,Strata I (S1),30,Ilmu Komunikasi,tidak ada,ada,f,Belum menikah,0
+1465,SLTA / MA / Sederajat,31,IPS,tidak ada,tidak ada,f,Menikah,1
+1466,SMK / MAK / Sederajat,30,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1467,Strata I (S1),37,Manajemen,tidak ada,tidak ada,f,Menikah,2
+1468,Strata I (S1),32,Ilmu Hukum,tidak ada,ada,f,Belum menikah,0
+1469,Strata I (S1),40,Ilmu Ekonomi,"{""Perbankan / Keuangan""}",ada,f,Belum menikah,0
+1470,Strata I (S1),38,Arsitektur,tidak ada,tidak ada,f,Menikah,0
+1471,SMK / MAK / Sederajat,30,Teknik Kendaraan Ringan,"{""Lain - Lain""}",tidak ada,f,Menikah,3
+1472,SMK / MAK / Sederajat,29,Teknik Mesin,{Teknik},ada,f,Belum menikah,0
+1473,Strata I (S1),37,Teknik Industri,tidak ada,tidak ada,f,Menikah,1
+1474,SMK / MAK / Sederajat,21,Teknik Mesin,"{""Pariwisata dan Perhotelan""}",tidak ada,t,Belum menikah,0
+1475,Strata I (S1),25,Matematika,tidak ada,tidak ada,f,Belum menikah,0
+1476,Strata I (S1),34,Manajemen,tidak ada,tidak ada,f,Menikah,0
+1477,SLTA / MA / Sederajat,34,IPA,tidak ada,tidak ada,f,Menikah,0
+1478,SMK / MAK / Sederajat,24,Teknik Elektro,tidak ada,tidak ada,f,Belum menikah,0
+1479,Strata I (S1),38,Manajemen,tidak ada,tidak ada,f,Menikah,2
+1480,SMK / MAK / Sederajat,27,Teknik Kendaraan Ringan,"{""PEKERJA KASAR, TENAGA KEBERSIHAN, DAN TENAGA YANG BERHUBUNGAN DENGAN ITU""}",tidak ada,f,Belum menikah,0
+1481,SMK / MAK / Sederajat,26,Komputer Multimedia,tidak ada,tidak ada,f,Belum menikah,0
+1482,SMK / MAK / Sederajat,28,Desain Komunikasi Visual,tidak ada,tidak ada,f,Menikah,1
+1483,Diploma IV,22,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+1484,SMK / MAK / Sederajat,23,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+1485,Strata I (S1),34,Teknik Informatika,"{""Lain - Lain""}",ada,f,Menikah,1
+1486,Diploma I,37,Teknik Informatika,tidak ada,tidak ada,t,Menikah,1
+1487,Strata I (S1),28,Ilmu Komunikasi,"{""Information Technology (IT)""}",tidak ada,f,Belum menikah,0
+1488,Strata I (S1),24,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1489,Diploma IV,34,Komputer Multimedia,"{""Information Technology (IT)""}",ada,f,Menikah,0
+1490,Strata I (S1),35,Ilmu Komunikasi,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+1491,Strata II (Magister/S2),27,Manajemen,{Pendidikan},tidak ada,f,Belum menikah,1
+1492,SMK / MAK / Sederajat,28,Desain Komunikasi Visual,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1493,Strata I (S1),37,Sistem Informasi,"{""Information Technology (IT)""}",ada,f,Menikah,0
+1494,Strata I (S1),27,Psikologi,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1495,Strata I (S1),26,Ilmu Komunikasi,tidak ada,tidak ada,f,Belum menikah,0
+1496,Strata I (S1),43,Ilmu Hukum,{Marketing},tidak ada,f,Menikah,2
+1497,Strata I (S1),24,Manajemen Pemasaran,tidak ada,tidak ada,f,Belum menikah,0
+1498,Strata I (S1),34,Teknik Komputer,"{""Information Technology (IT)""}",ada,f,Menikah,1
+1499,SMK / MAK / Sederajat,24,Farmasi,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1500,Diploma III,26,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1501,Diploma I,44,Kepariwisataan,tidak ada,tidak ada,f,Menikah,4
+1502,SMK / MAK / Sederajat,36,Ilmu Ekonomi,tidak ada,tidak ada,f,Menikah,1
+1503,Strata I (S1),34,Sastra Inggris,tidak ada,tidak ada,f,Menikah,2
+1504,SLTA / MA / Sederajat,20,Desain Komunikasi Visual,tidak ada,tidak ada,t,Belum menikah,0
+1505,Strata I (S1),37,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1506,Diploma I,44,Teknik Komputer,tidak ada,tidak ada,f,Menikah,1
+1507,Strata I (S1),40,Ilmu Komunikasi,tidak ada,tidak ada,f,Menikah,2
+1508,SLTA / MA / Sederajat,40,IPS,tidak ada,tidak ada,f,Menikah,2
+1509,SLTA / MA / Sederajat,42,Manajemen,tidak ada,tidak ada,f,Menikah,3
+1510,SMK / MAK / Sederajat,24,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+1511,Diploma III,32,Gizi,tidak ada,tidak ada,f,Menikah,1
+1512,SMK / MAK / Sederajat,34,Teknik Mesin,tidak ada,tidak ada,f,Menikah,2
+1513,Strata I (S1),27,Manajemen,"{""Information Technology (IT)""}",ada,f,Menikah,1
+1514,Strata I (S1),25,Teknik Industri,tidak ada,tidak ada,f,Belum menikah,0
+1515,Strata I (S1),28,Bahasa dan Sastra Indonesia,tidak ada,tidak ada,f,Menikah,1
+1516,Strata I (S1),26,Ilmu Administrasi Publik,tidak ada,tidak ada,f,Belum menikah,0
+1517,Strata I (S1),29,Ilmu Administrasi Negara,tidak ada,tidak ada,f,Belum menikah,0
+1518,Strata I (S1),29,Pendidikan Agama Islam,tidak ada,tidak ada,f,Menikah,0
+1519,SLTA / MA / Sederajat,30,Komputer Multimedia,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1520,Diploma III,23,Bahasa Inggris,tidak ada,tidak ada,f,Belum menikah,0
+1521,SLTA / MA / Sederajat,29,IPS,tidak ada,tidak ada,f,Belum menikah,0
+1522,Strata I (S1),28,Pendidikan Bahasa Inggris,{Pendidikan},tidak ada,f,Belum menikah,0
+1523,SMK / MAK / Sederajat,23,Teknik Manufaktur,tidak ada,tidak ada,f,Belum menikah,0
+1524,SMK / MAK / Sederajat,21,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+1525,SMK / MAK / Sederajat,24,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+1526,Strata I (S1),37,PSKGJ Pendidikan Guru Sekolah Dasar(PGSD),tidak ada,ada,f,Menikah,1
+1527,Strata I (S1),24,Sistem Informasi,"{""Information Technology (IT)""}",tidak ada,f,Belum menikah,0
+1528,SLTA / MA / Sederajat,33,IPS,tidak ada,tidak ada,f,Menikah,2
+1529,Strata I (S1),32,Akuntansi,{Akunting},tidak ada,f,Menikah,0
+1530,Diploma III,28,Perhotelan,tidak ada,tidak ada,f,Belum menikah,3
+1531,Strata I (S1),35,Agroteknologi,tidak ada,tidak ada,f,Belum menikah,0
+1532,Strata I (S1),27,Bimbingan Dan Konseling,tidak ada,tidak ada,f,Belum menikah,0
+1533,Diploma IV,22,Manajemen,tidak ada,ada,f,Belum menikah,0
+1534,Strata I (S1),30,Pendidikan Matematika,tidak ada,tidak ada,f,Belum menikah,0
+1535,Strata I (S1),25,Bahasa dan Sastra Indonesia,"{""PEJABAT LEMBAGA LEGISLATIF, PEJABAT TINGGI, DAN MANAJER""}",tidak ada,t,Belum menikah,0
+1536,Diploma III,30,Analis Kesehatan,{Kesehatan},tidak ada,f,Menikah,2
+1537,Strata I (S1),29,Manajemen,tidak ada,tidak ada,f,Menikah,0
+1538,SMK / MAK / Sederajat,20,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1539,Strata I (S1),36,Manajemen,"{""Perbankan / Keuangan""}",tidak ada,f,Menikah,2
+1540,Strata I (S1),45,Teknik Elektro,"{""Perbankan / Keuangan""}",tidak ada,f,Menikah,0
+1541,SMK / MAK / Sederajat,21,Komputer Multimedia,tidak ada,tidak ada,f,Belum menikah,0
+1542,SMK / MAK / Sederajat,22,Ilmu Keperawatan,tidak ada,tidak ada,f,Belum menikah,0
+1543,Diploma III,28,Administrasi Perkantoran,tidak ada,tidak ada,f,Menikah,1
+1544,Strata I (S1),37,Manajemen,tidak ada,tidak ada,t,Menikah,1
+1545,Strata I (S1),25,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1546,Diploma IV,24,Analis Kesehatan,tidak ada,tidak ada,f,Belum menikah,0
+1547,Strata I (S1),26,Manajemen,{Pendidikan},tidak ada,f,Belum menikah,0
+1548,Strata I (S1),26,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1549,Strata I (S1),23,Statistika,tidak ada,tidak ada,f,Belum menikah,0
+1550,Diploma III,29,Ilmu Perpustakaan,tidak ada,tidak ada,f,Menikah,1
+1551,Diploma III,26,Gizi,{Kesehatan},ada,f,Belum menikah,0
+1552,Strata I (S1),30,Ekonomi Pembangunan,tidak ada,tidak ada,f,Menikah,1
+1553,Strata I (S1),31,Ekonomi Pembangunan,"{""Information Technology (IT)""}",tidak ada,f,Menikah,1
+1554,Diploma I,24,Desain Grafis,"{""OPERATOR DAN PERAKIT MESIN""}",ada,f,Belum menikah,0
+1555,Strata I (S1),30,Akuntansi,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+1556,SMK / MAK / Sederajat,26,Perhotelan,tidak ada,tidak ada,f,Belum menikah,0
+1557,Strata I (S1),33,Pendidikan Dokter Gigi,tidak ada,tidak ada,f,Menikah,2
+1558,Strata I (S1),36,Akuntansi,{Akunting},ada,f,Menikah,3
+1559,Strata I (S1),26,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1560,SMK / MAK / Sederajat,46,Perhotelan,tidak ada,tidak ada,f,Menikah,2
+1561,SMK / MAK / Sederajat,21,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+1562,Strata I (S1),26,Ilmu Komunikasi,tidak ada,tidak ada,f,Belum menikah,0
+1563,SLTA / MA / Sederajat,25,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1564,Strata I (S1),32,Manajemen,tidak ada,tidak ada,f,Menikah,1
+1565,Strata I (S1),31,Teknik Lingkungan,{Pendidikan},ada,f,Belum menikah,0
+1566,SMK / MAK / Sederajat,28,IPS,tidak ada,tidak ada,f,Menikah,1
+1567,Strata I (S1),27,Akuntansi,tidak ada,tidak ada,f,Menikah,0
+1568,SLTA / MA / Sederajat,28,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1569,Strata I (S1),27,Teknik Sipil,tidak ada,tidak ada,t,Belum menikah,0
+1570,SMK / MAK / Sederajat,23,Komputer Multimedia,tidak ada,tidak ada,f,Belum menikah,0
+1571,SMK / MAK / Sederajat,26,Teknik Komputer,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1572,Strata I (S1),37,Pendidikan Bahasa Inggris,tidak ada,tidak ada,f,Menikah,0
+1573,SMK / MAK / Sederajat,19,IPS,tidak ada,tidak ada,f,Belum menikah,0
+1574,Strata I (S1),31,Manajemen,"{""Lain - Lain""}",ada,f,Menikah,0
+1575,Strata I (S1),28,Arsitektur,tidak ada,tidak ada,f,Menikah,1
+1576,Strata I (S1),26,Manajemen,tidak ada,ada,f,Menikah,0
+1577,SMK / MAK / Sederajat,20,Administrasi Perkantoran,tidak ada,tidak ada,f,Belum menikah,0
+1578,SLTA / MA / Sederajat,51,IPA,tidak ada,tidak ada,f,Menikah,1
+1579,SLTA / MA / Sederajat,24,IPS,tidak ada,tidak ada,f,Belum menikah,0
+1580,Strata I (S1),31,Ilmu Komunikasi,tidak ada,tidak ada,f,Menikah,1
+1581,Strata I (S1),32,Ilmu Hukum,tidak ada,ada,f,Menikah,1
+1582,Strata I (S1),30,Administrasi Niaga,{Marketing},tidak ada,f,Menikah,1
+1583,SLTA / MA / Sederajat,23,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1584,SMK / MAK / Sederajat,20,Listrik,tidak ada,ada,f,Belum menikah,0
+1585,SMK / MAK / Sederajat,24,Komputer Multimedia,tidak ada,tidak ada,f,Belum menikah,0
+1586,Diploma I,35,Teknik Informatika,tidak ada,tidak ada,f,Menikah,1
+1587,Strata I (S1),24,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+1588,Strata I (S1),30,Sastra Jepang,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1589,Strata I (S1),29,Akuntansi,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+1590,Strata I (S1),28,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1591,SMK / MAK / Sederajat,21,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+1592,SLTA / MA / Sederajat,34,Teknik Mesin,"{""OPERATOR DAN PERAKIT MESIN""}",tidak ada,f,Menikah,1
+1593,Diploma IV,29,Umum,tidak ada,tidak ada,f,Belum menikah,0
+1594,Diploma II,23,Listrik,{Teknik},ada,f,Belum menikah,0
+1595,SMK / MAK / Sederajat,19,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1596,Strata I (S1),24,Sistem Informasi,tidak ada,tidak ada,f,Belum menikah,0
+1597,Strata I (S1),37,Teknik Sipil,{Teknik},tidak ada,f,Menikah,0
+1598,SMK / MAK / Sederajat,30,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+1599,Strata I (S1),38,Teknologi Informasi,tidak ada,tidak ada,f,Menikah,1
+1600,SLTA / MA / Sederajat,24,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1601,SLTA / MA / Sederajat,32,IPS,tidak ada,tidak ada,f,Menikah,5
+1602,SLTA / MA / Sederajat,31,Komputerisasi Akuntansi,tidak ada,tidak ada,t,Menikah,2
+1603,SMK / MAK / Sederajat,20,Komputer Multimedia,tidak ada,ada,f,Belum menikah,0
+1604,SMK / MAK / Sederajat,35,Tata Boga,tidak ada,tidak ada,f,Menikah,3
+1605,Strata I (S1),38,Ilmu Hukum,tidak ada,tidak ada,f,Menikah,2
+1606,SD / MI / Sederajat,41,Manajemen,tidak ada,tidak ada,f,Menikah,2
+1607,Strata I (S1),34,Pendidikan Guru Sekolah Dasar,tidak ada,tidak ada,f,Menikah,2
+1608,Strata I (S1),39,PSKGJ Bimbingan dan Konseling,tidak ada,tidak ada,f,Menikah,2
+1609,SMK / MAK / Sederajat,23,Tata Boga,"{""TENAGA PROFESIONAL""}",ada,f,Belum menikah,0
+1610,Strata I (S1),29,Ilmu Administrasi Negara,{Marketing},ada,f,Menikah,0
+1611,SLTA / MA / Sederajat,21,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1612,SLTA / MA / Sederajat,29,IPA,{Manager},ada,f,Menikah,0
+1613,SLTA / MA / Sederajat,28,IPA,tidak ada,tidak ada,f,Menikah,0
+1614,Strata I (S1),31,Akuntansi,{Akunting},tidak ada,f,Menikah,0
+1615,SLTA / MA / Sederajat,38,IPS,"{""Perbankan / Keuangan""}",tidak ada,f,Menikah,1
+1616,SMK / MAK / Sederajat,26,Komputer Multimedia,{Marketing},tidak ada,f,Menikah,0
+1617,SLTA / MA / Sederajat,31,IPA,tidak ada,tidak ada,f,Menikah,0
+1618,SMK / MAK / Sederajat,37,Manajemen,tidak ada,tidak ada,f,Janda,2
+1619,Strata I (S1),26,Akuntansi,{Pendidikan},tidak ada,f,Menikah,1
+1620,Strata I (S1),24,Ilmu Komunikasi,tidak ada,tidak ada,f,Belum menikah,0
+1621,SMK / MAK / Sederajat,21,Manajemen,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1622,SLTP / MTs / Sederajat,35,Manajemen,tidak ada,tidak ada,f,Menikah,0
+1623,SMK / MAK / Sederajat,28,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+1624,Diploma III,24,Bahasa Inggris,tidak ada,tidak ada,f,Belum menikah,0
+1625,SMK / MAK / Sederajat,20,Perhotelan,tidak ada,tidak ada,f,Belum menikah,0
+1626,Strata I (S1),28,Ilmu Komunikasi,tidak ada,tidak ada,f,Belum menikah,0
+1627,Strata I (S1),27,Manajemen,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1628,SMK / MAK / Sederajat,21,Akuntansi,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1629,SMK / MAK / Sederajat,26,Kepariwisataan,tidak ada,tidak ada,f,Belum menikah,0
+1630,Strata I (S1),25,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1631,Strata I (S1),28,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+1632,SLTA / MA / Sederajat,23,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1633,SMK / MAK / Sederajat,20,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1634,SMK / MAK / Sederajat,26,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,0
+1635,SMK / MAK / Sederajat,34,Akuntansi,tidak ada,tidak ada,f,Menikah,1
+1636,SMK / MAK / Sederajat,23,Administrasi Perkantoran,tidak ada,tidak ada,f,Belum menikah,0
+1637,Strata I (S1),29,Teknik Industri,tidak ada,tidak ada,f,Menikah,1
+1638,Strata I (S1),28,Matematika,{Pendidikan},tidak ada,f,Belum menikah,0
+1639,Strata I (S1),25,Teknik Elektro,tidak ada,tidak ada,f,Belum menikah,0
+1640,SMK / MAK / Sederajat,25,Teknik Listrik Industri,tidak ada,tidak ada,f,Belum menikah,0
+1641,Strata I (S1),24,Teknik Mesin,tidak ada,ada,f,Belum menikah,0
+1642,SMK / MAK / Sederajat,30,Komputer Multimedia,"{""TENAGA PROFESIONAL""}",tidak ada,f,Menikah,1
+1643,SMK / MAK / Sederajat,38,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,1
+1644,SLTA / MA / Sederajat,33,IPS,tidak ada,tidak ada,f,Menikah,1
+1645,Strata I (S1),32,Teknik Informatika,tidak ada,tidak ada,f,Menikah,1
+1646,Strata I (S1),26,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1647,SLTA / MA / Sederajat,24,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1648,SMK / MAK / Sederajat,22,Teknologi Informasi,tidak ada,ada,f,Belum menikah,0
+1649,SMK / MAK / Sederajat,38,Komputerisasi Akuntansi,tidak ada,tidak ada,f,Menikah,2
+1650,Strata I (S1),23,Teknik Telekomunikasi,tidak ada,tidak ada,f,Belum menikah,0
+1651,SLTA / MA / Sederajat,20,IPS,tidak ada,tidak ada,f,Belum menikah,0
+1652,Strata I (S1),33,Manajemen,tidak ada,tidak ada,f,Menikah,1
+1653,Strata I (S1),36,Pendidikan Bahasa Dan Sastra Indonesia,tidak ada,tidak ada,f,Menikah,1
+1654,SMK / MAK / Sederajat,24,Desain Produk,tidak ada,tidak ada,f,Belum menikah,0
+1655,SMK / MAK / Sederajat,46,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,1
+1656,Strata I (S1),26,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1657,SLTA / MA / Sederajat,40,Listrik,tidak ada,tidak ada,f,Menikah,2
+1658,Strata I (S1),31,Ilmu Komunikasi,tidak ada,tidak ada,f,Menikah,0
+1659,SMK / MAK / Sederajat,29,Teknik Otomotif,"{""OPERATOR DAN PERAKIT MESIN""}",tidak ada,f,Menikah,2
+1660,Strata I (S1),29,Arsitektur,tidak ada,tidak ada,f,Menikah,0
+1661,SMK / MAK / Sederajat,20,Teknik Komputer,tidak ada,ada,f,Belum menikah,0
+1662,Strata I (S1),27,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+1663,SMK / MAK / Sederajat,20,Keuangan Dan Perbankan,tidak ada,tidak ada,f,Belum menikah,0
+1664,SMK / MAK / Sederajat,19,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1665,SMK / MAK / Sederajat,27,Ilmu Ekonomi,{{Arsitektur}tur},tidak ada,f,Menikah,1
+1666,SMK / MAK / Sederajat,29,Teknik Mesin,"{""PEKERJA KASAR, TENAGA KEBERSIHAN, DAN TENAGA YANG BERHUBUNGAN DENGAN ITU""}",tidak ada,f,Menikah,2
+1667,Strata I (S1),33,Teknik Sipil,tidak ada,ada,f,Menikah,0
+1668,Diploma IV,30,Teknik Elektro,"{""OPERATOR DAN PERAKIT MESIN""}",tidak ada,f,Menikah,1
+1669,SMK / MAK / Sederajat,21,Teknik Otomotif,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1670,Strata I (S1),37,Ilmu Hukum,tidak ada,tidak ada,f,Belum menikah,0
+1671,SLTA / MA / Sederajat,35,IPS,tidak ada,tidak ada,f,Menikah,2
+1672,Strata I (S1),25,Ilmu Komunikasi,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1673,SMK / MAK / Sederajat,22,Teknik Mesin,{Teknik},tidak ada,f,Belum menikah,0
+1674,Strata I (S1),27,Fisika,tidak ada,ada,f,Belum menikah,0
+1675,Strata I (S1),24,Statistika,tidak ada,tidak ada,f,Belum menikah,0
+1676,Strata I (S1),31,Manajemen,tidak ada,tidak ada,f,Menikah,1
+1677,SMK / MAK / Sederajat,19,Manajemen Pemasaran,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Belum menikah,0
+1678,SMK / MAK / Sederajat,26,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+1679,SMK / MAK / Sederajat,24,Teknik Mesin,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1680,Strata I (S1),25,Ilmu Komunikasi,tidak ada,tidak ada,f,Belum menikah,0
+1681,SMK / MAK / Sederajat,24,Teknik Elektronika,tidak ada,ada,f,Belum menikah,0
+1682,Strata I (S1),28,Teknik Informatika,{Pendidikan},tidak ada,f,Belum menikah,0
+1683,Strata I (S1),25,Agribisnis,tidak ada,tidak ada,f,Belum menikah,0
+1684,SLTA / MA / Sederajat,35,IPA,tidak ada,tidak ada,f,Menikah,2
+1685,SLTA / MA / Sederajat,28,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,1
+1686,SMK / MAK / Sederajat,23,Perhotelan,tidak ada,tidak ada,f,Belum menikah,0
+1687,Strata I (S1),26,Manajemen,"{""Perbankan / Keuangan""}",ada,f,Belum menikah,0
+1688,Strata I (S1),26,Teknik Elektro,{Teknik},tidak ada,f,Belum menikah,0
+1689,Strata I (S1),30,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1690,SMK / MAK / Sederajat,23,Teknik Mesin,"{""OPERATOR DAN PERAKIT MESIN""}",tidak ada,f,Belum menikah,0
+1691,SMK / MAK / Sederajat,21,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+1692,SMK / MAK / Sederajat,21,Teknik Mesin,tidak ada,tidak ada,t,Belum menikah,0
+1693,SMK / MAK / Sederajat,31,Teknik Perkapalan,tidak ada,tidak ada,f,Menikah,2
+1694,SLTP / MTs / Sederajat,56,Pendidikan Kepelatihan Olahraga,tidak ada,tidak ada,f,Menikah,1
+1695,Strata I (S1),26,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1696,SMK / MAK / Sederajat,22,Komputer Grafis dan Cetak,tidak ada,tidak ada,f,Belum menikah,0
+1697,Strata I (S1),23,Ilmu Administrasi Negara,tidak ada,tidak ada,f,Belum menikah,0
+1698,Strata II (Magister/S2),29,Teknik Komputer,{Pendidikan},ada,f,Menikah,1
+1699,Diploma III,27,Kebidanan,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+1700,Diploma III,27,Administrasi Niaga,tidak ada,tidak ada,f,Belum menikah,0
+1701,SMK / MAK / Sederajat,26,Biologi,tidak ada,tidak ada,f,Belum menikah,0
+1702,SLTP / MTs / Sederajat,38,Manajemen,tidak ada,tidak ada,f,Menikah,1
+1703,SLTA / MA / Sederajat,19,Umum,tidak ada,tidak ada,f,Belum menikah,0
+1704,SMK / MAK / Sederajat,23,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+1705,SMK / MAK / Sederajat,26,Teknik Elektro,tidak ada,tidak ada,f,Belum menikah,0
+1706,SLTA / MA / Sederajat,26,IPA,tidak ada,tidak ada,t,Belum menikah,4
+1707,SMK / MAK / Sederajat,27,Komputer Grafis dan Cetak,tidak ada,tidak ada,f,Menikah,1
+1708,SMK / MAK / Sederajat,28,Teknik Kendaraan Ringan,tidak ada,tidak ada,f,Belum menikah,0
+1709,SLTA / MA / Sederajat,21,IPS,tidak ada,tidak ada,f,Belum menikah,0
+1710,SLTA / MA / Sederajat,38,Manajemen,tidak ada,tidak ada,f,Menikah,3
+1711,SMK / MAK / Sederajat,22,Teknik Industri,tidak ada,tidak ada,t,Belum menikah,0
+1712,Diploma I,31,Teknologi Informasi,"{""Information Technology (IT)""}",ada,f,Menikah,1
+1713,SMK / MAK / Sederajat,25,IPS,tidak ada,tidak ada,f,Belum menikah,0
+1714,SMK / MAK / Sederajat,21,IPS,tidak ada,ada,f,Belum menikah,0
+1715,SLTA / MA / Sederajat,38,Manajemen,tidak ada,tidak ada,f,Menikah,2
+1716,SMK / MAK / Sederajat,45,Teknik Elektronika,"{""TENAGA TATA USAHA""}",tidak ada,f,Menikah,2
+1717,Strata I (S1),28,Teknik Informatika,tidak ada,tidak ada,f,Belum menikah,0
+1718,SMK / MAK / Sederajat,34,Teknik Komputer,tidak ada,tidak ada,f,Duda,1
+1719,SMK / MAK / Sederajat,22,Administrasi Perkantoran,tidak ada,tidak ada,f,Belum menikah,0
+1720,Strata I (S1),26,Teknik Kimia,tidak ada,ada,f,Belum menikah,0
+1721,Strata I (S1),33,Hubungan Internasional,tidak ada,tidak ada,f,Menikah,0
+1722,Strata I (S1),23,Manajemen,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1723,Strata I (S1),25,Sastra Inggris,tidak ada,ada,f,Belum menikah,0
+1724,SMK / MAK / Sederajat,37,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,2
+1725,Strata I (S1),30,Manajemen,tidak ada,ada,f,Menikah,0
+1726,SMK / MAK / Sederajat,28,Akuntansi,tidak ada,tidak ada,f,Menikah,1
+1727,SMK / MAK / Sederajat,19,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1728,SLTA / MA / Sederajat,25,Administrasi Perkantoran,tidak ada,tidak ada,f,Belum menikah,0
+1729,SMK / MAK / Sederajat,21,Komputer Grafis dan Cetak,tidak ada,tidak ada,f,Belum menikah,0
+1730,Strata I (S1),28,Manajemen,"{""Information Technology (IT)""}",ada,f,Menikah,0
+1731,SMK / MAK / Sederajat,24,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+1732,SMK / MAK / Sederajat,26,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+1733,Strata I (S1),31,Sistem Komputer,tidak ada,tidak ada,f,Belum menikah,0
+1734,SMK / MAK / Sederajat,19,Keuangan Dan Perbankan,tidak ada,tidak ada,t,Belum menikah,0
+1735,SMK / MAK / Sederajat,22,Komputerisasi Akuntansi,tidak ada,tidak ada,t,Belum menikah,0
+1736,Strata I (S1),27,Ilmu Administrasi Publik,tidak ada,tidak ada,f,Belum menikah,0
+1737,SMK / MAK / Sederajat,28,Ilmu Administrasi Publik,tidak ada,tidak ada,f,Belum menikah,0
+1738,Strata I (S1),36,Pendidikan Guru Sekolah Dasar,tidak ada,tidak ada,f,Menikah,0
+1739,SLTA / MA / Sederajat,29,IPS,tidak ada,tidak ada,f,Menikah,0
+1740,Strata I (S1),34,Pendidikan Pancasila Dan Kewarganegaraan,{Marketing},ada,f,Belum menikah,0
+1741,Strata I (S1),26,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1742,SMK / MAK / Sederajat,21,Perhotelan,tidak ada,tidak ada,f,Menikah,1
+1743,SLTA / MA / Sederajat,27,IPA,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Menikah,0
+1744,Strata I (S1),24,Psikologi,{Marketing},ada,f,Belum menikah,0
+1745,SMK / MAK / Sederajat,33,Manajemen Pemasaran,tidak ada,tidak ada,f,Menikah,2
+1746,Strata I (S1),32,Ilmu Komunikasi,tidak ada,tidak ada,f,Belum menikah,0
+1747,Strata I (S1),24,Teknik Kimia,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Belum menikah,0
+1748,SMK / MAK / Sederajat,24,Kewirausahaan,tidak ada,tidak ada,f,Belum menikah,0
+1749,Diploma III,26,Teknik Sipil,tidak ada,tidak ada,f,Belum menikah,0
+1750,SMK / MAK / Sederajat,20,Manajemen Pemasaran,tidak ada,ada,f,Belum menikah,0
+1751,SLTA / MA / Sederajat,43,Pendidikan Biologi,"{""TENAGA PROFESIONAL""}",tidak ada,f,Menikah,2
+1752,SLTA / MA / Sederajat,34,IPS,tidak ada,tidak ada,f,Menikah,0
+1753,Strata I (S1),26,Teknik Lingkungan,tidak ada,tidak ada,f,Belum menikah,0
+1754,Strata I (S1),24,Ilmu Hukum,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1755,SMK / MAK / Sederajat,40,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,2
+1756,Strata I (S1),28,Pendidikan Bahasa Mandarin,tidak ada,tidak ada,f,Menikah,0
+1757,SLTA / MA / Sederajat,26,IPS,tidak ada,tidak ada,f,Belum menikah,0
+1758,Diploma III,31,Analis Kesehatan,tidak ada,tidak ada,f,Menikah,1
+1759,Strata I (S1),27,Pendidikan Ekonomi,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+1760,SLTA / MA / Sederajat,20,IPS,tidak ada,tidak ada,f,Belum menikah,0
+1761,SLTA / MA / Sederajat,23,Desain Komunikasi Visual,tidak ada,tidak ada,f,Belum menikah,0
+1762,Strata II (Magister/S2),33,Teknologi Pendidikan,tidak ada,tidak ada,f,Belum menikah,0
+1763,Strata I (S1),32,Akuntansi,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+1764,SMK / MAK / Sederajat,21,Administrasi Perkantoran,tidak ada,tidak ada,f,Belum menikah,0
+1765,Strata I (S1),33,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1766,Strata I (S1),23,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1767,Strata I (S1),27,Akuntansi,tidak ada,ada,f,Menikah,0
+1768,SLTA / MA / Sederajat,33,IPS,tidak ada,tidak ada,f,Menikah,3
+1769,SMK / MAK / Sederajat,38,Teknik Sipil,tidak ada,tidak ada,f,Menikah,2
+1770,SMK / MAK / Sederajat,22,Teknik Mesin,tidak ada,tidak ada,t,Belum menikah,8
+1771,Diploma IV,22,Teknik Elektro,tidak ada,ada,f,Belum menikah,0
+1772,SMK / MAK / Sederajat,21,Komputerisasi Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1773,Strata I (S1),23,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1774,Strata I (S1),27,Teknologi Informasi,{Pendidikan},tidak ada,f,Belum menikah,0
+1775,SMK / MAK / Sederajat,23,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+1776,SMK / MAK / Sederajat,25,Televisi dan Film,tidak ada,tidak ada,f,Belum menikah,0
+1777,SMK / MAK / Sederajat,26,Televisi dan Film,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1778,Strata I (S1),26,Ilmu Administrasi Publik,tidak ada,tidak ada,f,Belum menikah,0
+1779,SMK / MAK / Sederajat,21,Manajemen Pariwisata,tidak ada,tidak ada,f,Belum menikah,0
+1780,SMK / MAK / Sederajat,31,Akuntansi,{Teknik},tidak ada,f,Belum menikah,0
+1781,SMK / MAK / Sederajat,33,Desain Komunikasi Visual,"{""Information Technology (IT)""}",tidak ada,f,Belum menikah,0
+1782,Diploma III,33,Komputerisasi Akuntansi,{Pendidikan},tidak ada,f,Menikah,1
+1783,SLTA / MA / Sederajat,35,IPS,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1784,SLTA / MA / Sederajat,21,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1785,SLTA / MA / Sederajat,35,IPS,tidak ada,tidak ada,f,Menikah,1
+1786,Strata I (S1),28,Sistem Informasi,tidak ada,tidak ada,f,Belum menikah,0
+1787,SMK / MAK / Sederajat,22,Tata Busana,tidak ada,tidak ada,f,Belum menikah,0
+1788,SMK / MAK / Sederajat,22,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+1789,Strata I (S1),26,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1790,Strata I (S1),24,Ilmu Kesehatan Masyarakat,tidak ada,tidak ada,f,Belum menikah,0
+1791,SLTA / MA / Sederajat,36,IPS,tidak ada,tidak ada,f,Menikah,2
+1792,SMK / MAK / Sederajat,21,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+1793,Strata I (S1),27,Teknik Elektro,{Teknik},ada,f,Belum menikah,0
+1794,SMK / MAK / Sederajat,21,Listrik,"{""PEKERJA KASAR, TENAGA KEBERSIHAN, DAN TENAGA YANG BERHUBUNGAN DENGAN ITU""}",tidak ada,f,Belum menikah,0
+1795,SMK / MAK / Sederajat,29,Listrik,"{""OPERATOR DAN PERAKIT MESIN""}",tidak ada,f,Belum menikah,0
+1796,SLTA / MA / Sederajat,28,IPA,tidak ada,tidak ada,f,Menikah,0
+1797,SLTA / MA / Sederajat,39,IPA,tidak ada,tidak ada,f,Menikah,1
+1798,Strata I (S1),25,Sastra Inggris,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1799,Strata I (S1),28,Komputerisasi Akuntansi,tidak ada,tidak ada,f,Menikah,1
+1800,SMK / MAK / Sederajat,22,Teknik Sipil,{{Arsitektur}tur},ada,f,Belum menikah,0
+1801,SMK / MAK / Sederajat,24,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+1802,Strata I (S1),27,Bioteknologi,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1803,Strata I (S1),26,Ekonomi Islam,{Marketing},tidak ada,f,Belum menikah,0
+1804,SLTA / MA / Sederajat,36,Ilmu Kesejahteraan Sosial,tidak ada,tidak ada,t,Menikah,2
+1805,Strata I (S1),27,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1806,Strata I (S1),30,Manajemen,tidak ada,tidak ada,f,Menikah,1
+1807,Diploma III,25,Keuangan Dan Perbankan,"{""Perbankan / Keuangan""}",ada,f,Belum menikah,0
+1808,SLTA / MA / Sederajat,27,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1809,Diploma I,26,Teknik Informatika,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",ada,f,Belum menikah,0
+1810,SMK / MAK / Sederajat,35,Nautika,tidak ada,tidak ada,f,Menikah,3
+1811,SMK / MAK / Sederajat,39,Teknika,tidak ada,tidak ada,f,Menikah,0
+1812,SMK / MAK / Sederajat,30,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,0
+1813,SLTA / MA / Sederajat,39,IPS,tidak ada,tidak ada,f,Menikah,3
+1814,SMK / MAK / Sederajat,20,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+1815,SMK / MAK / Sederajat,38,Manajemen Perhotelan,"{""TENAGA PENGOLAHAN DAN KERAJINAN YANG BERHUBUNGAN DENGAN ITU""}",tidak ada,f,Menikah,1
+1816,Strata I (S1),27,Ilmu Administrasi Publik,tidak ada,tidak ada,f,Belum menikah,0
+1817,Strata I (S1),26,Statistika,{Kesehatan},tidak ada,f,Belum menikah,0
+1818,Strata I (S1),30,Ilmu Administrasi Publik,tidak ada,tidak ada,f,Belum menikah,0
+1819,Strata I (S1),25,Akuntansi,{Akunting},ada,f,Belum menikah,0
+1820,Strata I (S1),28,Manajemen,"{""Information Technology (IT)""}",ada,f,Belum menikah,0
+1821,SMK / MAK / Sederajat,35,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,2
+1822,SMK / MAK / Sederajat,22,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+1823,SMK / MAK / Sederajat,19,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+1824,SMK / MAK / Sederajat,22,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+1825,Strata I (S1),25,Agroteknologi,tidak ada,tidak ada,f,Belum menikah,0
+1826,SLTA / MA / Sederajat,22,Matematika,tidak ada,tidak ada,f,Belum menikah,0
+1827,Strata I (S1),29,Manajemen,tidak ada,tidak ada,f,Menikah,1
+1828,Strata I (S1),25,Manajemen,tidak ada,ada,f,Belum menikah,0
+1829,SMK / MAK / Sederajat,32,Listrik,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+1830,Strata I (S1),25,Pendidikan Kepelatihan Olahraga,{Kesehatan},ada,f,Belum menikah,0
+1831,SLTA / MA / Sederajat,39,Ilmu Komunikasi,tidak ada,tidak ada,f,Menikah,3
+1832,SLTA / MA / Sederajat,37,IPS,tidak ada,tidak ada,f,Menikah,1
+1833,Strata I (S1),42,Teknik Informatika,tidak ada,tidak ada,f,Menikah,1
+1834,SMK / MAK / Sederajat,23,Akuntansi,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1835,SMK / MAK / Sederajat,37,Tata Boga,tidak ada,tidak ada,f,Menikah,2
+1836,SMK / MAK / Sederajat,22,Teknologi Industri Pertanian,tidak ada,tidak ada,f,Belum menikah,0
+1837,Strata II (Magister/S2),37,Hukum Keluarga (Ahwal Syakhshiyah),tidak ada,tidak ada,f,Menikah,2
+1838,Strata I (S1),26,Ilmu Hukum,tidak ada,ada,f,Belum menikah,0
+1839,SMK / MAK / Sederajat,21,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1840,SLTA / MA / Sederajat,33,Umum,tidak ada,tidak ada,f,Menikah,1
+1841,SMK / MAK / Sederajat,24,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+1842,Strata I (S1),25,Hukum Ekonomi Syariah,tidak ada,tidak ada,f,Belum menikah,0
+1843,Strata I (S1),27,Pendidikan Guru Madrasah Ibtidaiyah,tidak ada,tidak ada,f,Belum menikah,0
+1844,Strata I (S1),25,Ilmu Hukum,tidak ada,ada,f,Belum menikah,0
+1845,Strata I (S1),25,Teknik Kimia,tidak ada,ada,f,Belum menikah,0
+1846,Strata I (S1),25,Ilmu Hukum,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1847,SMK / MAK / Sederajat,21,Tata Busana,tidak ada,tidak ada,f,Belum menikah,0
+1848,SMK / MAK / Sederajat,24,Komputer Multimedia,tidak ada,tidak ada,f,Belum menikah,0
+1849,Strata I (S1),24,Agribisnis,tidak ada,tidak ada,f,Belum menikah,0
+1850,Strata I (S1),32,Sosial Ekonomi Pertanian,tidak ada,tidak ada,f,Menikah,2
+1851,SLTA / MA / Sederajat,28,IPS,"{""Lain - Lain""}",tidak ada,f,Menikah,2
+1852,Strata I (S1),25,Manajemen,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1853,Strata I (S1),27,Teknik Elektro,"{""PEKERJA KASAR, TENAGA KEBERSIHAN, DAN TENAGA YANG BERHUBUNGAN DENGAN ITU""}",ada,f,Belum menikah,0
+1854,Strata I (S1),25,Teknik Informatika,tidak ada,tidak ada,f,Belum menikah,0
+1855,SMK / MAK / Sederajat,30,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1856,Strata I (S1),30,Teknik Informatika,tidak ada,tidak ada,f,Menikah,1
+1857,SLTA / MA / Sederajat,26,IPA,tidak ada,tidak ada,f,Menikah,0
+1858,SMK / MAK / Sederajat,23,Teknik Mesin,tidak ada,ada,f,Belum menikah,0
+1859,Strata I (S1),30,Teknik Mesin,{Pendidikan},tidak ada,f,Menikah,2
+1860,SLTA / MA / Sederajat,33,Umum,tidak ada,tidak ada,f,Menikah,1
+1861,SMK / MAK / Sederajat,25,Komputer Multimedia,"{""TENAGA PROFESIONAL""}",tidak ada,f,Belum menikah,0
+1862,Strata I (S1),26,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1863,Diploma III,33,Administrasi,tidak ada,tidak ada,f,Menikah,1
+1864,Strata I (S1),28,Manajemen,"{""TENAGA USAHA PERTANIAN DAN PETERNAKAN""}",ada,f,Menikah,0
+1865,SMK / MAK / Sederajat,23,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+1866,SMK / MAK / Sederajat,20,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+1867,SLTA / MA / Sederajat,28,Teknik Komputer,{Marketing},ada,f,Belum menikah,0
+1868,Diploma IV,32,Teknik Mesin,{Teknik},tidak ada,f,Menikah,1
+1869,Strata I (S1),26,Teknik Mesin,{Teknik},tidak ada,f,Belum menikah,0
+1870,Strata I (S1),28,Teknik Industri,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1871,SLTA / MA / Sederajat,21,IPS,tidak ada,tidak ada,f,Belum menikah,0
+1872,Strata I (S1),24,Ilmu Keperawatan,tidak ada,tidak ada,f,Belum menikah,0
+1873,Strata I (S1),29,Matematika,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+1874,SLTA / MA / Sederajat,24,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1875,Diploma III,25,Keperawatan,tidak ada,tidak ada,f,Belum menikah,0
+1876,SLTA / MA / Sederajat,38,Sosial Ekonomi Pertanian,tidak ada,tidak ada,f,Menikah,1
+1877,Strata I (S1),27,Teknik Informatika,tidak ada,tidak ada,f,Belum menikah,0
+1878,Strata I (S1),33,Teknik Informatika,tidak ada,tidak ada,f,Menikah,0
+1879,Strata I (S1),25,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1880,Strata I (S1),25,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1881,Diploma IV,24,Akuntansi,tidak ada,ada,f,Belum menikah,0
+1882,SLTA / MA / Sederajat,20,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1883,SMK / MAK / Sederajat,18,Teknik Sipil,tidak ada,tidak ada,f,Belum menikah,0
+1884,Strata I (S1),27,Manajemen,{Akunting},tidak ada,f,Belum menikah,0
+1885,Strata I (S1),31,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1886,Strata I (S1),36,Teknologi Pendidikan,tidak ada,tidak ada,f,Menikah,1
+1887,SMK / MAK / Sederajat,30,Manajemen,tidak ada,tidak ada,f,Menikah,2
+1888,Strata I (S1),29,Ilmu Hukum,tidak ada,tidak ada,f,Menikah,0
+1889,Strata I (S1),30,Akuntansi,tidak ada,ada,f,Belum menikah,0
+1890,Strata I (S1),26,PSKGJ Pendidikan Guru Sekolah Dasar(PGSD),tidak ada,tidak ada,f,Belum menikah,0
+1891,SLTA / MA / Sederajat,24,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1892,SMK / MAK / Sederajat,19,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+1893,SLTA / MA / Sederajat,36,IPS,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Menikah,0
+1894,SMK / MAK / Sederajat,19,Teknik Otomotif,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1895,SMK / MAK / Sederajat,30,Manajemen Pemasaran,{Marketing},ada,f,Menikah,1
+1896,SMK / MAK / Sederajat,34,Komputer Multimedia,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",ada,f,Menikah,2
+1897,SMK / MAK / Sederajat,28,Tata Boga,tidak ada,tidak ada,f,Menikah,1
+1898,Strata I (S1),25,Perikanan,tidak ada,tidak ada,f,Belum menikah,0
+1899,SMK / MAK / Sederajat,21,Tata Boga,tidak ada,tidak ada,f,Belum menikah,0
+1900,Strata I (S1),27,Ekonomi Pembangunan,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+1901,SMK / MAK / Sederajat,24,IPS,"{""Perbankan / Keuangan""}",tidak ada,f,Belum menikah,0
+1902,Strata I (S1),31,Farmasi,"{""Lain - Lain""}",tidak ada,f,Menikah,0
+1903,SLTA / MA / Sederajat,27,IPS,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+1904,Diploma III,30,Teknik Elektro,{Kesehatan},ada,f,Menikah,1
+1905,Strata I (S1),30,Teknik Informatika,{Kesehatan},tidak ada,f,Belum menikah,0
+1906,SMK / MAK / Sederajat,23,Teknik Elektro,tidak ada,tidak ada,f,Menikah,1
+1907,Strata I (S1),27,Akuntansi,tidak ada,tidak ada,f,Menikah,0
+1908,SMK / MAK / Sederajat,28,Teknik Elektro,tidak ada,tidak ada,f,Belum menikah,0
+1909,SMK / MAK / Sederajat,30,Teknik Mesin,tidak ada,tidak ada,f,Menikah,1
+1910,SLTA / MA / Sederajat,29,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1911,Strata I (S1),28,Ilmu Hukum,"{""Lain - Lain""}",ada,f,Menikah,0
+1912,Strata I (S1),26,Ilmu Perpustakaan,tidak ada,ada,f,Belum menikah,0
+1913,SMK / MAK / Sederajat,40,Teknik Sipil,tidak ada,tidak ada,f,Menikah,1
+1914,SMK / MAK / Sederajat,23,Listrik,tidak ada,tidak ada,f,Belum menikah,0
+1915,SMK / MAK / Sederajat,35,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,2
+1916,SMK / MAK / Sederajat,21,Kecantikan Rambut,tidak ada,tidak ada,f,Belum menikah,0
+1917,Strata I (S1),28,Pendidikan Bahasa Dan Sastra Indonesia,tidak ada,ada,f,Belum menikah,0
+1918,SMK / MAK / Sederajat,25,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+1919,Strata I (S1),34,Pendidikan Ekonomi,tidak ada,tidak ada,f,Menikah,1
+1920,Strata I (S1),27,Ilmu Filsafat,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1921,SMK / MAK / Sederajat,21,Perhotelan,tidak ada,tidak ada,f,Belum menikah,0
+1922,Diploma I,33,Komputerisasi Akuntansi,tidak ada,tidak ada,f,Menikah,2
+1923,SMK / MAK / Sederajat,30,Manajemen,"{""Lain - Lain""}",ada,f,Menikah,1
+1924,SLTA / MA / Sederajat,22,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+1925,SMK / MAK / Sederajat,30,IPS,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+1926,SMK / MAK / Sederajat,24,Administrasi,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1927,SLTA / MA / Sederajat,31,IPA,tidak ada,tidak ada,f,Menikah,1
+1928,Diploma III,26,Komputerisasi Akuntansi,{Marketing},ada,f,Belum menikah,0
+1929,Strata I (S1),28,Ilmu Perpustakaan,tidak ada,tidak ada,f,Menikah,0
+1930,Strata I (S1),45,Ilmu Hukum,tidak ada,ada,f,Menikah,2
+1931,Strata I (S1),24,Sistem Informasi,tidak ada,tidak ada,f,Belum menikah,0
+1932,Strata I (S1),27,Manajemen Pemasaran,tidak ada,tidak ada,f,Belum menikah,0
+1933,Strata I (S1),26,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1934,SMK / MAK / Sederajat,19,Kepariwisataan,tidak ada,tidak ada,f,Belum menikah,0
+1935,Strata I (S1),29,Perikanan,"{""Perbankan / Keuangan""}",ada,f,Menikah,1
+1936,Diploma IV,25,Teknik Listrik Industri,tidak ada,tidak ada,f,Belum menikah,0
+1937,SMK / MAK / Sederajat,41,Teknik Mesin,tidak ada,tidak ada,f,Menikah,2
+1938,Strata I (S1),23,Teknik Mesin,tidak ada,ada,f,Belum menikah,0
+1939,SMK / MAK / Sederajat,23,Teknik Elektronika,tidak ada,tidak ada,f,Belum menikah,0
+1940,Diploma I,26,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1941,SMK / MAK / Sederajat,21,Administrasi Perkantoran,tidak ada,tidak ada,f,Belum menikah,0
+1942,Strata I (S1),30,Ilmu Administrasi Publik,tidak ada,tidak ada,f,Menikah,0
+1943,SMK / MAK / Sederajat,26,Listrik,{Teknik},tidak ada,f,Belum menikah,0
+1944,Strata I (S1),42,Teknik Industri,tidak ada,tidak ada,f,Menikah,1
+1945,SMK / MAK / Sederajat,34,Manajemen,tidak ada,tidak ada,f,Menikah,2
+1946,Strata I (S1),30,Psikologi,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1947,SMK / MAK / Sederajat,28,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+1948,Strata I (S1),35,Teknik Informatika,tidak ada,tidak ada,f,Menikah,1
+1949,Diploma I,33,Desain Komunikasi Visual,tidak ada,tidak ada,f,Belum menikah,0
+1950,Strata I (S1),33,Teknik Informatika,"{""Information Technology (IT)""}",tidak ada,f,Menikah,1
+1951,Strata I (S1),47,Manajemen,tidak ada,tidak ada,t,Menikah,0
+1952,Strata I (S1),26,Manajemen,"{""TENAGA TATA USAHA""}",tidak ada,f,Belum menikah,0
+1953,Strata I (S1),30,Hukum Ekonomi Syariah,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1954,Strata I (S1),43,Teknik Elektronika,{Marketing},tidak ada,f,Menikah,2
+1955,Strata I (S1),31,Keuangan Dan Perbankan,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+1956,Strata I (S1),26,Manajemen Pendidikan,"{""Lain - Lain""}",ada,f,Menikah,0
+1957,SMK / MAK / Sederajat,49,Teknik Mesin,tidak ada,tidak ada,f,Menikah,0
+1958,SLTA / MA / Sederajat,27,IPS,tidak ada,tidak ada,f,Belum menikah,0
+1959,SLTA / MA / Sederajat,24,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1960,Strata I (S1),26,Ekonomi Pembangunan,tidak ada,tidak ada,f,Menikah,1
+1961,Strata I (S1),27,Biologi,tidak ada,tidak ada,f,Menikah,0
+1962,Strata I (S1),26,Administrasi,{Akunting},tidak ada,f,Belum menikah,0
+1963,SMK / MAK / Sederajat,40,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,2
+1964,Strata I (S1),33,Ilmu Teknik Sipil,{Teknik},ada,f,Menikah,1
+1965,SLTA / MA / Sederajat,28,Komputerisasi Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+1966,Strata I (S1),29,Pendidikan Ekonomi,tidak ada,tidak ada,f,Menikah,0
+1967,SMK / MAK / Sederajat,21,Administrasi Perkantoran,tidak ada,tidak ada,f,Belum menikah,0
+1968,SLTA / MA / Sederajat,24,IPS,tidak ada,ada,f,Belum menikah,0
+1969,Strata I (S1),34,Teknik Informatika,{Kesehatan},tidak ada,f,Menikah,0
+1970,Strata I (S1),25,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1971,SMK / MAK / Sederajat,20,Tata Boga,tidak ada,tidak ada,f,Belum menikah,0
+1972,Strata I (S1),32,Farmasi,{Kesehatan},tidak ada,f,Menikah,1
+1973,SLTA / MA / Sederajat,29,Manajemen,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1974,Strata I (S1),25,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+1975,Strata I (S1),24,Manajemen,{Akunting},ada,f,Belum menikah,0
+1976,SMK / MAK / Sederajat,25,Teknik Listrik Industri,tidak ada,tidak ada,f,Belum menikah,0
+1977,SLTA / MA / Sederajat,21,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+1978,SMK / MAK / Sederajat,36,Listrik,tidak ada,tidak ada,f,Menikah,2
+1979,SMK / MAK / Sederajat,37,Teknik Otomotif,"{""TEKNISI DAN ASISTEN TENAGA PROFESIONAL""}",tidak ada,f,Menikah,2
+1980,SLTA / MA / Sederajat,23,IPA,tidak ada,tidak ada,f,Belum menikah,0
+1981,SMK / MAK / Sederajat,27,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+1982,Strata I (S1),30,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+1983,Strata I (S1),26,Psikologi,tidak ada,tidak ada,f,Belum menikah,0
+1984,Diploma IV,27,Teknik Lingkungan,tidak ada,tidak ada,f,Belum menikah,0
+1985,Strata I (S1),24,Farmasi,tidak ada,tidak ada,f,Belum menikah,0
+1986,Strata I (S1),39,Psikologi,tidak ada,tidak ada,f,Belum menikah,0
+1987,SLTA / MA / Sederajat,29,Komputer Multimedia,tidak ada,tidak ada,f,Belum menikah,0
+1988,SMK / MAK / Sederajat,20,Teknik Komputer,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1989,Strata I (S1),43,Teknik Elektro,tidak ada,tidak ada,f,Menikah,2
+1990,Strata I (S1),33,Teknik Elektro,"{""Information Technology (IT)""}",ada,f,Menikah,1
+1991,SMK / MAK / Sederajat,25,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+1992,SMK / MAK / Sederajat,21,Teknik Elektronika,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1993,SMK / MAK / Sederajat,24,Desain Produk,tidak ada,tidak ada,f,Belum menikah,0
+1994,SMK / MAK / Sederajat,23,Tata Boga,tidak ada,tidak ada,f,Belum menikah,0
+1995,SMK / MAK / Sederajat,21,Administrasi Perkantoran,"{""Lain - Lain""}",ada,f,Belum menikah,0
+1996,SLTP / MTs / Sederajat,47,Manajemen,"{""PEKERJA KASAR, TENAGA KEBERSIHAN, DAN TENAGA YANG BERHUBUNGAN DENGAN ITU""}",ada,f,Menikah,2
+1997,Strata I (S1),25,Psikologi,tidak ada,tidak ada,f,Belum menikah,0
+1998,SMK / MAK / Sederajat,21,Teknik Komputer,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+1999,SMK / MAK / Sederajat,23,Teknik Elektro,"{""Lain - Lain""}",ada,f,Belum menikah,0
+2000,SMK / MAK / Sederajat,35,Teknik Otomotif,tidak ada,tidak ada,f,Menikah,3
+2001,SMK / MAK / Sederajat,23,Komputer Grafis dan Cetak,tidak ada,tidak ada,f,Belum menikah,0
+2002,Strata I (S1),33,Perencanaan Wilayah Dan Kota,{Teknik},tidak ada,f,Menikah,1
+2003,Strata I (S1),31,Manajemen,{Akunting},tidak ada,f,Menikah,1
+2004,Strata I (S1),35,Pendidikan Pancasila Dan Kewarganegaraan,tidak ada,tidak ada,t,Menikah,1
+2005,Strata I (S1),29,Akuntansi,"{""Perbankan / Keuangan""}",ada,f,Belum menikah,0
+2006,SLTA / MA / Sederajat,32,Matematika,tidak ada,tidak ada,f,Menikah,1
+2007,SMK / MAK / Sederajat,24,Akuntansi,"{""Information Technology (IT)""}",ada,f,Belum menikah,0
+2008,Strata I (S1),27,Sosiologi,tidak ada,tidak ada,f,Belum menikah,0
+2009,Strata I (S1),27,Pendidikan Bahasa Dan Sastra Indonesia,tidak ada,tidak ada,f,Menikah,2
+2010,SMK / MAK / Sederajat,19,Televisi dan Film,tidak ada,tidak ada,f,Belum menikah,0
+2011,SMK / MAK / Sederajat,24,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+2012,SMK / MAK / Sederajat,33,Teknik Mesin,tidak ada,tidak ada,f,Menikah,1
+2013,Strata I (S1),28,Teknik Kimia,tidak ada,tidak ada,f,Menikah,1
+2014,SMK / MAK / Sederajat,21,Administrasi Perkantoran,tidak ada,tidak ada,f,Belum menikah,0
+2015,SMK / MAK / Sederajat,20,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+2016,SMK / MAK / Sederajat,21,Administrasi Perkantoran,tidak ada,tidak ada,f,Belum menikah,0
+2017,Strata I (S1),25,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+2018,Strata I (S1),29,Fisika,{Pendidikan},tidak ada,f,Menikah,0
+2019,Diploma III,37,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+2020,SMK / MAK / Sederajat,21,Teknik Elektro,tidak ada,tidak ada,f,Belum menikah,0
+2021,Strata I (S1),24,PSKGJ Pendidikan Guru Sekolah Dasar(PGSD),tidak ada,tidak ada,f,Belum menikah,0
+2022,Strata I (S1),25,Psikologi,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+2023,Strata I (S1),41,Administrasi Niaga,{Marketing},tidak ada,f,Janda,1
+2024,SLTA / MA / Sederajat,21,IPS,tidak ada,tidak ada,f,Belum menikah,0
+2025,SLTA / MA / Sederajat,34,IPS,tidak ada,tidak ada,f,Menikah,1
+2026,SMK / MAK / Sederajat,25,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+2027,SLTP / MTs / Sederajat,34,Pendidikan Islam,tidak ada,tidak ada,t,Menikah,2
+2028,Strata I (S1),24,IPS,tidak ada,tidak ada,f,Belum menikah,0
+2029,SLTA / MA / Sederajat,20,IPS,tidak ada,tidak ada,f,Belum menikah,0
+2030,Strata I (S1),23,Manajemen,tidak ada,tidak ada,f,Menikah,0
+2031,SLTA / MA / Sederajat,26,IPS,{Manager},ada,f,Belum menikah,0
+2032,SMK / MAK / Sederajat,22,Farmasi,tidak ada,tidak ada,f,Belum menikah,0
+2033,Strata I (S1),37,Psikologi,tidak ada,tidak ada,f,Menikah,3
+2034,SMK / MAK / Sederajat,35,Teknik Mesin,{Teknik},tidak ada,t,Menikah,1
+2035,SMK / MAK / Sederajat,22,Teknik Komputer,"{""Information Technology (IT)""}",ada,f,Belum menikah,0
+2036,Strata I (S1),31,Akuntansi,tidak ada,tidak ada,f,Menikah,0
+2037,SMK / MAK / Sederajat,19,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+2038,Strata I (S1),27,Teknologi Industri Pertanian,tidak ada,ada,f,Belum menikah,0
+2039,SMK / MAK / Sederajat,29,Arsitektur,tidak ada,tidak ada,f,Menikah,1
+2040,Strata I (S1),24,Manajemen,{Marketing},ada,t,Belum menikah,0
+2041,SMK / MAK / Sederajat,21,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+2042,Strata I (S1),30,Ilmu Komunikasi,tidak ada,tidak ada,f,Menikah,0
+2043,Strata II (Magister/S2),32,Manajemen Pendidikan,tidak ada,tidak ada,f,Menikah,1
+2044,Strata I (S1),31,Psikologi,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+2045,SLTA / MA / Sederajat,22,IPS,tidak ada,tidak ada,f,Belum menikah,0
+2046,SLTA / MA / Sederajat,33,Teknik Elektro,"{""TEKNISI DAN ASISTEN TENAGA PROFESIONAL""}",tidak ada,f,Menikah,2
+2047,SMK / MAK / Sederajat,20,Sistem Komputer,tidak ada,tidak ada,f,Belum menikah,0
+2048,Strata I (S1),29,Teknik Informatika,"{""TENAGA PROFESIONAL""}",ada,f,Menikah,0
+2049,SMK / MAK / Sederajat,29,Teknik Komputer,tidak ada,tidak ada,f,Menikah,0
+2050,Strata I (S1),27,Ekonomi Pembangunan,{Pendidikan},ada,f,Belum menikah,0
+2051,Strata I (S1),24,Ilmu Politik,tidak ada,ada,f,Belum menikah,0
+2052,SMK / MAK / Sederajat,21,Akuntansi,tidak ada,ada,f,Belum menikah,0
+2053,Strata I (S1),23,Agribisnis,tidak ada,tidak ada,f,Belum menikah,0
+2054,Strata I (S1),31,Perikanan,tidak ada,ada,f,Menikah,1
+2055,SLTA / MA / Sederajat,20,IPS,"{""TENAGA PROFESIONAL""}",ada,f,Belum menikah,0
+2056,SMK / MAK / Sederajat,23,Teknik Komputer,"{""Lain - Lain""}",tidak ada,f,Belum menikah,0
+2057,Strata I (S1),28,Manajemen,tidak ada,tidak ada,f,Menikah,0
+2058,Strata I (S1),29,Teknik Informatika,tidak ada,tidak ada,f,Menikah,0
+2059,SMK / MAK / Sederajat,22,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+2060,SMK / MAK / Sederajat,21,Konstruksi Batu dan Beton,tidak ada,tidak ada,f,Belum menikah,0
+2061,Strata I (S1),25,Manajemen,tidak ada,ada,f,Belum menikah,0
+2062,SMK / MAK / Sederajat,25,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+2063,SLTA / MA / Sederajat,31,Manajemen,tidak ada,tidak ada,f,Belum menikah,0
+2064,SMK / MAK / Sederajat,36,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+2065,Strata I (S1),25,Pendidikan Sosiologi,tidak ada,tidak ada,f,Belum menikah,0
+2066,SMK / MAK / Sederajat,19,Tata Boga,tidak ada,ada,f,Belum menikah,0
+2067,SLTA / MA / Sederajat,23,IPS,tidak ada,tidak ada,f,Belum menikah,0
+2068,SMK / MAK / Sederajat,24,Perhotelan,tidak ada,tidak ada,f,Belum menikah,0
+2069,Strata I (S1),28,Sastra Inggris,{Akunting},ada,f,Belum menikah,0
+2070,Strata I (S1),24,Agroteknologi,tidak ada,ada,f,Belum menikah,0
+2071,SLTA / MA / Sederajat,25,IPA,{Marketing},tidak ada,f,Belum menikah,0
+2072,SLTA / MA / Sederajat,25,IPA,"{""TENAGA USAHA JASA DAN TENAGA PENJUALAN DI TOKO DAN PASAR""}",tidak ada,f,Belum menikah,0
+2073,SLTA / MA / Sederajat,33,Umum,tidak ada,tidak ada,f,Menikah,1
+2074,SMK / MAK / Sederajat,32,Teknik Komputer,"{""OPERATOR DAN PERAKIT MESIN""}",tidak ada,f,Menikah,1
+2075,SMK / MAK / Sederajat,21,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
+2076,Strata I (S1),30,Ilmu Administrasi Publik,tidak ada,tidak ada,f,Belum menikah,0
+2077,SMK / MAK / Sederajat,23,Teknik Elektro,tidak ada,tidak ada,f,Belum menikah,0
+2078,Strata I (S1),29,Manajemen,{Marketing},ada,f,Menikah,0
+2079,SLTA / MA / Sederajat,19,IPA,tidak ada,tidak ada,f,Belum menikah,0
+2080,SMK / MAK / Sederajat,25,Komputer Multimedia,tidak ada,tidak ada,f,Menikah,1
+2081,SMK / MAK / Sederajat,29,Teknik Komputer,"{""Lain - Lain""}",tidak ada,f,Menikah,1
+2082,Strata I (S1),28,Matematika,tidak ada,tidak ada,f,Belum menikah,0
+2083,Strata I (S1),27,Akuntansi,tidak ada,tidak ada,f,Belum menikah,0
+2084,Strata I (S1),33,Teknik Informatika,tidak ada,tidak ada,f,Menikah,2
+2085,Strata I (S1),30,Psikologi,"{""TENAGA PROFESIONAL""}",tidak ada,f,Menikah,0
+2086,Strata I (S1),25,Teknik Kimia,tidak ada,tidak ada,f,Belum menikah,0
+2087,SLTA / MA / Sederajat,37,IPA,tidak ada,tidak ada,f,Menikah,1
+2088,Strata I (S1),38,Manajemen,tidak ada,tidak ada,f,Menikah,1
+2089,Strata I (S1),38,Manajemen,tidak ada,tidak ada,f,Menikah,2
+2090,Strata II (Magister/S2),38,Manajemen,"{""Information Technology (IT)""}",tidak ada,f,Menikah,1
+2091,SMK / MAK / Sederajat,28,Listrik,tidak ada,tidak ada,f,Belum menikah,0
+2092,Strata I (S1),24,Manajemen Pariwisata,tidak ada,tidak ada,f,Belum menikah,0
+2093,SMK / MAK / Sederajat,59,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+2094,Diploma I,21,Teknik Otomotif,tidak ada,tidak ada,f,Belum menikah,0
+2095,Strata I (S1),24,Ilmu Hukum,tidak ada,ada,f,Belum menikah,0
+2096,Strata I (S1),24,Teknik Mesin,tidak ada,tidak ada,f,Belum menikah,0
+2097,SLTA / MA / Sederajat,20,IPA,tidak ada,tidak ada,f,Belum menikah,0
+2098,SLTA / MA / Sederajat,21,IPA,tidak ada,tidak ada,f,Belum menikah,0
+2099,Strata I (S1),32,Ilmu Hukum,tidak ada,tidak ada,f,Menikah,1
+2100,SMK / MAK / Sederajat,21,Teknik Komputer,tidak ada,tidak ada,f,Belum menikah,0
